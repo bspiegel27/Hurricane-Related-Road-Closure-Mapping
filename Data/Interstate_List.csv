@@ -1,0 +1,537 @@
+State,Interstate Highway
+Alabama,I-10
+Alabama,I-20
+Alabama,I-22
+Alabama,I-59
+Alabama,I-65
+Alabama,I-85
+Alabama,I-165
+Alabama,I-359
+Alabama,I-459
+Alabama,I-565
+Alabama,I-685
+Alabama,I-759
+Alaska,A-1
+Alaska,A-2
+Alaska,A-3
+Alaska,A-4
+Arizona,I-8
+Arizona,I-10
+Arizona,I-15
+Arizona,I-17
+Arizona,I-19
+Arizona,I-40
+Arkansas,I-30
+Arkansas,I-40
+Arkansas,I-49
+Arkansas,I-55
+Arkansas,I-430
+Arkansas,I-440
+Arkansas,I-530
+Arkansas,I-540
+Arkansas,I-555
+Arkansas,I-630
+California,I-5
+California,I-8
+California,I-10
+California,I-15
+California,I-40
+California,I-80
+California,I-105
+California,I-110
+California,I-205
+California,I-210
+California,I-215
+California,I-238
+California,I-280
+California,I-305
+California,I-380
+California,I-405
+California,I-505
+California,I-580
+California,I-605
+California,I-680
+California,I-710
+California,I-780
+California,I-805
+California,I-880
+California,I-980
+Colorado,I-25
+Colorado,I-70
+Colorado,I-76
+Colorado,I-225
+Colorado,I-270
+Connecticut,I-84
+Connecticut,I-91
+Connecticut,I-95
+Connecticut,I-291
+Connecticut,I-384
+Connecticut,I-395
+Connecticut,I-684
+Connecticut,I-691
+Delaware,I-95
+Delaware,I-295
+Delaware,I-495
+District of Columbia,I-66
+District of Columbia,I-95
+District of Columbia,I-295
+District of Columbia,I-395
+District of Columbia,I-695
+Florida,I-4
+Florida,I-10
+Florida,I-75
+Florida,I-95
+Florida,I-110
+Florida,I-175
+Florida,I-195
+Florida,I-275
+Florida,I-295
+Florida,I-375
+Florida,I-395
+Florida,I-595
+Georgia,I-16
+Georgia,I-20
+Georgia,I-24
+Georgia,I-59
+Georgia,I-75
+Georgia,I-85
+Georgia,I-95
+Georgia,I-185
+Georgia,I-285
+Georgia,I-475
+Georgia,I-516
+Georgia,I-520
+Georgia,I-575
+Georgia,I-675
+Georgia,I-985
+Hawaii,H-1
+Hawaii,H-2
+Hawaii,H-3
+Hawaii,H-201
+Idaho,I-15
+Idaho,I-84
+Idaho,I-86
+Idaho,I-90
+Idaho,I-184
+Illinois,I-24
+Illinois,I-39
+Illinois,I-41
+Illinois,I-55
+Illinois,I-57
+Illinois,I-64
+Illinois,I-70
+Illinois,I-72
+Illinois,I-74
+Illinois,I-80
+Illinois,I-88
+Illinois,I-90
+Illinois,I-94
+Illinois,I-155
+Illinois,I-172
+Illinois,I-180
+Illinois,I-190
+Illinois,I-255
+Illinois,I-270
+Illinois,I-280
+Illinois,I-290
+Illinois,I-294
+Illinois,I-355
+Illinois,I-474
+Indiana,I-64
+Indiana,I-65
+Indiana,I-69
+Indiana,I-70
+Indiana,I-74
+Indiana,I-80
+Indiana,I-90
+Indiana,I-94
+Indiana,I-164
+Indiana,I-265
+Indiana,I-275
+Indiana,I-465
+Indiana,I-469
+Indiana,I-865
+Iowa,I-29
+Iowa,I-35
+Iowa,I-74
+Iowa,I-80
+Iowa,I-129
+Iowa,I-235
+Iowa,I-280
+Iowa,I-380
+Iowa,I-480
+Iowa,I-680
+Kansas,I-35
+Kansas,I-70
+Kansas,I-135
+Kansas,I-235
+Kansas,I-335
+Kansas,I-435
+Kansas,I-470
+Kansas,I-635
+Kansas,I-670
+Kentucky,I-24
+Kentucky,I-64
+Kentucky,I-65
+Kentucky,I-69
+Kentucky,I-71
+Kentucky,I-75
+Kentucky,I-165
+Kentucky,I-264
+Kentucky,I-265
+Kentucky,I-275
+Kentucky,I-471
+Louisiana,I-10
+Louisiana,I-12
+Louisiana,I-20
+Louisiana,I-49
+Louisiana,I-55
+Louisiana,I-59
+Louisiana,I-110
+Louisiana,I-210
+Louisiana,I-220
+Louisiana,I-310
+Louisiana,I-510
+Louisiana,I-610
+Louisiana,I-910
+Maine,I-95
+Maine,I-195
+Maine,I-295
+Maine,I-395
+Maine,I-495
+Maryland,I-68
+Maryland,I-70
+Maryland,I-81
+Maryland,I-83
+Maryland,I-95
+Maryland,I-97
+Maryland,I-195
+Maryland,I-270
+Maryland,I-295
+Maryland,I-370
+Maryland,I-395
+Maryland,I-495
+Maryland,I-595
+Maryland,I-695
+Maryland,I-795
+Maryland,I-895
+Massachusetts,I-84
+Massachusetts,I-90
+Massachusetts,I-91
+Massachusetts,I-93
+Massachusetts,I-95
+Massachusetts,I-190
+Massachusetts,I-195
+Massachusetts,I-290
+Massachusetts,I-291
+Massachusetts,I-295
+Massachusetts,I-391
+Massachusetts,I-395
+Massachusetts,I-495
+Michigan,I-69
+Michigan,I-75
+Michigan,I-94
+Michigan,I-96
+Michigan,I-194
+Michigan,I-196
+Michigan,I-275
+Michigan,I-296
+Michigan,I-375
+Michigan,I-475
+Michigan,I-496
+Michigan,I-675
+Michigan,I-696
+Minnesota,I-35
+Minnesota,I-35E
+Minnesota,I-35W
+Minnesota,I-90
+Minnesota,I-94
+Minnesota,I-394
+Minnesota,I-494
+Minnesota,I-535
+Minnesota,I-694
+Mississippi,I-10
+Mississippi,I-20
+Mississippi,I-22
+Mississippi,I-55
+Mississippi,I-59
+Mississippi,I-69
+Mississippi,I-110
+Mississippi,I-220
+Mississippi,I-269
+Missouri,I-29
+Missouri,I-35
+Missouri,I-44
+Missouri,I-49
+Missouri,I-55
+Missouri,I-57
+Missouri,I-64
+Missouri,I-70
+Missouri,I-72
+Missouri,I-155
+Missouri,I-170
+Missouri,I-229
+Missouri,I-255
+Missouri,I-270
+Missouri,I-435
+Missouri,I-470
+Missouri,I-635
+Missouri,I-670
+Montana,I-15
+Montana,I-90
+Montana,I-94
+Montana,I-115
+Montana,I-315
+Nebraska,I-76
+Nebraska,I-80
+Nebraska,I-129
+Nebraska,I-180
+Nebraska,I-480
+Nebraska,I-680
+Nevada,I-11
+Nevada,I-15
+Nevada,I-80
+Nevada,I-215
+Nevada,I-515
+Nevada,I-580
+New Hampshire,I-89
+New Hampshire,I-93
+New Hampshire,I-95
+New Hampshire,I-293
+New Hampshire,I-393
+New Jersey,I-76
+New Jersey,I-78
+New Jersey,I-80
+New Jersey,I-95
+New Jersey,I-195
+New Jersey,I-278
+New Jersey,I-280
+New Jersey,I-287
+New Jersey,I-295
+New Jersey,I-676
+New Mexico,I-10
+New Mexico,I-25
+New Mexico,I-40
+New York,I-78
+New York,I-81
+New York,I-84
+New York,I-86
+New York,I-87
+New York,I-88
+New York,I-90
+New York,I-95
+New York,I-99
+New York,I-190
+New York,I-278
+New York,I-287
+New York,I-290
+New York,I-295
+New York,I-390
+New York,I-478
+New York,I-481
+New York,I-490
+New York,I-495
+New York,I-587
+New York,I-590
+New York,I-678
+New York,I-684
+New York,I-690
+New York,I-695
+New York,I-781
+New York,I-787
+New York,I-790
+New York,I-878
+New York,I-890
+New York,I-990
+North Carolina,I-26
+North Carolina,I-40
+North Carolina,I-73
+North Carolina,I-74
+North Carolina,I-77
+North Carolina,I-85
+North Carolina,I-87
+North Carolina,I-95
+North Carolina,I-140
+North Carolina,I-240
+North Carolina,I-277
+North Carolina,I-285
+North Carolina,I-295
+North Carolina,I-440
+North Carolina,I-485
+North Carolina,I-540
+North Carolina,I-785
+North Carolina,I-795
+North Carolina,I-840
+North Dakota,I-29
+North Dakota,I-94
+North Dakota,I-194
+Ohio,I-70
+Ohio,I-71
+Ohio,I-74
+Ohio,I-75
+Ohio,I-76
+Ohio,I-77
+Ohio,I-80
+Ohio,I-90
+Ohio,I-270
+Ohio,I-271
+Ohio,I-275
+Ohio,I-277
+Ohio,I-280
+Ohio,I-470
+Ohio,I-471
+Ohio,I-475
+Ohio,I-480
+Ohio,I-490
+Ohio,I-670
+Ohio,I-675
+Ohio,I-680
+Oklahoma,I-35
+Oklahoma,I-40
+Oklahoma,I-44
+Oklahoma,I-235
+Oklahoma,I-240
+Oklahoma,I-244
+Oklahoma,I-444
+Oregon,I-5
+Oregon,I-82
+Oregon,I-84
+Oregon,I-105
+Oregon,I-205
+Oregon,I-405
+Pennsylvania,I-70
+Pennsylvania,I-76
+Pennsylvania,I-78
+Pennsylvania,I-79
+Pennsylvania,I-80
+Pennsylvania,I-81
+Pennsylvania,I-83
+Pennsylvania,I-84
+Pennsylvania,I-86
+Pennsylvania,I-90
+Pennsylvania,I-95
+Pennsylvania,I-99
+Pennsylvania,I-176
+Pennsylvania,I-180
+Pennsylvania,I-276
+Pennsylvania,I-279
+Pennsylvania,I-283
+Pennsylvania,I-376
+Pennsylvania,I-380
+Pennsylvania,I-476
+Pennsylvania,I-579
+Pennsylvania,I-676
+Puerto Rico,PRI-1
+Puerto Rico,PRI-2
+Puerto Rico,PRI-3
+Rhode Island,I-95
+Rhode Island,I-195
+Rhode Island,I-295
+South Carolina,I-20
+South Carolina,I-26
+South Carolina,I-77
+South Carolina,I-85
+South Carolina,I-95
+South Carolina,I-126
+South Carolina,I-185
+South Carolina,I-385
+South Carolina,I-520
+South Carolina,I-526
+South Carolina,I-585
+South Dakota,I-29
+South Dakota,I-90
+South Dakota,I-190
+South Dakota,I-229
+Tennessee,I-24
+Tennessee,I-26
+Tennessee,I-40
+Tennessee,I-55
+Tennessee,I-65
+Tennessee,I-69 
+Tennessee,I-75
+Tennessee,I-81
+Tennessee,I-124
+Tennessee,I-140
+Tennessee,I-155
+Tennessee,I-240
+Tennessee,I-269
+Tennessee,I-275
+Tennessee,I-440
+Tennessee,I-640
+Tennessee,I-840
+Texas,I-2
+Texas,I-10
+Texas,I-14 
+Texas,I-20
+Texas,I-27
+Texas,I-30
+Texas,I-35
+Texas,I-35E
+Texas,I-35W
+Texas,I-37
+Texas,I-40
+Texas,I-44
+Texas,I-45
+Texas,I-69
+Texas,I-69C
+Texas,I-69E
+Texas,I-69W
+Texas,I-110
+Texas,I-169
+Texas,I-345
+Texas,I-369
+Texas,I-410
+Texas,I-610
+Texas,I-635
+Texas,I-820
+Utah,I-15
+Utah,I-70
+Utah,I-80
+Utah,I-84
+Utah,I-215
+Vermont,I-89
+Vermont,I-91
+Vermont,I-93
+Vermont,I-189
+Virginia,I-64
+Virginia,I-66
+Virginia,I-77
+Virginia,I-81
+Virginia,I-85
+Virginia,I-95
+Virginia,I-195
+Virginia,I-264
+Virginia,I-295
+Virginia,I-381
+Virginia,I-395
+Virginia,I-464
+Virginia,I-495
+Virginia,I-564
+Virginia,I-581
+Virginia,I-664
+Washington,I-5
+Washington,I-82
+Washington,I-90
+Washington,I-182
+Washington,I-205
+Washington,I-405
+Washington,I-705
+West Virginia,I-64
+West Virginia,I-68
+West Virginia,I-70
+West Virginia,I-77
+West Virginia,I-79
+West Virginia,I-81
+West Virginia,I-470
+Wisconsin,I-39
+Wisconsin,I-41 
+Wisconsin,I-43
+Wisconsin,I-90
+Wisconsin,I-94
+Wisconsin,I-535
+Wisconsin,I-794
+Wisconsin,I-894
+Wyoming,I-25
+Wyoming,I-80
+Wyoming,I-90
+Wyoming,I-180
