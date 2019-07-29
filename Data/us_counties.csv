@@ -1,4 +1,4 @@
-SNo,County or equivalent,State or district
+﻿SNo,County or equivalent,State or district
 1,Autauga County,Alabama
 2,Baldwin County,Alabama
 3,Barbour County,Alabama
@@ -1801,7 +1801,7 @@ SNo,County or equivalent,State or district
 1800,Colfax County,New Mexico
 1801,Curry County,New Mexico
 1802,De Baca County,New Mexico
-1803,Do�a Ana County,New Mexico
+1803,DoÒa Ana County,New Mexico
 1804,Eddy County,New Mexico
 1805,Grant County,New Mexico
 1806,Guadalupe County,New Mexico
@@ -3142,7 +3142,3 @@ SNo,County or equivalent,State or district
 3141,Uinta County,Wyoming
 3142,Washakie County,Wyoming
 3143,Weston County,Wyoming
-,,
-For other more formats kindly visit www.downloadexcelfiles.com,,
-,,
-Original source : en.wikipedia.org/wiki/List_of_United_States_counties_and_county_equivalents,,
