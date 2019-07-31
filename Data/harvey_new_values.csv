@@ -25,7 +25,7 @@
 23,None,None,0,0,None,None,0,0,None,None,0,0
 24,None,None,0,0,None,None,0,0,None,None,0,0
 25,None,None,0,0,houston county ,14 ,1,1,houston ,14 ,1,1
-26,I-2 ,1 ,1,1,brazos county ,7 ,1,1,None,None,0,0
+26,None,None,0,0,brazos county ,7 ,1,1,None,None,0,0
 27,None,None,0,0,None,None,0,0,None,None,0,0
 28,None,None,0,0,king county ,3 ,1,1,None,None,0,0
 29,None,None,0,0,None,None,0,0,sweeny ,0 ,1,1
@@ -125,7 +125,7 @@
 123,None,None,0,0,None,None,0,0,None,None,0,0
 124,None,None,0,0,houston county houston county ,8 10 ,1,2,center houston houston ,3 8 10 ,1,3
 125,None,None,0,0,None,None,0,0,None,None,0,0
-126,I-2 ,1 ,1,1,None,None,0,0,None,None,0,0
+126,None,None,0,0,None,None,0,0,None,None,0,0
 127,None,None,0,0,None,None,0,0,None,None,0,0
 128,None,None,0,0,king county ,1 ,1,1,None,None,0,0
 129,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
@@ -153,99 +153,99 @@
 151,None,None,0,0,None,None,0,0,None,None,0,0
 152,None,None,0,0,None,None,0,0,None,None,0,0
 153,None,None,0,0,None,None,0,0,west ,1 ,1,1
-154,FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 US 90 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,None,None,0,0
-155,FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 US 90 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,None,None,0,0
-156,FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 FM 529 FM 529 FM 529 FM 529 FM 529 FM 529 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+154,FM 2855 US 90 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+155,FM 2855 US 90 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+156,FM 2855 FM 529 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 157,None,None,0,0,None,None,0,0,west ,1 ,1,1
-158,FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 FM 529 FM 529 FM 529 FM 529 FM 529 FM 529 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-159,FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 3346 FM 3346 FM 3346 FM 3346 FM 3346 FM 3346 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-160,FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-161,FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 3346 FM 3346 FM 3346 FM 3346 FM 3346 FM 3346 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-162,FM 1488 FM 1488 FM 1488 FM 1488 FM 1488 FM 1488 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-163,FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 ,1 2 3 4 5 6 ,1,6,hill county ,3 ,1,1,None,None,0,0
-164,FM 522 FM 522 FM 522 FM 522 FM 522 FM 522 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-165,FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 522 FM 522 FM 522 FM 522 FM 522 FM 522 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-166,FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
-167,FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 522 FM 522 FM 522 FM 522 FM 522 FM 522 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-168,FM 1458 FM 1458 FM 1458 FM 1458 FM 1458 FM 1458 ,1 2 3 4 5 6 ,1,6,brazos county waller county austin county ,3 4 4 ,1,3,west waller austin ,1 4 4 ,1,3
-169,FM 1458 FM 1458 FM 1458 FM 1458 FM 1458 FM 1458 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+158,FM 2855 FM 529 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+159,FM 1887 FM 3346 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+160,FM 1887 FM 359 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+161,FM 1887 FM 3346 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+162,FM 1488 ,1 ,1,1,None,None,0,0,None,None,0,0
+163,FM 1463 ,1 ,1,1,hill county ,3 ,1,1,None,None,0,0
+164,FM 522 FM 1459 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+165,FM 1459 FM 522 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+166,FM 1459 SH 35 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+167,FM 1459 FM 522 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+168,FM 1458 ,1 ,1,1,brazos county waller county austin county ,3 4 4 ,1,3,west waller austin ,1 4 4 ,1,3
+169,FM 1458 ,1 ,1,1,None,None,0,0,None,None,0,0
 170,None,None,0,0,None,None,0,0,wallis ,4 ,1,1
-171,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,brazos county ,3 ,1,1,None,None,0,0
-172,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,brazos county ,3 ,1,1,None,None,0,0
-173,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-174,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 FM 521 FM 521 FM 521 FM 521 FM 521 FM 521 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
-175,FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-176,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-177,SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
-178,SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-179,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+171,SH 99 ,1 ,1,1,brazos county ,3 ,1,1,None,None,0,0
+172,SH 99 ,1 ,1,1,brazos county ,3 ,1,1,None,None,0,0
+173,SH 6 ,1 ,1,1,None,None,0,0,None,None,0,0
+174,SH 6 FM 521 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+175,FM 518 ,1 ,1,1,None,None,0,0,None,None,0,0
+176,SH 6 ,1 ,1,1,None,None,0,0,None,None,0,0
+177,SH 36 SH 35 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+178,SH 35 ,1 ,1,1,None,None,0,0,None,None,0,0
+179,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 180,None,None,0,0,None,None,0,0,None,None,0,0
 181,None,None,0,0,None,None,0,0,None,None,0,0
-182,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+182,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 183,None,None,0,0,wood county ,4 ,1,1,None,None,0,0
-184,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+184,FM 359 ,1 ,1,1,None,None,0,0,None,None,0,0
 185,None,None,0,0,houston county ,2 ,1,1,west houston west ,0 2 6 ,1,3
 186,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-187,FM 529 FM 529 FM 529 FM 529 FM 529 FM 529 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+187,FM 529 ,1 ,1,1,None,None,0,0,None,None,0,0
 188,None,None,0,0,crosby county ,6 ,1,1,west ,2 ,1,1
-189,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-190,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-191,SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-192,US 90 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 13 ,1,13,None,None,0,0,None,None,0,0
-193,FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
+189,SH 6 ,1 ,1,1,None,None,0,0,None,None,0,0
+190,SH 6 ,1 ,1,1,None,None,0,0,None,None,0,0
+191,SH 35 ,1 ,1,1,None,None,0,0,None,None,0,0
+192,US 90 SH 99 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+193,FM 1462 SH 36 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 194,US 90 ,1 ,1,1,uvalde county ,3 ,1,1,west uvalde ,1 3 ,1,2
-195,FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+195,FM 518 ,1 ,1,1,None,None,0,0,None,None,0,0
 196,US 290 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
-197,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,katy west ,1 2 ,1,2
+197,SH 6 ,1 ,1,1,None,None,0,0,katy west ,1 2 ,1,2
 198,None,None,0,0,wood county ,4 ,1,1,None,None,0,0
-199,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+199,SH 6 ,1 ,1,1,None,None,0,0,None,None,0,0
 200,None,None,0,0,travis county ,4 ,1,1,None,None,0,0
 201,None,None,0,0,None,None,0,0,west ,1 ,1,1
 202,None,None,0,0,None,None,0,0,None,None,0,0
 203,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 204,US 290 ,1 ,1,1,None,None,0,0,None,None,0,0
-205,US 290 FM 529 FM 529 FM 529 FM 529 FM 529 FM 529 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,west ,1 ,1,1
+205,US 290 FM 529 ,1 2 ,1,2,None,None,0,0,west ,1 ,1,1
 206,US 290 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 207,US 290 ,1 ,1,1,None,None,0,0,west west ,1 2 ,1,2
 208,None,None,0,0,None,None,0,0,west ,2 ,1,1
 209,None,None,0,0,None,None,0,0,None,None,0,0
 210,None,None,0,0,None,None,0,0,west ,2 ,1,1
-211,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,2 ,1,1,houston ,2 ,1,1
+211,SH 288 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
 212,None,None,0,0,None,None,0,0,west ,2 ,1,1
 213,None,None,0,0,None,None,0,0,None,None,0,0
 214,None,None,0,0,None,None,0,0,west ,1 ,1,1
 215,None,None,0,0,houston county ,2 ,1,1,west houston katy ,0 2 7 ,1,3
 216,None,None,0,0,None,None,0,0,None,None,0,0
-217,SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,tomball center ,1 6 ,1,2
+217,SH 249 ,1 ,1,1,None,None,0,0,tomball center ,1 6 ,1,2
 218,None,None,0,0,None,None,0,0,west katy ,1 6 ,1,2
-219,Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 ,1 2 3 4 5 6 7 8 9 10 11 ,1,11,montgomery county harris county ,3 3 ,1,2,montgomery ,3 ,1,1
+219,Loop 494 ,1 ,1,1,montgomery county harris county ,3 3 ,1,2,montgomery ,3 ,1,1
 220,None,None,0,0,None,None,0,0,None,None,0,0
 221,None,None,0,0,None,None,0,0,None,None,0,0
-222,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,4 ,1,1,houston ,4 ,1,1
-223,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,4 ,1,1,houston ,4 ,1,1
+222,SH 288 ,1 ,1,1,houston county ,4 ,1,1,houston ,4 ,1,1
+223,SH 288 ,1 ,1,1,houston county ,4 ,1,1,houston ,4 ,1,1
 224,None,None,0,0,None,None,0,0,west katy ,1 6 ,1,2
-225,SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-226,FM 521 FM 521 FM 521 FM 521 FM 521 FM 521 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-227,FM 521 FM 521 FM 521 FM 521 FM 521 FM 521 FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-228,FM 1128 FM 1128 FM 1128 FM 1128 FM 1128 FM 1128 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-229,FM 1128 FM 1128 FM 1128 FM 1128 FM 1128 FM 1128 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+225,SH 35 ,1 ,1,1,None,None,0,0,None,None,0,0
+226,FM 521 ,1 ,1,1,None,None,0,0,None,None,0,0
+227,FM 521 FM 1462 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+228,FM 1128 ,1 ,1,1,None,None,0,0,None,None,0,0
+229,FM 1128 ,1 ,1,1,None,None,0,0,None,None,0,0
 230,None,None,0,0,None,None,0,0,None,None,0,0
 231,None,None,0,0,None,None,0,0,west ,1 ,1,1
 232,None,None,0,0,None,None,0,0,wallis ,4 ,1,1
 233,None,None,0,0,wood county ,4 ,1,1,None,None,0,0
-234,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
+234,SH 288 SH 6 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 235,US 90 ,1 ,1,1,crosby county ,3 ,1,1,west ,1 ,1,1
 236,US 90 ,1 ,1,1,crosby county ,3 ,1,1,None,None,0,0
 237,None,None,0,0,wood county ,4 ,1,1,None,None,0,0
-238,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-239,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+238,FM 1960 ,1 ,1,1,None,None,0,0,None,None,0,0
+239,FM 1960 ,1 ,1,1,None,None,0,0,None,None,0,0
 240,None,None,0,0,None,None,0,0,wallis ,4 ,1,1
 241,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 242,None,None,0,0,ector county ,2 ,1,1,ector ,2 ,1,1
 243,None,None,0,0,None,None,0,0,None,None,0,0
 244,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
-245,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,1 ,1,1
-246,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+245,SH 225 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
+246,SH 225 ,1 ,1,1,None,None,0,0,None,None,0,0
 247,None,None,0,0,ector county ,2 ,1,1,ector ,2 ,1,1
 248,US 290 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 249,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
@@ -253,69 +253,69 @@
 251,US 90 ,1 ,1,1,wharton county ,7 ,1,1,wharton hart ,7 7 ,1,2
 252,US 90 ,1 ,1,1,wood county ,4 ,1,1,None,None,0,0
 253,None,None,0,0,None,None,0,0,None,None,0,0
-254,FM 762 FM 762 FM 762 FM 762 FM 762 FM 762 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+254,FM 762 ,1 ,1,1,None,None,0,0,None,None,0,0
 255,None,None,0,0,brazos county ,3 ,1,1,None,None,0,0
 256,None,None,0,0,None,None,0,0,None,None,0,0
-257,FM 762 FM 762 FM 762 FM 762 FM 762 FM 762 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-258,FM 2977 FM 2977 FM 2977 FM 2977 FM 2977 FM 2977 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-259,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 FM 2234 FM 2234 FM 2234 FM 2234 FM 2234 FM 2234 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
-260,FM 1464 FM 1464 FM 1464 FM 1464 FM 1464 FM 1464 ,1 2 3 4 5 6 ,1,6,bell county ,4 ,1,1,None,None,0,0
-261,FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-262,FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-263,FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 ,1 2 3 4 5 6 ,1,6,mason county ,4 ,1,1,mason ,4 ,1,1
-264,FM 1092 FM 1092 FM 1092 FM 1092 FM 1092 FM 1092 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-265,FM 1092 FM 1092 FM 1092 FM 1092 FM 1092 FM 1092 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+257,FM 762 ,1 ,1,1,None,None,0,0,None,None,0,0
+258,FM 2977 ,1 ,1,1,None,None,0,0,None,None,0,0
+259,SH 288 FM 2234 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+260,FM 1464 ,1 ,1,1,bell county ,4 ,1,1,None,None,0,0
+261,FM 1462 ,1 ,1,1,None,None,0,0,None,None,0,0
+262,FM 1462 ,1 ,1,1,None,None,0,0,None,None,0,0
+263,FM 1093 ,1 ,1,1,mason county ,4 ,1,1,mason ,4 ,1,1
+264,FM 1092 ,1 ,1,1,None,None,0,0,None,None,0,0
+265,FM 1092 ,1 ,1,1,None,None,0,0,None,None,0,0
 266,None,None,0,0,None,None,0,0,ross ,5 ,1,1
 267,None,None,0,0,None,None,0,0,ross ,5 ,1,1
 268,None,None,0,0,None,None,0,0,None,None,0,0
 269,None,None,0,0,None,None,0,0,None,None,0,0
 270,None,None,0,0,None,None,0,0,west ,2 ,1,1
 271,None,None,0,0,None,None,0,0,None,None,0,0
-272,FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west calvert ,1 3 ,1,2
-273,FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,1 ,1,1
+272,FM 2920 ,1 ,1,1,None,None,0,0,west calvert ,1 3 ,1,2
+273,FM 2920 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 274,None,None,0,0,None,None,0,0,katy west ,1 4 ,1,2
-275,FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-276,FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-277,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,crosby county ,4 ,1,1,None,None,0,0
-278,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-279,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,5 ,1,1
+275,FM 2920 ,1 ,1,1,None,None,0,0,None,None,0,0
+276,FM 2920 ,1 ,1,1,None,None,0,0,None,None,0,0
+277,FM 1960 ,1 ,1,1,crosby county ,4 ,1,1,None,None,0,0
+278,FM 1960 ,1 ,1,1,None,None,0,0,None,None,0,0
+279,SH 99 ,1 ,1,1,None,None,0,0,west ,5 ,1,1
 280,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 281,None,None,0,0,wood county ,4 ,1,1,katy west ,1 2 ,1,2
 282,None,None,0,0,None,None,0,0,west ,1 ,1,1
 283,None,None,0,0,washington county ,4 ,1,1,katy west ,1 5 ,1,2
-284,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
-285,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,walker county ,3 ,1,1,None,None,0,0
-286,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,walker county ,3 ,1,1,None,None,0,0
-287,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
-288,SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-289,FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 ,1,6,None,None,0,0,kemah ,3 ,1,1
-290,FM 517 FM 517 FM 517 FM 517 FM 517 FM 517 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
-291,FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 ,1,6,None,None,0,0,kemah ,3 ,1,1
+284,SH 3 SH 146 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+285,SH 3 ,1 ,1,1,walker county ,3 ,1,1,None,None,0,0
+286,SH 3 ,1 ,1,1,walker county ,3 ,1,1,None,None,0,0
+287,SH 3 SH 146 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+288,SH 87 ,1 ,1,1,None,None,0,0,None,None,0,0
+289,FM 518 ,1 ,1,1,None,None,0,0,kemah ,3 ,1,1
+290,FM 517 SH 3 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+291,FM 518 ,1 ,1,1,None,None,0,0,kemah ,3 ,1,1
 292,None,None,0,0,wood county ,4 ,1,1,katy west ,1 2 ,1,2
 293,None,None,0,0,washington county ,4 ,1,1,katy west ,1 5 ,1,2
 294,None,None,0,0,None,None,0,0,katy west ,1 4 ,1,2
-295,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+295,FM 1960 ,1 ,1,1,None,None,0,0,None,None,0,0
 296,None,None,0,0,None,None,0,0,katy west ,1 2 ,1,2
 297,None,None,0,0,None,None,0,0,katy west ,1 4 ,1,2
 298,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-299,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-300,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-301,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+299,SH 99 ,1 ,1,1,None,None,0,0,None,None,0,0
+300,SH 99 ,1 ,1,1,None,None,0,0,None,None,0,0
+301,SH 99 ,1 ,1,1,None,None,0,0,None,None,0,0
 302,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 303,None,None,0,0,None,None,0,0,None,None,0,0
-304,FM 1765 FM 1765 FM 1765 FM 1765 FM 1765 FM 1765 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+304,FM 1765 ,1 ,1,1,None,None,0,0,None,None,0,0
 305,None,None,0,0,None,None,0,0,None,None,0,0
-306,SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 FM 528 FM 528 FM 528 FM 528 FM 528 FM 528 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
+306,SH 35 FM 528 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 307,None,None,0,0,None,None,0,0,west ,2 ,1,1
-308,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-309,FM 2351 FM 2351 FM 2351 FM 2351 FM 2351 FM 2351 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-310,FM 2351 FM 2351 FM 2351 FM 2351 FM 2351 FM 2351 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-311,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,2 ,1,1
+308,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+309,FM 2351 ,1 ,1,1,None,None,0,0,None,None,0,0
+310,FM 2351 ,1 ,1,1,None,None,0,0,None,None,0,0
+311,FM 865 ,1 ,1,1,None,None,0,0,west ,2 ,1,1
 312,None,None,0,0,None,None,0,0,west ,2 ,1,1
 313,None,None,0,0,None,None,0,0,west ,2 ,1,1
 314,None,None,0,0,None,None,0,0,west ,2 ,1,1
-315,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-316,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+315,FM 359 ,1 ,1,1,None,None,0,0,None,None,0,0
+316,FM 359 ,1 ,1,1,None,None,0,0,None,None,0,0
 317,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 318,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 319,None,None,0,0,houston county houston county ,2 8 ,1,2,houston houston ,2 8 ,1,2
@@ -329,63 +329,63 @@
 327,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 328,None,None,0,0,houston county wilson county ,2 6 ,1,2,houston wilson ,2 6 ,1,2
 329,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-330,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+330,FM 865 ,1 ,1,1,None,None,0,0,None,None,0,0
 331,None,None,0,0,None,None,0,0,None,None,0,0
 332,None,None,0,0,None,None,0,0,None,None,0,0
 333,None,None,0,0,None,None,0,0,None,None,0,0
 334,None,None,0,0,None,None,0,0,tomball ,0 ,1,1
 335,None,None,0,0,None,None,0,0,tomball ,0 ,1,1
-336,SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,tomball ,1 ,1,1
-337,FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,1 ,1,1
+336,SH 249 ,1 ,1,1,None,None,0,0,tomball ,1 ,1,1
+337,FM 1463 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 338,None,None,0,0,None,None,0,0,None,None,0,0
-339,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,2 ,1,1,houston ,2 ,1,1
+339,SH 288 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
 340,None,None,0,0,None,None,0,0,west ,1 ,1,1
 341,None,None,0,0,None,None,0,0,west ,2 ,1,1
 342,None,None,0,0,None,None,0,0,west ,2 ,1,1
 343,None,None,0,0,None,None,0,0,west ,2 ,1,1
 344,None,None,0,0,None,None,0,0,west ,2 ,1,1
 345,None,None,0,0,None,None,0,0,None,None,0,0
-346,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-347,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
-348,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-349,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,houston county ,2 ,1,1,houston ,2 ,1,1
+346,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+347,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
+348,FM 1960 ,1 ,1,1,None,None,0,0,None,None,0,0
+349,FM 865 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
 350,None,None,0,0,None,None,0,0,wallis ,4 ,1,1
 351,None,None,0,0,None,None,0,0,None,None,0,0
 352,None,None,0,0,None,None,0,0,katy west ,1 5 ,1,2
-353,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+353,FM 1960 ,1 ,1,1,None,None,0,0,None,None,0,0
 354,None,None,0,0,None,None,0,0,rankin ,5 ,1,1
 355,None,None,0,0,None,None,0,0,None,None,0,0
 356,None,None,0,0,None,None,0,0,None,None,0,0
 357,None,None,0,0,None,None,0,0,None,None,0,0
 358,None,None,0,0,None,None,0,0,None,None,0,0
 359,None,None,0,0,None,None,0,0,None,None,0,0
-360,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+360,FM 1960 ,1 ,1,1,None,None,0,0,None,None,0,0
 361,None,None,0,0,None,None,0,0,west ,1 ,1,1
 362,None,None,0,0,None,None,0,0,None,None,0,0
-363,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
-364,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
-365,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
-366,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
-367,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west west ,4 7 ,1,2
-368,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west katy ,4 8 ,1,2
-369,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,1 ,1,1
+363,SH 99 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
+364,SH 99 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
+365,SH 99 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
+366,SH 99 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
+367,SH 99 ,1 ,1,1,None,None,0,0,west west ,4 7 ,1,2
+368,SH 99 ,1 ,1,1,None,None,0,0,west katy ,4 8 ,1,2
+369,FM 359 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 370,None,None,0,0,None,None,0,0,None,None,0,0
 371,US 290 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 372,None,None,0,0,None,None,0,0,west spur ,3 7 ,1,2
-373,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,clay county ,7 ,1,1,west ,4 ,1,1
+373,SH 99 ,1 ,1,1,clay county ,7 ,1,1,west ,4 ,1,1
 374,None,None,0,0,wood county wood county ,4 5 ,1,2,None,None,0,0
 375,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 376,None,None,0,0,houston county ,2 ,1,1,houston west pearland ,2 4 6 ,1,3
 377,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
-378,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-379,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,5 ,1,1
+378,SH 225 ,1 ,1,1,None,None,0,0,None,None,0,0
+379,SH 99 ,1 ,1,1,None,None,0,0,west ,5 ,1,1
 380,None,None,0,0,houston county ,2 ,1,1,houston pasadena ,2 6 ,1,2
 381,None,None,0,0,houston county galveston county ,2 8 ,1,2,houston galveston ,2 8 ,1,2
 382,None,None,0,0,houston county galveston county ,2 8 ,1,2,houston galveston ,2 8 ,1,2
 383,None,None,0,0,None,None,0,0,west spur ,3 7 ,1,2
 384,None,None,0,0,houston county ,7 ,1,1,houston ,7 ,1,1
-385,FM 646 FM 646 FM 646 FM 646 FM 646 FM 646 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-386,FM 646 FM 646 FM 646 FM 646 FM 646 FM 646 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+385,FM 646 ,1 ,1,1,None,None,0,0,None,None,0,0
+386,FM 646 ,1 ,1,1,None,None,0,0,None,None,0,0
 387,None,None,0,0,None,None,0,0,None,None,0,0
 388,None,None,0,0,None,None,0,0,None,None,0,0
 389,None,None,0,0,None,None,0,0,None,None,0,0
@@ -418,7 +418,7 @@
 416,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 417,None,None,0,0,None,None,0,0,katy west ,1 5 ,1,2
 418,None,None,0,0,None,None,0,0,katy ,1 ,1,1
-419,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,1 ,1,1
+419,FM 359 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 420,None,None,0,0,None,None,0,0,west ,1 ,1,1
 421,None,None,0,0,None,None,0,0,katy west ,1 2 ,1,2
 422,None,None,0,0,None,None,0,0,None,None,0,0
@@ -431,13 +431,13 @@
 429,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 430,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 431,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-432,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,katy west ,1 2 ,1,2
+432,SH 6 ,1 ,1,1,None,None,0,0,katy west ,1 2 ,1,2
 433,None,None,0,0,None,None,0,0,katy west ,1 2 ,1,2
 434,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 435,None,None,0,0,None,None,0,0,west post ,0 4 ,1,2
 436,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 437,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-438,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
+438,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
 439,None,None,0,0,None,None,0,0,west ,1 ,1,1
 440,None,None,0,0,hill county ,7 ,1,1,katy ,1 ,1,1
 441,None,None,0,0,None,None,0,0,None,None,0,0
@@ -448,19 +448,19 @@
 446,None,None,0,0,clay county ,4 ,1,1,west ,1 ,1,1
 447,None,None,0,0,dallas county ,5 ,1,1,dallas ,5 ,1,1
 448,None,None,0,0,None,None,0,0,katy west west ,1 2 5 ,1,3
-449,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-450,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-451,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+449,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+450,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+451,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 452,None,None,0,0,None,None,0,0,west ,3 ,1,1
 453,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
-454,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-455,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-456,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-457,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+454,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+455,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+456,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+457,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 458,None,None,0,0,None,None,0,0,None,None,0,0
 459,None,None,0,0,None,None,0,0,None,None,0,0
-460,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-461,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,hall county ,4 ,1,1,None,None,0,0
+460,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+461,SH 288 ,1 ,1,1,hall county ,4 ,1,1,None,None,0,0
 462,None,None,0,0,None,None,0,0,None,None,0,0
 463,None,None,0,0,martin county king county ,5 7 ,1,2,mart ,5 ,1,1
 464,None,None,0,0,None,None,0,0,None,None,0,0
@@ -479,7 +479,7 @@
 477,None,None,0,0,None,None,0,0,west post ,3 6 ,1,2
 478,None,None,0,0,None,None,0,0,west ,3 ,1,1
 479,None,None,0,0,None,None,0,0,west ,2 ,1,1
-480,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+480,SH 3 ,1 ,1,1,None,None,0,0,None,None,0,0
 481,None,None,0,0,None,None,0,0,west post ,1 5 ,1,2
 482,None,None,0,0,None,None,0,0,west ,1 ,1,1
 483,None,None,0,0,bell county ,5 ,1,1,west bellaire ,1 5 ,1,2
@@ -513,7 +513,7 @@
 511,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 512,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 513,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-514,FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 ,1 2 3 4 5 6 ,1,6,houston county ,2 ,1,1,west houston west ,0 2 7 ,1,3
+514,FM 1093 ,1 ,1,1,houston county ,2 ,1,1,west houston west ,0 2 7 ,1,3
 515,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 516,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 517,None,None,0,0,None,None,0,0,west west rice ,0 2 4 ,1,3
@@ -522,12 +522,12 @@
 520,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 521,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 522,None,None,0,0,None,None,0,0,None,None,0,0
-523,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
-524,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,west ,5 ,1,1
+523,SH 99 FM 2920 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+524,SH 99 FM 2920 ,1 2 ,1,2,None,None,0,0,west ,5 ,1,1
 525,None,None,0,0,None,None,0,0,None,None,0,0
 526,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
-527,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
-528,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,4 ,1,1,houston ,4 ,1,1
+527,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
+528,SH 288 ,1 ,1,1,houston county ,4 ,1,1,houston ,4 ,1,1
 529,None,None,0,0,None,None,0,0,west ,0 ,1,1
 530,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 531,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
@@ -539,142 +539,142 @@
 537,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 538,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 539,None,None,0,0,None,None,0,0,katy ,1 ,1,1
-540,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
+540,SH 99 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
 541,US 290 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
-542,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-543,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-544,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
-545,FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-546,FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+542,SH 99 ,1 ,1,1,None,None,0,0,None,None,0,0
+543,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+544,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
+545,FM 518 ,1 ,1,1,None,None,0,0,None,None,0,0
+546,FM 518 ,1 ,1,1,None,None,0,0,None,None,0,0
 547,None,None,0,0,None,None,0,0,None,None,0,0
 548,None,None,0,0,None,None,0,0,west ,2 ,1,1
 549,None,None,0,0,None,None,0,0,None,None,0,0
 550,None,None,0,0,None,None,0,0,west ,2 ,1,1
-551,SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-552,FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
-553,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-554,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+551,SH 35 ,1 ,1,1,None,None,0,0,None,None,0,0
+552,FM 1462 SH 36 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+553,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+554,SH 3 ,1 ,1,1,None,None,0,0,None,None,0,0
 555,None,None,0,0,None,None,0,0,west ,3 ,1,1
 556,None,None,0,0,None,None,0,0,None,None,0,0
 557,None,None,0,0,None,None,0,0,None,None,0,0
-558,FM 1765 FM 1765 FM 1765 FM 1765 FM 1765 FM 1765 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+558,FM 1765 ,1 ,1,1,None,None,0,0,None,None,0,0
 559,US 90 ,1 ,1,1,wood county ,4 ,1,1,west ,2 ,1,1
-560,FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 ,1 2 3 4 5 6 ,1,6,mason county ,4 ,1,1,mason ,4 ,1,1
-561,FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 ,1 2 3 4 5 6 ,1,6,houston county ,2 ,1,1,west houston west ,0 2 7 ,1,3
-562,FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 ,1 2 3 4 5 6 ,1,6,None,None,0,0,katy ,3 ,1,1
-563,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,brazos county ,3 ,1,1,None,None,0,0
+560,FM 1093 ,1 ,1,1,mason county ,4 ,1,1,mason ,4 ,1,1
+561,FM 1093 ,1 ,1,1,houston county ,2 ,1,1,west houston west ,0 2 7 ,1,3
+562,FM 1093 ,1 ,1,1,None,None,0,0,katy ,3 ,1,1
+563,SH 99 ,1 ,1,1,brazos county ,3 ,1,1,None,None,0,0
 564,None,None,0,0,brazos county ,3 ,1,1,None,None,0,0
 565,None,None,0,0,None,None,0,0,None,None,0,0
-566,US 90 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 13 ,1,13,None,None,0,0,west ,2 ,1,1
+566,US 90 SH 99 ,1 2 ,1,2,None,None,0,0,west ,2 ,1,1
 567,None,None,0,0,brazos county ,3 ,1,1,None,None,0,0
-568,FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 ,1 2 3 4 5 6 ,1,6,houston county ,2 ,1,1,west houston west ,0 2 7 ,1,3
-569,FM 2977 FM 2977 FM 2977 FM 2977 FM 2977 FM 2977 ,1 2 3 4 5 6 ,1,6,None,None,0,0,rice ,3 ,1,1
-570,FM 2977 FM 2977 FM 2977 FM 2977 FM 2977 FM 2977 FM 361 FM 361 FM 361 FM 361 FM 361 FM 361 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-571,FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 ,1 2 3 4 5 6 ,1,6,hill county ,3 ,1,1,None,None,0,0
-572,FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 ,1 2 3 4 5 6 ,1,6,hill county ,3 ,1,1,None,None,0,0
-573,FM 2919 FM 2919 FM 2919 FM 2919 FM 2919 FM 2919 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-574,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,1 ,1,1
+568,FM 1093 ,1 ,1,1,houston county ,2 ,1,1,west houston west ,0 2 7 ,1,3
+569,FM 2977 ,1 ,1,1,None,None,0,0,rice ,3 ,1,1
+570,FM 2977 FM 361 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+571,FM 1463 ,1 ,1,1,hill county ,3 ,1,1,None,None,0,0
+572,FM 1463 ,1 ,1,1,hill county ,3 ,1,1,None,None,0,0
+573,FM 2919 ,1 ,1,1,None,None,0,0,None,None,0,0
+574,SH 225 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 575,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-576,FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 ,1,6,None,None,0,0,kemah ,3 ,1,1
+576,FM 518 ,1 ,1,1,None,None,0,0,kemah ,3 ,1,1
 577,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-578,FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 ,1,6,None,None,0,0,kemah ,3 ,1,1
+578,FM 518 ,1 ,1,1,None,None,0,0,kemah ,3 ,1,1
 579,None,None,0,0,wood county wood county ,4 5 ,1,2,None,None,0,0
 580,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
-581,SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,hart ,4 ,1,1
+581,SH 146 ,1 ,1,1,None,None,0,0,hart ,4 ,1,1
 582,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 583,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 584,None,None,0,0,None,None,0,0,None,None,0,0
 585,None,None,0,0,None,None,0,0,None,None,0,0
-586,FM 522 FM 522 FM 522 FM 522 FM 522 FM 522 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-587,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 FM 2234 FM 2234 FM 2234 FM 2234 FM 2234 FM 2234 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
-588,SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,tomball center ,1 6 ,1,2
-589,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-590,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-591,SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,hart ,4 ,1,1
-592,SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-593,SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,hart ,4 ,1,1
+586,FM 522 FM 1459 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+587,SH 288 FM 2234 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+588,SH 249 ,1 ,1,1,None,None,0,0,tomball center ,1 6 ,1,2
+589,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+590,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+591,SH 146 ,1 ,1,1,None,None,0,0,hart ,4 ,1,1
+592,SH 35 ,1 ,1,1,None,None,0,0,None,None,0,0
+593,SH 146 ,1 ,1,1,None,None,0,0,hart ,4 ,1,1
 594,None,None,0,0,None,None,0,0,west ,0 ,1,1
-595,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 FM 2234 FM 2234 FM 2234 FM 2234 FM 2234 FM 2234 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
-596,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
+595,SH 288 FM 2234 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+596,SH 6 SH 146 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 597,None,None,0,0,duval county uvalde county ,6 6 ,1,2,west uvalde ,2 6 ,1,2
 598,None,None,0,0,None,None,0,0,None,None,0,0
-599,FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 US 90 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,None,None,0,0
-600,FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 US 90 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,None,None,0,0
-601,FM 529 FM 529 FM 529 FM 529 FM 529 FM 529 FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-602,FM 529 FM 529 FM 529 FM 529 FM 529 FM 529 FM 362 FM 362 FM 362 FM 362 FM 362 FM 362 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-603,FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 FM 2855 FM 529 FM 529 FM 529 FM 529 FM 529 FM 529 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+599,FM 2855 US 90 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+600,FM 2855 US 90 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+601,FM 529 FM 2855 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+602,FM 529 FM 362 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+603,FM 2855 FM 529 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 604,None,None,0,0,brazos county waller county austin county ,3 4 4 ,1,3,waller austin ,4 4 ,1,2
-605,FM 1458 FM 1458 FM 1458 FM 1458 FM 1458 FM 1458 ,1 2 3 4 5 6 ,1,6,brazos county waller county austin county ,3 4 4 ,1,3,west waller austin ,1 4 4 ,1,3
-606,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,1 ,1,1
+605,FM 1458 ,1 ,1,1,brazos county waller county austin county ,3 4 4 ,1,3,west waller austin ,1 4 4 ,1,3
+606,FM 359 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 607,None,None,0,0,None,None,0,0,west ,1 ,1,1
-608,FM 529 FM 529 FM 529 FM 529 FM 529 FM 529 ,1 2 3 4 5 6 ,1,6,brazos county waller county austin county ,3 4 4 ,1,3,west waller austin ,1 4 4 ,1,3
-609,FM 529 FM 529 FM 529 FM 529 FM 529 FM 529 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-610,FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 3346 FM 3346 FM 3346 FM 3346 FM 3346 FM 3346 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-611,FM 1458 FM 1458 FM 1458 FM 1458 FM 1458 FM 1458 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-612,FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 3346 FM 3346 FM 3346 FM 3346 FM 3346 FM 3346 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+608,FM 529 ,1 ,1,1,brazos county waller county austin county ,3 4 4 ,1,3,west waller austin ,1 4 4 ,1,3
+609,FM 529 ,1 ,1,1,None,None,0,0,None,None,0,0
+610,FM 1887 FM 3346 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+611,FM 1458 ,1 ,1,1,None,None,0,0,None,None,0,0
+612,FM 1887 FM 3346 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 613,None,None,0,0,houston county clay county ,2 6 ,1,2,west houston ,0 2 ,1,2
 614,None,None,0,0,houston county clay county ,2 6 ,1,2,west houston ,0 2 ,1,2
 615,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 616,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-617,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,4 ,1,1,houston ,4 ,1,1
-618,FM 521 FM 521 FM 521 FM 521 FM 521 FM 521 FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+617,SH 288 ,1 ,1,1,houston county ,4 ,1,1,houston ,4 ,1,1
+618,FM 521 FM 1462 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 619,None,None,0,0,None,None,0,0,katy west west ,1 2 5 ,1,3
 620,None,None,0,0,houston county ,2 ,1,1,west houston richmond ,0 2 6 ,1,3
 621,None,None,0,0,bell county ,4 ,1,1,west ,1 ,1,1
-622,SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,1 ,1,1
+622,SH 146 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 623,None,None,0,0,None,None,0,0,None,None,0,0
 624,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-625,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,5 ,1,1
-626,FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
-627,FM 1959 FM 1959 FM 1959 FM 1959 FM 1959 FM 1959 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+625,SH 99 ,1 ,1,1,None,None,0,0,west ,5 ,1,1
+626,FM 1459 SH 35 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+627,FM 1959 ,1 ,1,1,None,None,0,0,None,None,0,0
 628,None,None,0,0,None,None,0,0,None,None,0,0
 629,None,None,0,0,None,None,0,0,rankin ,5 ,1,1
-630,SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
+630,SH 35 SH 6 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 631,None,None,0,0,bell county ,4 ,1,1,west ,1 ,1,1
 632,None,None,0,0,None,None,0,0,west ,1 ,1,1
 633,None,None,0,0,bell county ,4 ,1,1,west bellaire ,1 4 ,1,2
-634,SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 36 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
-635,Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 ,1 2 3 4 5 6 7 8 9 10 11 ,1,11,montgomery county harris county ,3 3 ,1,2,montgomery ,3 ,1,1
-636,Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 Loop 494 ,1 2 3 4 5 6 7 8 9 10 11 ,1,11,montgomery county harris county ,3 3 ,1,2,montgomery ,3 ,1,1
+634,SH 36 SH 35 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+635,Loop 494 ,1 ,1,1,montgomery county harris county ,3 3 ,1,2,montgomery ,3 ,1,1
+636,Loop 494 ,1 ,1,1,montgomery county harris county ,3 3 ,1,2,montgomery ,3 ,1,1
 637,None,None,0,0,houston county ,2 ,1,1,west houston west ,0 2 6 ,1,3
 638,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 639,None,None,0,0,None,None,0,0,None,None,0,0
 640,None,None,0,0,None,None,0,0,west ,2 ,1,1
 641,None,None,0,0,None,None,0,0,None,None,0,0
-642,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,crosby county ,4 ,1,1,None,None,0,0
+642,FM 1960 ,1 ,1,1,crosby county ,4 ,1,1,None,None,0,0
 643,None,None,0,0,None,None,0,0,None,None,0,0
-644,FM 1488 FM 1488 FM 1488 FM 1488 FM 1488 FM 1488 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-645,FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 1887 FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-646,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west katy ,4 8 ,1,2
-647,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
+644,FM 1488 ,1 ,1,1,None,None,0,0,None,None,0,0
+645,FM 1887 FM 359 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+646,SH 99 ,1 ,1,1,None,None,0,0,west katy ,4 8 ,1,2
+647,SH 99 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
 648,None,None,0,0,bell county ,4 ,1,1,west ,1 ,1,1
 649,None,None,0,0,None,None,0,0,west ,1 ,1,1
 650,None,None,0,0,None,None,0,0,None,None,0,0
 651,None,None,0,0,None,None,0,0,None,None,0,0
 652,None,None,0,0,None,None,0,0,west ,6 ,1,1
-653,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+653,FM 1960 ,1 ,1,1,None,None,0,0,None,None,0,0
 654,None,None,0,0,None,None,0,0,west ,1 ,1,1
-655,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-656,FM 517 FM 517 FM 517 FM 517 FM 517 FM 517 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
-657,FM 517 FM 517 FM 517 FM 517 FM 517 FM 517 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
+655,FM 1960 ,1 ,1,1,None,None,0,0,None,None,0,0
+656,FM 517 SH 3 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+657,FM 517 SH 3 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 658,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 659,None,None,0,0,None,None,0,0,ross ,5 ,1,1
 660,None,None,0,0,None,None,0,0,west ,1 ,1,1
-661,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,katy west ,1 2 ,1,2
+661,SH 99 ,1 ,1,1,None,None,0,0,katy west ,1 2 ,1,2
 662,None,None,0,0,None,None,0,0,katy west ,1 2 ,1,2
 663,None,None,0,0,None,None,0,0,katy west ,1 2 ,1,2
-664,SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 FM 528 FM 528 FM 528 FM 528 FM 528 FM 528 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
+664,SH 35 FM 528 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 665,None,None,0,0,dallas county ,5 ,1,1,dallas ,5 ,1,1
 666,None,None,0,0,None,None,0,0,None,None,0,0
 667,None,None,0,0,collin county collingsworth county ,5 5 ,1,2,None,None,0,0
-668,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
+668,SH 288 SH 6 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 669,None,None,0,0,houston county galveston county ,2 8 ,1,2,houston galveston ,2 8 ,1,2
-670,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-671,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-672,FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,1 ,1,1
+670,FM 359 ,1 ,1,1,None,None,0,0,None,None,0,0
+671,SH 3 ,1 ,1,1,None,None,0,0,None,None,0,0
+672,FM 1463 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 673,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 674,US 290 ,1 ,1,1,None,None,0,0,None,None,0,0
-675,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+675,FM 359 ,1 ,1,1,None,None,0,0,None,None,0,0
 676,None,None,0,0,None,None,0,0,tomball ,0 ,1,1
 677,None,None,0,0,None,None,0,0,wallis ,4 ,1,1
 678,None,None,0,0,parker county ,5 ,1,1,parker ,5 ,1,1
@@ -683,44 +683,44 @@
 681,None,None,0,0,None,None,0,0,ross ,5 ,1,1
 682,None,None,0,0,None,None,0,0,None,None,0,0
 683,None,None,0,0,None,None,0,0,None,None,0,0
-684,FM 1128 FM 1128 FM 1128 FM 1128 FM 1128 FM 1128 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-685,FM 1128 FM 1128 FM 1128 FM 1128 FM 1128 FM 1128 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-686,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,5 ,1,1
-687,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+684,FM 1128 ,1 ,1,1,None,None,0,0,None,None,0,0
+685,FM 1128 ,1 ,1,1,None,None,0,0,None,None,0,0
+686,SH 99 ,1 ,1,1,None,None,0,0,west ,5 ,1,1
+687,SH 99 ,1 ,1,1,None,None,0,0,None,None,0,0
 688,None,None,0,0,None,None,0,0,west ,3 ,1,1
 689,None,None,0,0,None,None,0,0,None,None,0,0
-690,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-691,FM 1314 FM 1314 FM 1314 FM 1314 FM 1314 FM 1314 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-692,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,5 ,1,1
-693,FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west west ,1 5 ,1,2
+690,SH 99 ,1 ,1,1,None,None,0,0,None,None,0,0
+691,FM 1314 ,1 ,1,1,None,None,0,0,None,None,0,0
+692,SH 99 ,1 ,1,1,None,None,0,0,west ,5 ,1,1
+693,FM 1093 ,1 ,1,1,None,None,0,0,west west ,1 5 ,1,2
 694,None,None,0,0,None,None,0,0,None,None,0,0
 695,None,None,0,0,None,None,0,0,None,None,0,0
 696,None,None,0,0,None,None,0,0,None,None,0,0
 697,None,None,0,0,None,None,0,0,None,None,0,0
 698,None,None,0,0,houston county ,7 ,1,1,houston ,7 ,1,1
 699,None,None,0,0,None,None,0,0,west ,2 ,1,1
-700,FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 522 FM 522 FM 522 FM 522 FM 522 FM 522 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-701,FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 522 FM 522 FM 522 FM 522 FM 522 FM 522 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-702,SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-703,SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
+700,FM 1459 FM 522 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+701,FM 1459 FM 522 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+702,SH 87 ,1 ,1,1,None,None,0,0,None,None,0,0
+703,SH 87 SH 124 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 704,None,None,0,0,None,None,0,0,west ,3 ,1,1
 705,None,None,0,0,None,None,0,0,None,None,0,0
-706,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west west ,4 7 ,1,2
-707,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west west ,4 7 ,1,2
-708,FM 646 FM 646 FM 646 FM 646 FM 646 FM 646 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-709,FM 646 FM 646 FM 646 FM 646 FM 646 FM 646 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+706,SH 99 ,1 ,1,1,None,None,0,0,west west ,4 7 ,1,2
+707,SH 99 ,1 ,1,1,None,None,0,0,west west ,4 7 ,1,2
+708,FM 646 ,1 ,1,1,None,None,0,0,None,None,0,0
+709,FM 646 ,1 ,1,1,None,None,0,0,None,None,0,0
 710,None,None,0,0,None,None,0,0,west ,2 ,1,1
 711,None,None,0,0,None,None,0,0,None,None,0,0
 712,None,None,0,0,None,None,0,0,west ,3 ,1,1
 713,None,None,0,0,None,None,0,0,None,None,0,0
-714,FM 2351 FM 2351 FM 2351 FM 2351 FM 2351 FM 2351 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-715,FM 2351 FM 2351 FM 2351 FM 2351 FM 2351 FM 2351 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-716,FM 1959 FM 1959 FM 1959 FM 1959 FM 1959 FM 1959 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+714,FM 2351 ,1 ,1,1,None,None,0,0,None,None,0,0
+715,FM 2351 ,1 ,1,1,None,None,0,0,None,None,0,0
+716,FM 1959 ,1 ,1,1,None,None,0,0,None,None,0,0
 717,None,None,0,0,None,None,0,0,None,None,0,0
-718,FM 1959 FM 1959 FM 1959 FM 1959 FM 1959 FM 1959 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+718,FM 1959 ,1 ,1,1,None,None,0,0,None,None,0,0
 719,None,None,0,0,wood county ,5 ,1,1,None,None,0,0
 720,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
-721,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+721,SH 3 ,1 ,1,1,None,None,0,0,None,None,0,0
 722,None,None,0,0,None,None,0,0,west ,4 ,1,1
 723,None,None,0,0,None,None,0,0,west ,4 ,1,1
 724,None,None,0,0,wood county ,4 ,1,1,None,None,0,0
@@ -738,17 +738,17 @@
 736,None,None,0,0,houston county wood county ,2 6 ,1,2,houston ,2 ,1,1
 737,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 738,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-739,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,bell county ,3 ,1,1,None,None,0,0
+739,SH 288 ,1 ,1,1,bell county ,3 ,1,1,None,None,0,0
 740,None,None,0,0,None,None,0,0,None,None,0,0
 741,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 742,None,None,0,0,None,None,0,0,shepherd ,5 ,1,1
 743,None,None,0,0,None,None,0,0,shepherd ,5 ,1,1
-744,SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,tomball ,1 ,1,1
+744,SH 249 ,1 ,1,1,None,None,0,0,tomball ,1 ,1,1
 745,None,None,0,0,None,None,0,0,None,None,0,0
-746,FM 1488 FM 1488 FM 1488 FM 1488 FM 1488 FM 1488 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+746,FM 1488 ,1 ,1,1,None,None,0,0,None,None,0,0
 747,None,None,0,0,None,None,0,0,None,None,0,0
-748,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,west ,5 ,1,1
-749,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
+748,SH 99 FM 2920 ,1 2 ,1,2,None,None,0,0,west ,5 ,1,1
+749,SH 99 FM 2920 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 750,None,None,0,0,None,None,0,0,katy west ,1 2 ,1,2
 751,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 752,None,None,0,0,None,None,0,0,west post ,1 5 ,1,2
@@ -758,44 +758,44 @@
 756,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 757,None,None,0,0,wood county ,5 ,1,1,west ,3 ,1,1
 758,None,None,0,0,wood county ,5 ,1,1,None,None,0,0
-759,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-760,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-761,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+759,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+760,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+761,SH 6 ,1 ,1,1,None,None,0,0,None,None,0,0
 762,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-763,FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-764,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,clay county ,7 ,1,1,west ,4 ,1,1
+763,FM 1462 ,1 ,1,1,None,None,0,0,None,None,0,0
+764,SH 99 ,1 ,1,1,clay county ,7 ,1,1,west ,4 ,1,1
 765,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-766,FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 FM 1462 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+766,FM 1462 ,1 ,1,1,None,None,0,0,None,None,0,0
 767,None,None,0,0,houston county ,7 ,1,1,houston ,7 ,1,1
 768,None,None,0,0,None,None,0,0,None,None,0,0
 769,None,None,0,0,None,None,0,0,None,None,0,0
-770,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-771,FM 517 FM 517 FM 517 FM 517 FM 517 FM 517 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+770,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+771,FM 517 ,1 ,1,1,None,None,0,0,None,None,0,0
 772,None,None,0,0,None,None,0,0,None,None,0,0
-773,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
-774,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-775,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,bell county ,3 ,1,1,None,None,0,0
-776,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,bell county ,3 ,1,1,None,None,0,0
+773,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
+774,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+775,SH 288 ,1 ,1,1,bell county ,3 ,1,1,None,None,0,0
+776,SH 288 ,1 ,1,1,bell county ,3 ,1,1,None,None,0,0
 777,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 778,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 779,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 780,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
-781,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,houston county ,2 ,1,1,houston ,2 ,1,1
-782,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,2 ,1,1,houston ,2 ,1,1
-783,FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-784,FM 762 FM 762 FM 762 FM 762 FM 762 FM 762 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+781,FM 865 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
+782,SH 288 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
+783,FM 518 ,1 ,1,1,None,None,0,0,None,None,0,0
+784,FM 762 ,1 ,1,1,None,None,0,0,None,None,0,0
 785,None,None,0,0,houston county clay county ,2 6 ,1,2,west houston ,0 2 ,1,2
 786,None,None,0,0,None,None,0,0,None,None,0,0
-787,FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-788,FM 762 FM 762 FM 762 FM 762 FM 762 FM 762 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-789,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 FM 2234 FM 2234 FM 2234 FM 2234 FM 2234 FM 2234 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
-790,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 FM 2234 FM 2234 FM 2234 FM 2234 FM 2234 FM 2234 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
+787,FM 518 ,1 ,1,1,None,None,0,0,None,None,0,0
+788,FM 762 ,1 ,1,1,None,None,0,0,None,None,0,0
+789,SH 288 FM 2234 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+790,SH 288 FM 2234 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 791,None,None,0,0,None,None,0,0,west ,1 ,1,1
 792,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
-793,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,4 ,1,1,houston ,4 ,1,1
+793,SH 288 ,1 ,1,1,houston county ,4 ,1,1,houston ,4 ,1,1
 794,None,None,0,0,None,None,0,0,None,None,0,0
 795,None,None,0,0,None,None,0,0,None,None,0,0
-796,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+796,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 797,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 798,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 799,None,None,0,0,houston county galveston county ,2 8 ,1,2,houston galveston ,2 8 ,1,2
@@ -818,34 +818,34 @@
 816,None,None,0,0,None,None,0,0,west ,2 ,1,1
 817,None,None,0,0,None,None,0,0,None,None,0,0
 818,None,None,0,0,None,None,0,0,None,None,0,0
-819,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,houston county ,2 ,1,1,houston ,2 ,1,1
-820,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+819,FM 865 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
+820,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 821,None,None,0,0,None,None,0,0,tomball ,0 ,1,1
 822,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 823,None,None,0,0,None,None,0,0,tomball ,0 ,1,1
-824,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+824,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 825,None,None,0,0,None,None,0,0,None,None,0,0
-826,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-827,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+826,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+827,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 828,None,None,0,0,None,None,0,0,None,None,0,0
 829,None,None,0,0,None,None,0,0,None,None,0,0
 830,None,None,0,0,None,None,0,0,None,None,0,0
-831,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,hall county ,4 ,1,1,None,None,0,0
-832,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+831,SH 288 ,1 ,1,1,hall county ,4 ,1,1,None,None,0,0
+832,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 833,None,None,0,0,None,None,0,0,west post ,3 6 ,1,2
 834,None,None,0,0,None,None,0,0,west ,0 ,1,1
-835,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-836,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-837,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-838,FM 2854 FM 2854 FM 2854 FM 2854 FM 2854 FM 2854 ,1 2 3 4 5 6 ,1,6,montgomery county ,3 ,1,1,montgomery ,3 ,1,1
-839,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,4 ,1,1,houston ,4 ,1,1
-840,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-841,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,bell county ,3 ,1,1,None,None,0,0
+835,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+836,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+837,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+838,FM 2854 ,1 ,1,1,montgomery county ,3 ,1,1,montgomery ,3 ,1,1
+839,SH 288 ,1 ,1,1,houston county ,4 ,1,1,houston ,4 ,1,1
+840,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+841,SH 288 ,1 ,1,1,bell county ,3 ,1,1,None,None,0,0
 842,None,None,0,0,None,None,0,0,None,None,0,0
 843,None,None,0,0,None,None,0,0,None,None,0,0
 844,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-845,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-846,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+845,SH 6 ,1 ,1,1,None,None,0,0,None,None,0,0
+846,SH 6 ,1 ,1,1,None,None,0,0,None,None,0,0
 847,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 848,US 290 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 849,None,None,0,0,None,None,0,0,rankin ,5 ,1,1
@@ -870,44 +870,44 @@
 868,None,None,0,0,None,None,0,0,None,None,0,0
 869,None,None,0,0,houston county bell county ,2 6 ,1,2,west houston bellaire ,0 2 6 ,1,3
 870,None,None,0,0,None,None,0,0,None,None,0,0
-871,FM 1488 FM 1488 FM 1488 FM 1488 FM 1488 FM 1488 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+871,FM 1488 ,1 ,1,1,None,None,0,0,None,None,0,0
 872,None,None,0,0,houston county bell county ,2 6 ,1,2,houston west ,2 4 ,1,2
 873,None,None,0,0,None,None,0,0,katy west ,1 5 ,1,2
 874,None,None,0,0,travis county ,4 ,1,1,None,None,0,0
 875,None,None,0,0,None,None,0,0,west west ,0 2 ,1,2
 876,None,None,0,0,None,None,0,0,katy west west ,1 2 5 ,1,3
 877,None,None,0,0,None,None,0,0,west ,2 ,1,1
-878,FM 362 FM 362 FM 362 FM 362 FM 362 FM 362 ,1 2 3 4 5 6 ,1,6,None,None,0,0,winters ,3 ,1,1
+878,FM 362 ,1 ,1,1,None,None,0,0,winters ,3 ,1,1
 879,US 90 ,1 ,1,1,uvalde county ,3 ,1,1,west uvalde ,1 3 ,1,2
 880,US 90 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 881,None,None,0,0,None,None,0,0,katy west ,1 5 ,1,2
 882,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-883,FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+883,FM 1960 ,1 ,1,1,None,None,0,0,None,None,0,0
 884,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 885,None,None,0,0,None,None,0,0,None,None,0,0
 886,None,None,0,0,None,None,0,0,None,None,0,0
 887,None,None,0,0,None,None,0,0,None,None,0,0
 888,None,None,0,0,houston county ,2 ,1,1,west houston katy ,0 2 7 ,1,3
 889,None,None,0,0,lee county ,5 ,1,1,None,None,0,0
-890,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west west ,4 9 ,1,2
+890,SH 99 ,1 ,1,1,None,None,0,0,west west ,4 9 ,1,2
 891,None,None,0,0,None,None,0,0,None,None,0,0
-892,FM 1764 FM 1764 FM 1764 FM 1764 FM 1764 FM 1764 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+892,FM 1764 ,1 ,1,1,None,None,0,0,None,None,0,0
 893,None,None,0,0,None,None,0,0,None,None,0,0
 894,US 290 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 895,US 290 ,1 ,1,1,None,None,0,0,None,None,0,0
-896,US 290 FM 529 FM 529 FM 529 FM 529 FM 529 FM 529 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,west ,1 ,1,1
+896,US 290 FM 529 ,1 2 ,1,2,None,None,0,0,west ,1 ,1,1
 897,None,None,0,0,houston county ,2 ,1,1,houston west post ,2 4 7 ,1,3
 898,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 899,None,None,0,0,None,None,0,0,None,None,0,0
-900,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,walker county ,3 ,1,1,None,None,0,0
-901,SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+900,SH 3 ,1 ,1,1,walker county ,3 ,1,1,None,None,0,0
+901,SH 35 ,1 ,1,1,None,None,0,0,None,None,0,0
 902,None,None,0,0,None,None,0,0,None,None,0,0
-903,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,walker county ,3 ,1,1,None,None,0,0
+903,SH 3 ,1 ,1,1,walker county ,3 ,1,1,None,None,0,0
 904,None,None,0,0,houston county ,2 ,1,1,west houston west ,0 2 6 ,1,3
 905,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 906,None,None,0,0,None,None,0,0,None,None,0,0
-907,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
-908,SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 3 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
+907,SH 3 SH 146 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+908,SH 3 SH 146 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 909,None,None,0,0,None,None,0,0,None,None,0,0
 910,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 911,None,None,0,0,None,None,0,0,west ,2 ,1,1
@@ -917,8 +917,8 @@
 915,None,None,0,0,None,None,0,0,west ,2 ,1,1
 916,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 917,None,None,0,0,None,None,0,0,west ,3 ,1,1
-918,SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-919,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,3 ,1,1
+918,SH 242 ,1 ,1,1,None,None,0,0,None,None,0,0
+919,SH 288 ,1 ,1,1,None,None,0,0,west ,3 ,1,1
 920,None,None,0,0,None,None,0,0,None,None,0,0
 921,US 90 ,1 ,1,1,None,None,0,0,west ,2 ,1,1
 922,US 90 ,1 ,1,1,None,None,0,0,None,None,0,0
@@ -940,15 +940,15 @@
 938,None,None,0,0,None,None,0,0,None,None,0,0
 939,None,None,0,0,taylor county ,4 ,1,1,katy taylor ,1 4 ,1,2
 940,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-941,FM 2218 FM 2218 FM 2218 FM 2218 FM 2218 FM 2218 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-942,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,houston county ,2 ,1,1,houston west ,2 4 ,1,2
-943,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+941,FM 2218 ,1 ,1,1,None,None,0,0,None,None,0,0
+942,FM 865 ,1 ,1,1,houston county ,2 ,1,1,houston west ,2 4 ,1,2
+943,SH 225 ,1 ,1,1,None,None,0,0,None,None,0,0
 944,None,None,0,0,houston county ,7 ,1,1,houston ,7 ,1,1
-945,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+945,SH 225 ,1 ,1,1,None,None,0,0,None,None,0,0
 946,None,None,0,0,None,None,0,0,ross ,5 ,1,1
 947,None,None,0,0,None,None,0,0,rankin ,5 ,1,1
-948,FM 762 FM 762 FM 762 FM 762 FM 762 FM 762 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-949,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+948,FM 762 ,1 ,1,1,None,None,0,0,None,None,0,0
+949,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 950,None,None,0,0,None,None,0,0,None,None,0,0
 951,None,None,0,0,None,None,0,0,west ,3 ,1,1
 952,None,None,0,0,None,None,0,0,None,None,0,0
@@ -957,7 +957,7 @@
 955,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 956,None,None,0,0,bee county ,4 ,1,1,west ,1 ,1,1
 957,None,None,0,0,None,None,0,0,None,None,0,0
-958,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,1 ,1,1
+958,SH 288 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 959,None,None,0,0,None,None,0,0,west ,0 ,1,1
 960,None,None,0,0,None,None,0,0,west ,1 ,1,1
 961,None,None,0,0,None,None,0,0,None,None,0,0
@@ -971,7 +971,7 @@
 969,None,None,0,0,None,None,0,0,None,None,0,0
 970,None,None,0,0,None,None,0,0,None,None,0,0
 971,None,None,0,0,None,None,0,0,None,None,0,0
-972,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,houston county ,2 ,1,1,houston west ,2 4 ,1,2
+972,FM 865 ,1 ,1,1,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 973,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 974,None,None,0,0,None,None,0,0,west ,1 ,1,1
 975,None,None,0,0,None,None,0,0,west ,1 ,1,1
@@ -979,29 +979,29 @@
 977,None,None,0,0,None,None,0,0,west west rice ,0 2 4 ,1,3
 978,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 979,None,None,0,0,None,None,0,0,west ,1 ,1,1
-980,SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
-981,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+980,SH 35 SH 6 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+981,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 982,None,None,0,0,None,None,0,0,west ,1 ,1,1
 983,None,None,0,0,None,None,0,0,west ,1 ,1,1
 984,None,None,0,0,None,None,0,0,None,None,0,0
 985,None,None,0,0,None,None,0,0,west ,1 ,1,1
 986,None,None,0,0,houston county ,2 ,1,1,west houston west ,0 2 6 ,1,3
-987,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,2 ,1,1
-988,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
+987,FM 865 ,1 ,1,1,None,None,0,0,west ,2 ,1,1
+988,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
 989,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-990,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+990,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 991,None,None,0,0,None,None,0,0,katy west west ,1 2 5 ,1,3
 992,None,None,0,0,None,None,0,0,katy west ,1 5 ,1,2
-993,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,houston county ,2 ,1,1,houston ,2 ,1,1
+993,FM 865 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
 994,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 995,None,None,0,0,None,None,0,0,west ,1 ,1,1
 996,None,None,0,0,None,None,0,0,west ,2 ,1,1
-997,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+997,SH 6 ,1 ,1,1,None,None,0,0,None,None,0,0
 998,None,None,0,0,None,None,0,0,west ,1 ,1,1
 999,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1000,None,None,0,0,None,None,0,0,west ,1 ,1,1
 1001,None,None,0,0,bee county ,5 ,1,1,west ,1 ,1,1
-1002,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,hall county ,4 ,1,1,None,None,0,0
+1002,SH 288 ,1 ,1,1,hall county ,4 ,1,1,None,None,0,0
 1003,None,None,0,0,None,None,0,0,west west ,1 4 ,1,2
 1004,None,None,0,0,None,None,0,0,west ,1 ,1,1
 1005,None,None,0,0,None,None,0,0,west west ,1 5 ,1,2
@@ -1009,19 +1009,19 @@
 1007,None,None,0,0,None,None,0,0,west ,0 ,1,1
 1008,None,None,0,0,bee county ,4 ,1,1,west ,1 ,1,1
 1009,None,None,0,0,None,None,0,0,None,None,0,0
-1010,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,2 ,1,1
-1011,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1010,FM 865 ,1 ,1,1,None,None,0,0,west ,2 ,1,1
+1011,FM 865 ,1 ,1,1,None,None,0,0,None,None,0,0
 1012,None,None,0,0,bell county ,5 ,1,1,west bellaire ,1 5 ,1,2
 1013,None,None,0,0,None,None,0,0,west post ,0 4 ,1,2
 1014,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1015,None,None,0,0,None,None,0,0,west west ,1 5 ,1,2
 1016,None,None,0,0,bell county ,4 ,1,1,west bellaire ,1 4 ,1,2
-1017,FM 1092 FM 1092 FM 1092 FM 1092 FM 1092 FM 1092 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1017,FM 1092 ,1 ,1,1,None,None,0,0,None,None,0,0
 1018,US 290 ,1 ,1,1,None,None,0,0,west west ,1 2 ,1,2
 1019,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1020,None,None,0,0,None,None,0,0,west ,0 ,1,1
 1021,None,None,0,0,None,None,0,0,west ,1 ,1,1
-1022,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 FM 521 FM 521 FM 521 FM 521 FM 521 FM 521 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
+1022,SH 6 FM 521 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 1023,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1024,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 1025,None,None,0,0,bell county ,4 ,1,1,west ,1 ,1,1
@@ -1032,64 +1032,64 @@
 1030,US 290 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 1031,US 290 ,1 ,1,1,None,None,0,0,None,None,0,0
 1032,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston west ,2 4 ,1,2
-1033,FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west west ,1 5 ,1,2
+1033,FM 1093 ,1 ,1,1,None,None,0,0,west west ,1 5 ,1,2
 1034,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1035,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1036,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
 1037,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
-1038,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1038,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1039,None,None,0,0,None,None,0,0,west ,3 ,1,1
 1040,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1041,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
-1042,FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,1 ,1,1
-1043,FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1042,FM 2920 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
+1043,FM 2920 ,1 ,1,1,None,None,0,0,None,None,0,0
 1044,None,None,0,0,None,None,0,0,west west ,1 4 ,1,2
 1045,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1046,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
 1047,None,None,0,0,None,None,0,0,katy west ,1 2 ,1,2
-1048,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1048,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1049,None,None,0,0,None,None,0,0,west west ,1 4 ,1,2
 1050,None,None,0,0,None,None,0,0,katy west ,1 4 ,1,2
-1051,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1051,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1052,US 90 ,1 ,1,1,None,None,0,0,None,None,0,0
 1053,None,None,0,0,None,None,0,0,katy west ,1 4 ,1,2
-1054,FM 1464 FM 1464 FM 1464 FM 1464 FM 1464 FM 1464 ,1 2 3 4 5 6 ,1,6,bell county ,4 ,1,1,None,None,0,0
-1055,FM 1464 FM 1464 FM 1464 FM 1464 FM 1464 FM 1464 ,1 2 3 4 5 6 ,1,6,bell county ,4 ,1,1,None,None,0,0
+1054,FM 1464 ,1 ,1,1,bell county ,4 ,1,1,None,None,0,0
+1055,FM 1464 ,1 ,1,1,bell county ,4 ,1,1,None,None,0,0
 1056,None,None,0,0,None,None,0,0,west west ,1 5 ,1,2
 1057,None,None,0,0,None,None,0,0,west west ,1 5 ,1,2
 1058,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1059,None,None,0,0,None,None,0,0,west west ,1 4 ,1,2
 1060,None,None,0,0,None,None,0,0,west west ,1 4 ,1,2
-1061,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,1 ,1,1
+1061,SH 225 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 1062,None,None,0,0,houston county bee county ,2 6 ,1,2,west houston ,0 2 ,1,2
 1063,None,None,0,0,None,None,0,0,west ,4 ,1,1
 1064,None,None,0,0,houston county bee county ,2 6 ,1,2,west houston ,0 2 ,1,2
-1065,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,1 ,1,1
-1066,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1065,SH 225 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
+1066,SH 225 ,1 ,1,1,None,None,0,0,None,None,0,0
 1067,None,None,0,0,None,None,0,0,None,None,0,0
 1068,None,None,0,0,None,None,0,0,None,None,0,0
-1069,FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1069,FM 2920 ,1 ,1,1,None,None,0,0,None,None,0,0
 1070,None,None,0,0,None,None,0,0,katy west ,1 6 ,1,2
 1071,None,None,0,0,lee county ,4 ,1,1,None,None,0,0
-1072,SH 105 SH 105 SH 105 SH 105 SH 105 SH 105 SH 105 SH 105 SH 105 SH 105 SH 105 SH 105 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1072,SH 105 ,1 ,1,1,None,None,0,0,None,None,0,0
 1073,None,None,0,0,wilson county ,3 ,1,1,wilson ,3 ,1,1
-1074,FM 1097 FM 1097 FM 1097 FM 1097 FM 1097 FM 1097 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1074,FM 1097 ,1 ,1,1,None,None,0,0,None,None,0,0
 1075,None,None,0,0,None,None,0,0,None,None,0,0
 1076,None,None,0,0,houston county ,5 ,1,1,west west houston center ,0 2 5 6 ,1,4
 1077,None,None,0,0,None,None,0,0,west west ,0 2 ,1,2
 1078,None,None,0,0,None,None,0,0,None,None,0,0
-1079,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,1 ,1,1
-1080,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1079,SH 225 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
+1080,SH 225 ,1 ,1,1,None,None,0,0,None,None,0,0
 1081,None,None,0,0,None,None,0,0,None,None,0,0
 1082,None,None,0,0,None,None,0,0,None,None,0,0
-1083,FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1083,FM 1463 ,1 ,1,1,None,None,0,0,None,None,0,0
 1084,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 1085,None,None,0,0,None,None,0,0,None,None,0,0
 1086,US 290 ,1 ,1,1,None,None,0,0,west west west ,1 2 4 ,1,3
-1087,SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1087,SH 242 ,1 ,1,1,None,None,0,0,None,None,0,0
 1088,None,None,0,0,None,None,0,0,None,None,0,0
 1089,None,None,0,0,None,None,0,0,None,None,0,0
-1090,US 290 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,west ,1 ,1,1
+1090,US 290 FM 2920 ,1 2 ,1,2,None,None,0,0,west ,1 ,1,1
 1091,US 290 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 1092,None,None,0,0,None,None,0,0,None,None,0,0
 1093,None,None,0,0,None,None,0,0,None,None,0,0
@@ -1106,16 +1106,16 @@
 1104,None,None,0,0,None,None,0,0,None,None,0,0
 1105,US 90 ,1 ,1,1,None,None,0,0,None,None,0,0
 1106,None,None,0,0,None,None,0,0,None,None,0,0
-1107,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,1 ,1,1
-1108,SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-1109,SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,galveston county ,4 ,1,1,galveston ,4 ,1,1
-1110,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1107,SH 225 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
+1108,SH 87 ,1 ,1,1,None,None,0,0,None,None,0,0
+1109,SH 87 ,1 ,1,1,galveston county ,4 ,1,1,galveston ,4 ,1,1
+1110,SH 225 ,1 ,1,1,None,None,0,0,None,None,0,0
 1111,None,None,0,0,None,None,0,0,west ,3 ,1,1
 1112,None,None,0,0,None,None,0,0,katy west post ,1 4 7 ,1,3
 1113,None,None,0,0,None,None,0,0,west ,3 ,1,1
-1114,SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1114,SH 242 ,1 ,1,1,None,None,0,0,None,None,0,0
 1115,None,None,0,0,houston county bee county ,2 6 ,1,2,west houston ,0 2 ,1,2
-1116,FM 1097 FM 1097 FM 1097 FM 1097 FM 1097 FM 1097 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1116,FM 1097 ,1 ,1,1,None,None,0,0,None,None,0,0
 1117,None,None,0,0,hill county ,7 ,1,1,katy ,1 ,1,1
 1118,None,None,0,0,None,None,0,0,katy post ,1 7 ,1,2
 1119,None,None,0,0,hill county ,7 ,1,1,katy ,1 ,1,1
@@ -1124,8 +1124,8 @@
 1122,None,None,0,0,None,None,0,0,None,None,0,0
 1123,US 290 ,1 ,1,1,None,None,0,0,west west west ,1 2 4 ,1,3
 1124,None,None,0,0,None,None,0,0,None,None,0,0
-1125,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
-1126,SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 SH 242 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1125,SH 6 SH 146 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+1126,SH 242 ,1 ,1,1,None,None,0,0,None,None,0,0
 1127,None,None,0,0,wilson county ,3 ,1,1,wilson ,3 ,1,1
 1128,None,None,0,0,None,None,0,0,None,None,0,0
 1129,None,None,0,0,None,None,0,0,katy west ,1 4 ,1,2
@@ -1138,9 +1138,9 @@
 1136,None,None,0,0,lee county ,4 ,1,1,None,None,0,0
 1137,US 290 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 1138,None,None,0,0,None,None,0,0,None,None,0,0
-1139,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1139,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1140,None,None,0,0,hill county ,5 ,1,1,katy ,1 ,1,1
-1141,FM 2090 FM 2090 FM 2090 FM 2090 FM 2090 FM 2090 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1141,FM 2090 ,1 ,1,1,None,None,0,0,None,None,0,0
 1142,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 1143,None,None,0,0,houston county ,2 ,1,1,houston pasadena ,2 6 ,1,2
 1144,None,None,0,0,hill county ,5 ,1,1,katy ,1 ,1,1
@@ -1148,17 +1148,17 @@
 1146,None,None,0,0,None,None,0,0,None,None,0,0
 1147,None,None,0,0,None,None,0,0,None,None,0,0
 1148,None,None,0,0,None,None,0,0,west ,0 ,1,1
-1149,FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 FM 1463 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1149,FM 1463 ,1 ,1,1,None,None,0,0,None,None,0,0
 1150,None,None,0,0,None,None,0,0,west ,0 ,1,1
 1151,None,None,0,0,None,None,0,0,wallis ,4 ,1,1
 1152,None,None,0,0,None,None,0,0,None,None,0,0
-1153,FM 2218 FM 2218 FM 2218 FM 2218 FM 2218 FM 2218 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1153,FM 2218 ,1 ,1,1,None,None,0,0,None,None,0,0
 1154,None,None,0,0,None,None,0,0,wallis ,4 ,1,1
 1155,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 1156,None,None,0,0,None,None,0,0,None,None,0,0
 1157,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 1158,None,None,0,0,None,None,0,0,west ,1 ,1,1
-1159,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1159,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1160,None,None,0,0,None,None,0,0,west ,2 ,1,1
 1161,None,None,0,0,None,None,0,0,None,None,0,0
 1162,None,None,0,0,None,None,0,0,None,None,0,0
@@ -1172,7 +1172,7 @@
 1170,None,None,0,0,houston county bee county ,2 6 ,1,2,west houston ,0 2 ,1,2
 1171,None,None,0,0,None,None,0,0,None,None,0,0
 1172,None,None,0,0,None,None,0,0,None,None,0,0
-1173,FM 2218 FM 2218 FM 2218 FM 2218 FM 2218 FM 2218 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1173,FM 2218 ,1 ,1,1,None,None,0,0,None,None,0,0
 1174,None,None,0,0,None,None,0,0,None,None,0,0
 1175,None,None,0,0,None,None,0,0,west ,2 ,1,1
 1176,None,None,0,0,None,None,0,0,west west ,1 5 ,1,2
@@ -1181,18 +1181,18 @@
 1179,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
 1180,None,None,0,0,None,None,0,0,None,None,0,0
 1181,None,None,0,0,None,None,0,0,None,None,0,0
-1182,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,1 ,1,1
+1182,FM 359 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 1183,None,None,0,0,None,None,0,0,katy ,5 ,1,1
 1184,None,None,0,0,None,None,0,0,katy ,5 ,1,1
 1185,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1186,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
 1187,US 90 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
-1188,SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,tomball ,1 ,1,1
+1188,SH 249 ,1 ,1,1,None,None,0,0,tomball ,1 ,1,1
 1189,None,None,0,0,None,None,0,0,west west ,1 4 ,1,2
 1190,None,None,0,0,None,None,0,0,west west ,1 4 ,1,2
-1191,SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,2 ,1,1,houston tomball ,2 7 ,1,2
-1192,US 290 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,west ,1 ,1,1
-1193,SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,2 ,1,1,houston tomball ,2 7 ,1,2
+1191,SH 249 ,1 ,1,1,houston county ,2 ,1,1,houston tomball ,2 7 ,1,2
+1192,US 290 FM 2920 ,1 2 ,1,2,None,None,0,0,west ,1 ,1,1
+1193,SH 249 ,1 ,1,1,houston county ,2 ,1,1,houston tomball ,2 7 ,1,2
 1194,None,None,0,0,None,None,0,0,None,None,0,0
 1195,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1196,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
@@ -1218,12 +1218,12 @@
 1216,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1217,None,None,0,0,None,None,0,0,None,None,0,0
 1218,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
-1219,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1219,SH 225 ,1 ,1,1,None,None,0,0,None,None,0,0
 1220,None,None,0,0,None,None,0,0,None,None,0,0
 1221,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 1222,None,None,0,0,None,None,0,0,west ,1 ,1,1
 1223,None,None,0,0,None,None,0,0,katy ,5 ,1,1
-1224,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1224,SH 225 ,1 ,1,1,None,None,0,0,None,None,0,0
 1225,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1226,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1227,None,None,0,0,None,None,0,0,katy ,5 ,1,1
@@ -1231,21 +1231,21 @@
 1229,None,None,0,0,hill county ,7 ,1,1,katy west ,1 4 ,1,2
 1230,None,None,0,0,None,None,0,0,katy west ,1 4 ,1,2
 1231,None,None,0,0,None,None,0,0,katy west ,1 4 ,1,2
-1232,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,allen ,3 ,1,1
-1233,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
+1232,SH 225 ,1 ,1,1,None,None,0,0,allen ,3 ,1,1
+1233,SH 288 FM 518 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 1234,None,None,0,0,None,None,0,0,None,None,0,0
-1235,SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-1236,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,allen ,3 ,1,1
-1237,SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 87 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 SH 124 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
+1235,SH 87 ,1 ,1,1,None,None,0,0,None,None,0,0
+1236,SH 225 ,1 ,1,1,None,None,0,0,allen ,3 ,1,1
+1237,SH 87 SH 124 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 1238,None,None,0,0,None,None,0,0,None,None,0,0
-1239,Spur 342 Spur 342 Spur 342 Spur 342 Spur 342 Spur 342 Spur 342 Spur 342 Spur 342 Spur 342 Spur 342 Spur 342 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,spur ,0 ,1,1
+1239,Spur 342 ,1 ,1,1,None,None,0,0,spur ,0 ,1,1
 1240,None,None,0,0,None,None,0,0,None,None,0,0
 1241,None,None,0,0,None,None,0,0,None,None,0,0
 1242,None,None,0,0,None,None,0,0,None,None,0,0
 1243,None,None,0,0,None,None,0,0,None,None,0,0
 1244,None,None,0,0,houston county hill county ,2 6 ,1,2,houston ,2 ,1,1
 1245,None,None,0,0,houston county hill county ,2 6 ,1,2,houston ,2 ,1,1
-1246,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 FM 518 FM 518 FM 518 FM 518 FM 518 FM 518 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 ,1,18,None,None,0,0,None,None,0,0
+1246,SH 288 FM 518 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 1247,None,None,0,0,houston county houston county ,2 8 ,1,2,houston houston ,2 8 ,1,2
 1248,None,None,0,0,None,None,0,0,None,None,0,0
 1249,None,None,0,0,None,None,0,0,None,None,0,0
@@ -1263,7 +1263,7 @@
 1261,None,None,0,0,None,None,0,0,katy west ,1 2 ,1,2
 1262,None,None,0,0,taylor county ,4 ,1,1,katy west taylor ,1 2 4 ,1,3
 1263,None,None,0,0,None,None,0,0,katy ,1 ,1,1
-1264,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,4 ,1,1,houston ,4 ,1,1
+1264,SH 288 ,1 ,1,1,houston county ,4 ,1,1,houston ,4 ,1,1
 1265,None,None,0,0,None,None,0,0,None,None,0,0
 1266,US 290 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 1267,None,None,0,0,None,None,0,0,None,None,0,0
@@ -1277,22 +1277,22 @@
 1275,None,None,0,0,houston county ,2 ,1,1,west houston west ,0 2 7 ,1,3
 1276,None,None,0,0,None,None,0,0,rankin ,4 ,1,1
 1277,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
-1278,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,4 ,1,1,houston ,4 ,1,1
+1278,SH 288 ,1 ,1,1,houston county ,4 ,1,1,houston ,4 ,1,1
 1279,None,None,0,0,None,None,0,0,None,None,0,0
-1280,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,2 ,1,1,houston west ,2 4 ,1,2
-1281,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,2 ,1,1,houston west ,2 4 ,1,2
+1280,SH 288 ,1 ,1,1,houston county ,2 ,1,1,houston west ,2 4 ,1,2
+1281,SH 288 ,1 ,1,1,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1282,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 1283,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 1284,None,None,0,0,None,None,0,0,None,None,0,0
 1285,None,None,0,0,houston county ,2 ,1,1,west houston richmond ,0 2 6 ,1,3
-1286,FM 1765 FM 1765 FM 1765 FM 1765 FM 1765 FM 1765 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1286,FM 1765 ,1 ,1,1,None,None,0,0,None,None,0,0
 1287,None,None,0,0,None,None,0,0,None,None,0,0
 1288,None,None,0,0,wood county ,5 ,1,1,None,None,0,0
 1289,None,None,0,0,parker county ,5 ,1,1,parker ,5 ,1,1
 1290,None,None,0,0,parker county ,5 ,1,1,parker ,5 ,1,1
 1291,None,None,0,0,None,None,0,0,west ,4 ,1,1
 1292,None,None,0,0,None,None,0,0,west ,4 ,1,1
-1293,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1293,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1294,None,None,0,0,None,None,0,0,west katy ,1 6 ,1,2
 1295,None,None,0,0,None,None,0,0,west katy ,1 6 ,1,2
 1296,None,None,0,0,houston county ,2 ,1,1,houston west west ,2 4 6 ,1,3
@@ -1301,20 +1301,20 @@
 1299,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1300,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1301,None,None,0,0,None,None,0,0,katy west west ,1 2 5 ,1,3
-1302,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-1303,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-1304,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
+1302,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+1303,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+1304,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
 1305,None,None,0,0,None,None,0,0,None,None,0,0
 1306,None,None,0,0,houston county ,2 ,1,1,houston post ,2 7 ,1,2
 1307,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1308,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
-1309,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
+1309,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
 1310,None,None,0,0,None,None,0,0,None,None,0,0
 1311,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-1312,FM 525 FM 525 FM 525 FM 525 FM 525 FM 525 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
-1313,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 US 90 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,None,None,0,0
-1314,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 US 90 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,None,None,0,0
-1315,FM 525 FM 525 FM 525 FM 525 FM 525 FM 525 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1312,FM 525 ,1 ,1,1,None,None,0,0,None,None,0,0
+1313,FM 359 US 90 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+1314,FM 359 US 90 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+1315,FM 525 ,1 ,1,1,None,None,0,0,None,None,0,0
 1316,None,None,0,0,houston county ,2 ,1,1,houston post ,2 7 ,1,2
 1317,None,None,0,0,None,None,0,0,None,None,0,0
 1318,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
@@ -1326,22 +1326,22 @@
 1324,None,None,0,0,None,None,0,0,None,None,0,0
 1325,None,None,0,0,None,None,0,0,None,None,0,0
 1326,None,None,0,0,None,None,0,0,None,None,0,0
-1327,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,2 ,1,1,houston ,2 ,1,1
+1327,SH 225 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
 1328,None,None,0,0,None,None,0,0,None,None,0,0
-1329,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1329,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1330,None,None,0,0,None,None,0,0,None,None,0,0
-1331,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1331,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1332,None,None,0,0,None,None,0,0,None,None,0,0
 1333,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
-1334,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,2 ,1,1,houston ,2 ,1,1
+1334,SH 225 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
 1335,US 90 ,1 ,1,1,houston county ,2 ,1,1,houston ,2 ,1,1
-1336,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-1337,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1336,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+1337,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1338,None,None,0,0,None,None,0,0,None,None,0,0
 1339,None,None,0,0,None,None,0,0,west west ,1 5 ,1,2
 1340,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 1341,None,None,0,0,None,None,0,0,None,None,0,0
-1342,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west pearland ,1 3 ,1,2
+1342,SH 6 ,1 ,1,1,None,None,0,0,west pearland ,1 3 ,1,2
 1343,None,None,0,0,None,None,0,0,west spur ,1 4 ,1,2
 1344,None,None,0,0,None,None,0,0,None,None,0,0
 1345,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
@@ -1352,10 +1352,10 @@
 1350,None,None,0,0,None,None,0,0,None,None,0,0
 1351,None,None,0,0,None,None,0,0,west spur ,1 4 ,1,2
 1352,None,None,0,0,None,None,0,0,None,None,0,0
-1353,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 US 90 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,None,None,0,0
-1354,FM 359 FM 359 FM 359 FM 359 FM 359 FM 359 US 90 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,None,None,0,0
+1353,FM 359 US 90 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+1354,FM 359 US 90 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 1355,None,None,0,0,houston county ,2 ,1,1,west houston katy ,0 2 7 ,1,3
-1356,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west pearland ,1 3 ,1,2
+1356,SH 6 ,1 ,1,1,None,None,0,0,west pearland ,1 3 ,1,2
 1357,None,None,0,0,houston county ,2 ,1,1,west houston katy ,0 2 7 ,1,3
 1358,None,None,0,0,None,None,0,0,None,None,0,0
 1359,None,None,0,0,None,None,0,0,None,None,0,0
@@ -1371,20 +1371,20 @@
 1369,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1370,None,None,0,0,None,None,0,0,west ,0 ,1,1
 1371,None,None,0,0,None,None,0,0,None,None,0,0
-1372,FM 525 FM 525 FM 525 FM 525 FM 525 FM 525 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1372,FM 525 ,1 ,1,1,None,None,0,0,None,None,0,0
 1373,None,None,0,0,None,None,0,0,west ,0 ,1,1
-1374,FM 525 FM 525 FM 525 FM 525 FM 525 FM 525 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1374,FM 525 ,1 ,1,1,None,None,0,0,None,None,0,0
 1375,None,None,0,0,clay county ,6 ,1,1,None,None,0,0
 1376,None,None,0,0,None,None,0,0,katy west ,1 5 ,1,2
 1377,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1378,None,None,0,0,None,None,0,0,west ,1 ,1,1
 1379,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1380,None,None,0,0,houston county ,6 ,1,1,houston ,6 ,1,1
-1381,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1381,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1382,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1383,None,None,0,0,clay county ,6 ,1,1,None,None,0,0
 1384,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
-1385,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1385,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1386,None,None,0,0,None,None,0,0,ross ,4 ,1,1
 1387,None,None,0,0,None,None,0,0,ross ,4 ,1,1
 1388,None,None,0,0,None,None,0,0,west post ,1 5 ,1,2
@@ -1412,10 +1412,10 @@
 1410,None,None,0,0,houston county ,2 ,1,1,west houston west ,0 2 6 ,1,3
 1411,None,None,0,0,None,None,0,0,None,None,0,0
 1412,None,None,0,0,houston county ,2 ,1,1,west houston west ,0 2 6 ,1,3
-1413,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,katy west ,1 2 ,1,2
+1413,SH 6 ,1 ,1,1,None,None,0,0,katy west ,1 2 ,1,2
 1414,None,None,0,0,None,None,0,0,None,None,0,0
-1415,SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 SH 6 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,katy west ,1 2 ,1,2
-1416,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,4 ,1,1,houston ,4 ,1,1
+1415,SH 6 ,1 ,1,1,None,None,0,0,katy west ,1 2 ,1,2
+1416,SH 288 ,1 ,1,1,houston county ,4 ,1,1,houston ,4 ,1,1
 1417,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 1418,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1419,None,None,0,0,hill county ,4 ,1,1,west ,1 ,1,1
@@ -1425,41 +1425,41 @@
 1423,None,None,0,0,houston county houston county ,2 8 ,1,2,houston houston ,2 8 ,1,2
 1424,None,None,0,0,None,None,0,0,katy west ,1 2 ,1,2
 1425,None,None,0,0,None,None,0,0,katy ,1 ,1,1
-1426,SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,2 ,1,1,houston west tomball ,2 4 7 ,1,3
+1426,SH 249 ,1 ,1,1,houston county ,2 ,1,1,houston west tomball ,2 4 7 ,1,3
 1427,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 1428,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-1429,FM 865 FM 865 FM 865 FM 865 FM 865 FM 865 ,1 2 3 4 5 6 ,1,6,houston county ,2 ,1,1,houston west ,2 4 ,1,2
-1430,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-1431,SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 SH 249 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,houston county ,2 ,1,1,houston west tomball ,2 4 7 ,1,3
+1429,FM 865 ,1 ,1,1,houston county ,2 ,1,1,houston west ,2 4 ,1,2
+1430,SH 225 ,1 ,1,1,None,None,0,0,None,None,0,0
+1431,SH 249 ,1 ,1,1,houston county ,2 ,1,1,houston west tomball ,2 4 7 ,1,3
 1432,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 1433,None,None,0,0,None,None,0,0,None,None,0,0
 1434,None,None,0,0,None,None,0,0,west ,2 ,1,1
 1435,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-1436,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1436,SH 225 ,1 ,1,1,None,None,0,0,None,None,0,0
 1437,None,None,0,0,None,None,0,0,None,None,0,0
 1438,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 1439,None,None,0,0,None,None,0,0,None,None,0,0
 1440,None,None,0,0,houston county ,2 ,1,1,houston humble ,2 7 ,1,2
 1441,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
-1442,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
+1442,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
 1443,None,None,0,0,houston county ,2 ,1,1,houston humble ,2 7 ,1,2
 1444,None,None,0,0,None,None,0,0,None,None,0,0
-1445,SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1445,SH 146 ,1 ,1,1,None,None,0,0,None,None,0,0
 1446,None,None,0,0,None,None,0,0,None,None,0,0
-1447,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
+1447,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
 1448,None,None,0,0,None,None,0,0,west ,1 ,1,1
 1449,None,None,0,0,houston county ,2 ,1,1,houston west ,2 4 ,1,2
 1450,None,None,0,0,None,None,0,0,west richmond ,1 5 ,1,2
-1451,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
+1451,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
 1452,None,None,0,0,None,None,0,0,west ,1 ,1,1
 1453,None,None,0,0,None,None,0,0,west west ,1 6 ,1,2
 1454,None,None,0,0,houston county ,2 ,1,1,west houston west ,0 2 6 ,1,3
-1455,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
+1455,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
 1456,None,None,0,0,None,None,0,0,west west ,1 6 ,1,2
 1457,None,None,0,0,houston county ,2 ,1,1,west houston west ,0 2 6 ,1,3
 1458,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
 1459,None,None,0,0,None,None,0,0,west richmond ,1 5 ,1,2
-1460,SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 SH 146 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1460,SH 146 ,1 ,1,1,None,None,0,0,None,None,0,0
 1461,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 1462,None,None,0,0,None,None,0,0,west ,3 ,1,1
 1463,None,None,0,0,None,None,0,0,west ,3 ,1,1
@@ -1469,8 +1469,8 @@
 1467,None,None,0,0,None,None,0,0,west post ,1 5 ,1,2
 1468,None,None,0,0,None,None,0,0,shepherd ,5 ,1,1
 1469,None,None,0,0,None,None,0,0,None,None,0,0
-1470,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
-1471,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,4 ,1,1
+1470,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
+1471,SH 288 ,1 ,1,1,None,None,0,0,west ,4 ,1,1
 1472,None,None,0,0,None,None,0,0,None,None,0,0
 1473,None,None,0,0,None,None,0,0,west ,2 ,1,1
 1474,None,None,0,0,None,None,0,0,None,None,0,0
@@ -1478,8 +1478,8 @@
 1476,None,None,0,0,None,None,0,0,west west ,1 6 ,1,2
 1477,None,None,0,0,None,None,0,0,west west ,1 6 ,1,2
 1478,None,None,0,0,None,None,0,0,None,None,0,0
-1479,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-1480,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1479,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+1480,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1481,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 1482,None,None,0,0,None,None,0,0,katy ,1 ,1,1
 1483,None,None,0,0,None,None,0,0,None,None,0,0
@@ -1490,30 +1490,30 @@
 1488,None,None,0,0,None,None,0,0,west ,4 ,1,1
 1489,None,None,0,0,None,None,0,0,None,None,0,0
 1490,None,None,0,0,None,None,0,0,west ,4 ,1,1
-1491,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1491,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1492,None,None,0,0,None,None,0,0,None,None,0,0
 1493,None,None,0,0,None,None,0,0,None,None,0,0
 1494,None,None,0,0,None,None,0,0,katy ,1 ,1,1
-1495,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
-1496,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1495,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
+1496,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1497,None,None,0,0,None,None,0,0,None,None,0,0
 1498,None,None,0,0,None,None,0,0,west west ,1 5 ,1,2
-1499,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,None,None,0,0
+1499,SH 288 ,1 ,1,1,None,None,0,0,None,None,0,0
 1500,None,None,0,0,None,None,0,0,west west ,1 5 ,1,2
 1501,None,None,0,0,None,None,0,0,None,None,0,0
 1502,None,None,0,0,None,None,0,0,None,None,0,0
 1503,None,None,0,0,None,None,0,0,katy ,1 ,1,1
-1504,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,katy west ,1 2 ,1,2
-1505,FM 1092 FM 1092 FM 1092 FM 1092 FM 1092 FM 1092 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west murphy ,1 5 ,1,2
+1504,SH 99 ,1 ,1,1,None,None,0,0,katy west ,1 2 ,1,2
+1505,FM 1092 ,1 ,1,1,None,None,0,0,west murphy ,1 5 ,1,2
 1506,None,None,0,0,None,None,0,0,None,None,0,0
 1507,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
-1508,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,bell county ,3 ,1,1,None,None,0,0
+1508,SH 288 ,1 ,1,1,bell county ,3 ,1,1,None,None,0,0
 1509,None,None,0,0,None,None,0,0,None,None,0,0
 1510,None,None,0,0,houston county ,2 ,1,1,west houston ,0 2 ,1,2
-1511,SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,bell county ,3 ,1,1,None,None,0,0
+1511,SH 288 ,1 ,1,1,bell county ,3 ,1,1,None,None,0,0
 1512,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 1513,US 90 ,1 ,1,1,None,None,0,0,west stafford ,2 4 ,1,2
-1514,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,katy west ,1 2 ,1,2
+1514,SH 99 ,1 ,1,1,None,None,0,0,katy west ,1 2 ,1,2
 1515,US 90 ,1 ,1,1,None,None,0,0,west stafford ,2 4 ,1,2
 1516,None,None,0,0,None,None,0,0,None,None,0,0
 1517,None,None,0,0,None,None,0,0,west ,1 ,1,1
@@ -1550,26 +1550,26 @@
 1548,None,None,0,0,None,None,0,0,west ,1 ,1,1
 1549,None,None,0,0,None,None,0,0,west ,1 ,1,1
 1550,None,None,0,0,None,None,0,0,None,None,0,0
-1551,SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 SH 225 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,None,None,0,0,west ,1 ,1,1
+1551,SH 225 ,1 ,1,1,None,None,0,0,west ,1 ,1,1
 1552,None,None,0,0,None,None,0,0,None,None,0,0
 1553,None,None,0,0,houston county ,2 ,1,1,houston ,2 ,1,1
 1554,None,None,0,0,None,None,0,0,None,None,0,0
-1555,SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 35 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 SH 288 ,1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 ,1,24,None,None,0,0,None,None,0,0
+1555,SH 35 SH 288 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 1556,None,None,0,0,None,None,0,0,None,None,0,0
 1557,None,None,0,0,None,None,0,0,None,None,0,0
-1558,FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 FM 1093 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west west ,1 5 ,1,2
+1558,FM 1093 ,1 ,1,1,None,None,0,0,west west ,1 5 ,1,2
 1559,None,None,0,0,bell county bell county ,3 17 ,1,2,bellaire bellaire ,3 17 ,1,2
 1560,None,None,0,0,bell county bell county ,6 18 ,1,2,bellaire bellaire ,6 18 ,1,2
 1561,None,None,0,0,bell county ,6 ,1,1,bellaire ,6 ,1,1
 1562,I-10 ,1 ,1,1,None,None,0,0,baytown baytown ,5 8 ,1,2
 1563,I-10 ,1 ,1,1,None,None,0,0,baytown baytown ,5 8 ,1,2
 1564,US 69 ,1 ,1,1,houston county ,19 ,1,1,houston ,19 ,1,1
-1565,US 69 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,humble rankin ,5 12 ,1,2
+1565,US 69 FM 1960 ,1 2 ,1,2,None,None,0,0,humble rankin ,5 12 ,1,2
 1566,US 69 ,1 ,1,1,houston county ,18 ,1,1,houston ,18 ,1,1
 1567,I-69 ,1 ,1,1,king county wood county ,6 6 ,1,2,None,None,0,0
-1568,US 69 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 7 ,1,7,king county ,1 ,1,1,humble rankin ,5 12 ,1,2
+1568,US 69 FM 1960 ,1 2 ,1,2,king county ,1 ,1,1,humble rankin ,5 12 ,1,2
 1569,US 69 ,1 ,1,1,king county houston county ,1 20 ,1,2,houston ,20 ,1,1
-1570,US 69 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 FM 1960 ,1 2 3 4 5 6 7 ,1,7,king county ,1 ,1,1,None,None,0,0
+1570,US 69 FM 1960 ,1 2 ,1,2,king county ,1 ,1,1,None,None,0,0
 1571,I-45 ,1 ,1,1,None,None,0,0,None,None,0,0
 1572,None,None,0,0,crosby county hall county ,7 14 ,1,2,None,None,0,0
 1573,None,None,0,0,crosby county hall county ,7 14 ,1,2,None,None,0,0
@@ -1595,7 +1595,7 @@
 1593,I-69 ,1 ,1,1,houston county ,5 ,1,1,houston ,5 ,1,1
 1594,I-10 ,1 ,1,1,king county ,1 ,1,1,katy ,15 ,1,1
 1595,I-10 ,1 ,1,1,jefferson county brooks county ,5 10 ,1,2,jefferson ,5 ,1,1
-1596,I-10 FM 1663 FM 1663 FM 1663 FM 1663 FM 1663 FM 1663 ,1 2 3 4 5 6 7 ,1,7,chambers county ,5 ,1,1,None,None,0,0
+1596,I-10 FM 1663 ,1 2 ,1,2,chambers county ,5 ,1,1,None,None,0,0
 1597,I-10 ,1 ,1,1,None,None,0,0,baytown ,8 ,1,1
 1598,I-10 ,1 ,1,1,None,None,0,0,baytown baytown ,5 8 ,1,2
 1599,I-10 ,1 ,1,1,None,None,0,0,baytown baytown ,5 8 ,1,2
@@ -1797,7 +1797,7 @@
 1795,None,None,0,0,None,None,0,0,west ,7 ,1,1
 1796,None,None,0,0,houston county ,7 ,1,1,houston ,7 ,1,1
 1797,None,None,0,0,houston county clay county ,6 16 ,1,2,houston ,6 ,1,1
-1798,FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 ,1 2 3 4 5 6 ,1,6,brazoria county ,6 ,1,1,brazoria ,6 ,1,1
+1798,FM 1459 ,1 ,1,1,brazoria county ,6 ,1,1,brazoria ,6 ,1,1
 1799,None,None,0,0,None,None,0,0,None,None,0,0
 1800,I-45 I-10 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 1801,I-45 I-10 ,1 2 ,1,2,None,None,0,0,None,None,0,0
@@ -1868,7 +1868,7 @@
 1866,I-45 ,1 ,1,1,king county ,2 ,1,1,None,None,0,0
 1867,I-10 ,1 ,1,1,crosby county ,13 ,1,1,baytown baytown ,5 8 ,1,2
 1868,I-10 I-45 ,1 2 ,1,2,taylor county ,12 ,1,1,katy taylor ,8 12 ,1,2
-1869,I-10 FM 1663 FM 1663 FM 1663 FM 1663 FM 1663 FM 1663 ,1 2 3 4 5 6 7 ,1,7,chambers county ,6 ,1,1,None,None,0,0
+1869,I-10 FM 1663 ,1 2 ,1,2,chambers county ,6 ,1,1,None,None,0,0
 1870,None,None,0,0,houston county ,16 ,1,1,houston ,16 ,1,1
 1871,None,None,0,0,None,None,0,0,west ,14 ,1,1
 1872,None,None,0,0,None,None,0,0,west ,14 ,1,1
@@ -1914,12 +1914,12 @@
 1912,US 90 I-10 ,1 2 ,1,2,colorado county ,6 ,1,1,None,None,0,0
 1913,US 69 ,1 ,1,1,montgomery county ,6 ,1,1,montgomery ,6 ,1,1
 1914,US 90 I-10 ,1 2 ,1,2,colorado county ,6 ,1,1,None,None,0,0
-1915,FM 521 FM 521 FM 521 FM 521 FM 521 FM 521 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+1915,FM 521 ,1 ,1,1,None,None,0,0,None,None,0,0
 1916,None,None,0,0,montgomery county ,7 ,1,1,montgomery ,7 ,1,1
 1917,None,None,0,0,None,None,0,0,None,None,0,0
 1918,I-45 ,1 ,1,1,wood county ,14 ,1,1,None,None,0,0
 1919,I-45 ,1 ,1,1,None,None,0,0,None,None,0,0
-1920,I-10 FM 1663 FM 1663 FM 1663 FM 1663 FM 1663 FM 1663 ,1 2 3 4 5 6 7 ,1,7,chambers county ,6 ,1,1,None,None,0,0
+1920,I-10 FM 1663 ,1 2 ,1,2,chambers county ,6 ,1,1,None,None,0,0
 1921,I-45 ,1 ,1,1,wood county ,9 ,1,1,None,None,0,0
 1922,I-10 ,1 ,1,1,None,None,0,0,baytown baytown ,3 6 ,1,2
 1923,None,None,0,0,None,None,0,0,None,None,0,0
@@ -1940,7 +1940,7 @@
 1938,None,None,0,0,harris county houston county ,3 12 ,1,2,houston ,12 ,1,1
 1939,I-45 ,1 ,1,1,None,None,0,0,None,None,0,0
 1940,None,None,0,0,houston county clay county ,6 16 ,1,2,houston ,6 ,1,1
-1941,FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 FM 1459 ,1 2 3 4 5 6 ,1,6,brazoria county ,6 ,1,1,brazoria ,6 ,1,1
+1941,FM 1459 ,1 ,1,1,brazoria county ,6 ,1,1,brazoria ,6 ,1,1
 1942,I-10 I-45 ,1 2 ,1,2,king county ,2 ,1,1,None,None,0,0
 1943,None,None,0,0,None,None,0,0,None,None,0,0
 1944,None,None,0,0,None,None,0,0,baytown hart ,6 17 ,1,2
@@ -2007,7 +2007,7 @@
 2005,None,None,0,0,None,None,0,0,None,None,0,0
 2006,None,None,0,0,hardin county ,6 ,1,1,hardin ,6 ,1,1
 2007,I-45 I-10 ,1 2 ,1,2,None,None,0,0,None,None,0,0
-2008,I-10 FM 1663 FM 1663 FM 1663 FM 1663 FM 1663 FM 1663 ,1 2 3 4 5 6 7 ,1,7,chambers county ,6 ,1,1,None,None,0,0
+2008,I-10 FM 1663 ,1 2 ,1,2,chambers county ,6 ,1,1,None,None,0,0
 2009,US 90 I-10 ,1 2 ,1,2,colorado county ,6 ,1,1,None,None,0,0
 2010,I-10 ,1 ,1,1,houston county ,21 ,1,1,baytown houston ,14 21 ,1,2
 2011,I-10 ,1 ,1,1,houston county ,15 ,1,1,houston baytown ,15 19 ,1,2
@@ -2027,7 +2027,7 @@
 2025,None,None,0,0,None,None,0,0,None,None,0,0
 2026,I-69 ,1 ,1,1,None,None,0,0,None,None,0,0
 2027,US 69 ,1 ,1,1,None,None,0,0,cleveland ,7 ,1,1
-2028,US 69 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 FM 2025 FM 2025 FM 2025 FM 2025 FM 2025 FM 2025 ,1 2 3 4 5 6 7 8 9 10 11 12 13 ,1,13,None,None,0,0,None,None,0,0
+2028,US 69 FM 2914 FM 2025 ,1 2 3 ,1,3,None,None,0,0,None,None,0,0
 2029,I-69 ,1 ,1,1,None,None,0,0,None,None,0,0
 2030,None,None,0,0,None,None,0,0,None,None,0,0
 2031,None,None,0,0,clay county ,15 ,1,1,katy ,7 ,1,1
@@ -2052,7 +2052,7 @@
 2050,I-45 I-10 ,1 2 ,1,2,wood county ,12 ,1,1,None,None,0,0
 2051,I-10 ,1 ,1,1,None,None,0,0,None,None,0,0
 2052,None,None,0,0,harris county ,6 ,1,1,None,None,0,0
-2053,FM 521 FM 521 FM 521 FM 521 FM 521 FM 521 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+2053,FM 521 ,1 ,1,1,None,None,0,0,None,None,0,0
 2054,None,None,0,0,None,None,0,0,alvin ,7 ,1,1
 2055,None,None,0,0,None,None,0,0,None,None,0,0
 2056,None,None,0,0,wood county ,14 ,1,1,None,None,0,0
@@ -2084,7 +2084,7 @@
 2082,I-10 ,1 ,1,1,uvalde county ,15 ,1,1,baytown uvalde ,10 15 ,1,2
 2083,I-10 ,1 ,1,1,wood county ,15 ,1,1,baytown ,10 ,1,1
 2084,None,None,0,0,None,None,0,0,None,None,0,0
-2085,FM 521 FM 521 FM 521 FM 521 FM 521 FM 521 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+2085,FM 521 ,1 ,1,1,None,None,0,0,None,None,0,0
 2086,None,None,0,0,harris county ,3 ,1,1,None,None,0,0
 2087,None,None,0,0,None,None,0,0,None,None,0,0
 2088,I-10 ,1 ,1,1,None,None,0,0,katy ,10 ,1,1
@@ -2097,7 +2097,7 @@
 2095,None,None,0,0,harris county houston county ,6 10 ,1,2,houston west ,10 16 ,1,2
 2096,I-69 ,1 ,1,1,houston county lee county ,6 15 ,1,2,houston ,6 ,1,1
 2097,None,None,0,0,None,None,0,0,west ,8 ,1,1
-2098,US 69 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,None,None,0,0
+2098,US 69 FM 2914 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 2099,US 69 I-45 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 2100,None,None,0,0,houston county ,7 ,1,1,houston ,7 ,1,1
 2101,None,None,0,0,None,None,0,0,ross ,13 ,1,1
@@ -2223,9 +2223,9 @@
 2221,None,None,0,0,None,None,0,0,None,None,0,0
 2222,I-10 ,1 ,1,1,None,None,0,0,None,None,0,0
 2223,I-10 ,1 ,1,1,None,None,0,0,None,None,0,0
-2224,FM 521 FM 521 FM 521 FM 521 FM 521 FM 521 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+2224,FM 521 ,1 ,1,1,None,None,0,0,None,None,0,0
 2225,None,None,0,0,harris county ,6 ,1,1,None,None,0,0
-2226,FM 521 FM 521 FM 521 FM 521 FM 521 FM 521 ,1 2 3 4 5 6 ,1,6,None,None,0,0,None,None,0,0
+2226,FM 521 ,1 ,1,1,None,None,0,0,None,None,0,0
 2227,None,None,0,0,houston county ,6 ,1,1,houston ,6 ,1,1
 2228,None,None,0,0,None,None,0,0,west ,6 ,1,1
 2229,None,None,0,0,None,None,0,0,pasadena ,7 ,1,1
@@ -2257,8 +2257,8 @@
 2255,None,None,0,0,None,None,0,0,None,None,0,0
 2256,I-69 ,1 ,1,1,None,None,0,0,None,None,0,0
 2257,US 69 ,1 ,1,1,None,None,0,0,cleveland ,7 ,1,1
-2258,US 69 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 FM 2025 FM 2025 FM 2025 FM 2025 FM 2025 FM 2025 ,1 2 3 4 5 6 7 8 9 10 11 12 13 ,1,13,None,None,0,0,None,None,0,0
-2259,US 69 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,None,None,0,0
+2258,US 69 FM 2914 FM 2025 ,1 2 3 ,1,3,None,None,0,0,None,None,0,0
+2259,US 69 FM 2914 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 2260,I-69 ,1 ,1,1,None,None,0,0,None,None,0,0
 2261,None,None,0,0,None,None,0,0,None,None,0,0
 2262,None,None,0,0,None,None,0,0,None,None,0,0
@@ -2353,19 +2353,19 @@
 2351,I-45 ,1 ,1,1,dickens county ,10 ,1,1,dickens ,10 ,1,1
 2352,I-45 ,1 ,1,1,None,None,0,0,None,None,0,0
 2353,US 69 ,1 ,1,1,None,None,0,0,rosenberg ,6 ,1,1
-2354,US 77 FM 155 FM 155 FM 155 FM 155 FM 155 FM 155 ,1 2 3 4 5 6 7 ,1,7,king county fayette county ,2 6 ,1,2,None,None,0,0
+2354,US 77 FM 155 ,1 2 ,1,2,king county fayette county ,2 6 ,1,2,None,None,0,0
 2355,None,None,0,0,waller county ,7 ,1,1,waller rice ,7 18 ,1,2
 2356,US 69 ,1 ,1,1,king county ,2 ,1,1,cleveland ,8 ,1,1
 2357,None,None,0,0,None,None,0,0,None,None,0,0
-2358,FM 2025 FM 2025 FM 2025 FM 2025 FM 2025 FM 2025 ,1 2 3 4 5 6 ,1,6,None,None,0,0,west ,10 ,1,1
-2359,US 69 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,None,None,0,0
+2358,FM 2025 ,1 ,1,1,None,None,0,0,west ,10 ,1,1
+2359,US 69 FM 2914 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 2360,None,None,0,0,None,None,0,0,None,None,0,0
 2361,None,None,0,0,None,None,0,0,None,None,0,0
 2362,None,None,0,0,king county brazos county ,2 6 ,1,2,None,None,0,0
 2363,None,None,0,0,None,None,0,0,None,None,0,0
 2364,None,None,0,0,king county fayette county ,2 8 ,1,2,lockhart hart ,14 14 ,1,2
 2365,None,None,0,0,clay county ,13 ,1,1,katy ,5 ,1,1
-2366,US 69 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 FM 2914 FM 2025 FM 2025 FM 2025 FM 2025 FM 2025 FM 2025 ,1 2 3 4 5 6 7 8 9 10 11 12 13 ,1,13,king county ,2 ,1,1,None,None,0,0
+2366,US 69 FM 2914 FM 2025 ,1 2 3 ,1,3,king county ,2 ,1,1,None,None,0,0
 2367,None,None,0,0,harris county ,3 ,1,1,None,None,0,0
 2368,None,None,0,0,None,None,0,0,None,None,0,0
 2369,I-69 ,1 ,1,1,None,None,0,0,west ,14 ,1,1
@@ -2747,7 +2747,7 @@
 2745,None,None,0,0,None,None,0,0,pasadena ,5 ,1,1
 2746,None,None,0,0,None,None,0,0,pasadena ,5 ,1,1
 2747,I-69 ,1 ,1,1,None,None,0,0,west ,13 ,1,1
-2748,FM 523 FM 523 FM 523 FM 523 FM 523 FM 523 ,1 2 3 4 5 6 ,1,6,brazoria county ,4 ,1,1,brazoria ,4 ,1,1
+2748,FM 523 ,1 ,1,1,brazoria county ,4 ,1,1,brazoria ,4 ,1,1
 2749,None,None,0,0,houston county ,9 ,1,1,houston ,9 ,1,1
 2750,None,None,0,0,houston county ,9 ,1,1,houston pasadena ,9 13 ,1,2
 2751,I-10 ,1 ,1,1,houston county ,6 ,1,1,west houston katy ,2 6 17 ,1,3
@@ -2791,10 +2791,10 @@
 2789,None,None,0,0,houston county ,6 ,1,1,west houston ,2 6 ,1,2
 2790,None,None,0,0,houston county ,7 ,1,1,houston ,7 ,1,1
 2791,None,None,0,0,houston county ,7 ,1,1,houston ,7 ,1,1
-2792,FM 523 FM 523 FM 523 FM 523 FM 523 FM 523 ,1 2 3 4 5 6 ,1,6,brazoria county ,4 ,1,1,brazoria ,4 ,1,1
+2792,FM 523 ,1 ,1,1,brazoria county ,4 ,1,1,brazoria ,4 ,1,1
 2793,None,None,0,0,None,None,0,0,richmond ,7 ,1,1
 2794,None,None,0,0,None,None,0,0,west ,14 ,1,1
-2795,FM 523 FM 523 FM 523 FM 523 FM 523 FM 523 ,1 2 3 4 5 6 ,1,6,brazoria county ,4 ,1,1,brazoria ,4 ,1,1
+2795,FM 523 ,1 ,1,1,brazoria county ,4 ,1,1,brazoria ,4 ,1,1
 2796,I-10 ,1 ,1,1,None,None,0,0,west katy ,6 9 ,1,2
 2797,None,None,0,0,None,None,0,0,None,None,0,0
 2798,None,None,0,0,None,None,0,0,None,None,0,0
@@ -2808,7 +2808,7 @@
 2806,None,None,0,0,None,None,0,0,ross pasadena ,2 6 ,1,2
 2807,None,None,0,0,None,None,0,0,ross tomball ,2 7 ,1,2
 2808,I-10 ,1 ,1,1,None,None,0,0,west katy west ,10 13 19 ,1,3
-2809,FM 523 FM 523 FM 523 FM 523 FM 523 FM 523 ,1 2 3 4 5 6 ,1,6,brazoria county ,4 ,1,1,brazoria ,4 ,1,1
+2809,FM 523 ,1 ,1,1,brazoria county ,4 ,1,1,brazoria ,4 ,1,1
 2810,I-45 ,1 ,1,1,None,None,0,0,willis ,6 ,1,1
 2811,None,None,0,0,houston county ,11 ,1,1,ross houston pasadena ,2 11 15 ,1,3
 2812,I-10 ,1 ,1,1,None,None,0,0,None,None,0,0
@@ -2825,9 +2825,9 @@
 2823,None,None,0,0,houston county ,11 ,1,1,ross houston pasadena ,2 11 15 ,1,3
 2824,None,None,0,0,None,None,0,0,None,None,0,0
 2825,I-45 ,1 ,1,1,None,None,0,0,willis ,6 ,1,1
-2826,FM 523 FM 523 FM 523 FM 523 FM 523 FM 523 ,1 2 3 4 5 6 ,1,6,brazoria county ,4 ,1,1,brazoria ,4 ,1,1
+2826,FM 523 ,1 ,1,1,brazoria county ,4 ,1,1,brazoria ,4 ,1,1
 2827,None,None,0,0,None,None,0,0,None,None,0,0
-2828,FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 FM 2920 ,1 2 3 4 5 6 ,1,6,None,None,0,0,tomball ,9 ,1,1
+2828,FM 2920 ,1 ,1,1,None,None,0,0,tomball ,9 ,1,1
 2829,None,None,0,0,None,None,0,0,beasley ,6 ,1,1
 2830,None,None,0,0,houston county ,6 ,1,1,houston ,6 ,1,1
 2831,I-45 ,1 ,1,1,None,None,0,0,None,None,0,0
@@ -3145,7 +3145,7 @@
 3143,None,None,0,0,None,None,0,0,None,None,0,0
 3144,None,None,0,0,None,None,0,0,west ,11 ,1,1
 3145,None,None,0,0,None,None,0,0,None,None,0,0
-3146,US 1 ,1 ,1,1,rains county ,15 ,1,1,point ,8 ,1,1
+3146,None,None,0,0,rains county ,15 ,1,1,point ,8 ,1,1
 3147,None,None,0,0,brooks county ,5 ,1,1,None,None,0,0
 3148,None,None,0,0,galveston county ,14 ,1,1,mansfield galveston ,7 14 ,1,2
 3149,None,None,0,0,None,None,0,0,None,None,0,0
@@ -3198,7 +3198,7 @@
 3196,None,None,0,0,None,None,0,0,None,None,0,0
 3197,None,None,0,0,rains county ,1 ,1,1,ross ,3 ,1,1
 3198,None,None,0,0,None,None,0,0,None,None,0,0
-3199,SH 34 SH 34 SH 34 SH 34 SH 34 SH 34 SH 34 SH 34 SH 34 SH 34 SH 34 SH 34 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,galveston county ,4 ,1,1,galveston early ,4 10 ,1,2
+3199,None,None,0,0,galveston county ,4 ,1,1,galveston early ,4 10 ,1,2
 3200,None,None,0,0,None,None,0,0,None,None,0,0
 3201,None,None,0,0,None,None,0,0,None,None,0,0
 3202,None,None,0,0,None,None,0,0,None,None,0,0
@@ -3266,5 +3266,5 @@
 3264,None,None,0,0,None,None,0,0,None,None,0,0
 3265,None,None,0,0,None,None,0,0,garland richmond ,4 4 ,1,2
 3266,None,None,0,0,None,None,0,0,None,None,0,0
-3267,SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 SH 99 ,1 2 3 4 5 6 7 8 9 10 11 12 ,1,12,bell county bell county ,5 11 ,1,2,None,None,0,0
+3267,SH 99 ,1 ,1,1,bell county bell county ,5 11 ,1,2,None,None,0,0
 3268,None,None,0,0,houston county ,0 ,1,1,houston ,0 ,1,1

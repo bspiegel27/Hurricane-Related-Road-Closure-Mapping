@@ -12,7 +12,7 @@
 10,None,None,0,0,None,None,0,0,None,None,0,0
 11,None,None,0,0,None,None,0,0,None,None,0,0
 12,None,None,0,0,None,None,0,0,fayetteville fayetteville ,7 16 ,1,2
-13,None,None,0,0,None,None,0,0,bunn como ,7 39 ,1,2
+13,None,None,0,0,None,None,0,0,bunn ,7 ,1,1
 14,None,None,0,0,None,None,0,0,None,None,0,0
 15,None,None,0,0,tyrrell county tyrrell county ,8 23 ,1,2,star columbia ,13 31 ,1,2
 16,None,None,0,0,None,None,0,0,None,None,0,0
@@ -102,12 +102,12 @@
 100,None,None,0,0,None,None,0,0,None,None,0,0
 101,None,None,0,0,brunswick county ,0 ,1,1,brunswick ,0 ,1,1
 102,None,None,0,0,None,None,0,0,None,None,0,0
-103,None,None,0,0,pender county ,12 ,1,1,como ,14 ,1,1
-104,NC 8 NC 87 ,1 2 ,1,2,columbus county ,4 ,1,1,columbus ,4 ,1,1
+103,None,None,0,0,pender county ,12 ,1,1,None,None,0,0
+104,NC 87 ,1 ,1,1,columbus county ,4 ,1,1,columbus ,4 ,1,1
 105,None,None,0,0,None,None,0,0,None,None,0,0
 106,None,None,0,0,None,None,0,0,None,None,0,0
 107,None,None,0,0,None,None,0,0,None,None,0,0
-108,None,None,0,0,None,None,0,0,como ,10 ,1,1
+108,None,None,0,0,None,None,0,0,None,None,0,0
 109,None,None,0,0,bladen county ,0 ,1,1,None,None,0,0
 110,None,None,0,0,columbus county ,0 ,1,1,columbus ,0 ,1,1
 111,None,None,0,0,None,None,0,0,wilmington ,0 ,1,1
@@ -168,7 +168,7 @@
 166,None,None,0,0,pender county ,5 ,1,1,None,None,0,0
 167,None,None,0,0,None,None,0,0,None,None,0,0
 168,None,None,0,0,None,None,0,0,stem ,22 ,1,1
-169,US 7 US 701 ,1 2 ,1,2,bladen county bladen county ,2 4 ,1,2,elizabethtown elizabethtown ,16 24 ,1,2
+169,US 701 ,1 ,1,1,bladen county bladen county ,2 4 ,1,2,elizabethtown elizabethtown ,16 24 ,1,2
 170,None,None,0,0,None,None,0,0,None,None,0,0
 171,None,None,0,0,None,None,0,0,None,None,0,0
 172,None,None,0,0,None,None,0,0,stem stem ,2 43 ,1,2
@@ -209,7 +209,7 @@
 207,None,None,0,0,None,None,0,0,None,None,0,0
 208,None,None,0,0,None,None,0,0,king ,16 ,1,1
 209,None,None,0,0,None,None,0,0,None,None,0,0
-210,None,None,0,0,None,None,0,0,como ,2 ,1,1
+210,None,None,0,0,None,None,0,0,None,None,0,0
 211,None,None,0,0,None,None,0,0,None,None,0,0
 212,None,None,0,0,None,None,0,0,earl ,9 ,1,1
 213,None,None,0,0,None,None,0,0,None,None,0,0
@@ -230,7 +230,7 @@
 228,None,None,0,0,None,None,0,0,None,None,0,0
 229,None,None,0,0,None,None,0,0,wilmington ,26 ,1,1
 230,None,None,0,0,union county ,13 ,1,1,None,None,0,0
-231,None,None,0,0,None,None,0,0,como ,5 ,1,1
+231,None,None,0,0,None,None,0,0,None,None,0,0
 232,None,None,0,0,None,None,0,0,None,None,0,0
 233,None,None,0,0,None,None,0,0,wilmington ,0 ,1,1
 234,None,None,0,0,None,None,0,0,None,None,0,0
@@ -256,7 +256,7 @@
 254,None,None,0,0,None,None,0,0,None,None,0,0
 255,None,None,0,0,None,None,0,0,king ,3 ,1,1
 256,None,None,0,0,None,None,0,0,wilmington ,1 ,1,1
-257,None,None,0,0,None,None,0,0,como ,34 ,1,1
+257,None,None,0,0,None,None,0,0,None,None,0,0
 258,None,None,0,0,None,None,0,0,king ,3 ,1,1
 259,None,None,0,0,None,None,0,0,None,None,0,0
 260,None,None,0,0,None,None,0,0,None,None,0,0
@@ -297,7 +297,7 @@
 295,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 296,US 64 I-40 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 297,None,None,0,0,None,None,0,0,king raleigh ,2 11 ,1,2
-298,US 6 US 64 NC 8 NC 82 I-74 ,1 2 3 4 5 ,1,5,nash county harnett county cumberland county cumberland county robeson county ,10 21 21 30 30 ,1,5,None,None,0,0
+298,US 64 I-40 NC 82 I-74 ,1 2 3 4 ,1,4,nash county harnett county cumberland county cumberland county robeson county ,10 21 21 30 30 ,1,5,None,None,0,0
 299,None,None,0,0,None,None,0,0,None,None,0,0
 300,I-95 ,1 ,1,1,None,None,0,0,king ,8 ,1,1
 301,None,None,0,0,None,None,0,0,None,None,0,0
@@ -316,7 +316,7 @@
 314,None,None,0,0,None,None,0,0,None,None,0,0
 315,None,None,0,0,None,None,0,0,None,None,0,0
 316,None,None,0,0,None,None,0,0,raleigh ,8 ,1,1
-317,NC 11 US 2 US 258 ,1 2 3 ,1,3,None,None,0,0,None,None,0,0
+317,NC 11 US 258 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 318,NC 11 ,1 ,1,1,None,None,0,0,kinston ,12 ,1,1
 319,None,None,0,0,None,None,0,0,None,None,0,0
 320,None,None,0,0,None,None,0,0,raleigh ,22 ,1,1
@@ -332,8 +332,8 @@
 330,None,None,0,0,None,None,0,0,None,None,0,0
 331,None,None,0,0,None,None,0,0,None,None,0,0
 332,None,None,0,0,None,None,0,0,raleigh ,9 ,1,1
-333,None,None,0,0,None,None,0,0,king wendell raleigh ,2 10 40 ,1,3
-334,US 6 US 64 ,1 2 ,1,2,None,None,0,0,knightdale ,9 ,1,1
+333,None,None,0,0,None,None,0,0,king wendell raleigh ,2 10 39 ,1,3
+334,US 64 ,1 ,1,1,None,None,0,0,knightdale ,9 ,1,1
 335,None,None,0,0,None,None,0,0,raleigh ,11 ,1,1
 336,None,None,0,0,None,None,0,0,king ,2 ,1,1
 337,None,None,0,0,None,None,0,0,None,None,0,0
@@ -341,7 +341,7 @@
 339,None,None,0,0,None,None,0,0,king ,7 ,1,1
 340,None,None,0,0,None,None,0,0,None,None,0,0
 341,None,None,0,0,None,None,0,0,raleigh ,11 ,1,1
-342,US 26 US 264 I-73 ,1 2 3 ,1,3,None,None,0,0,wilmington raleigh ,23 38 ,1,2
+342,US 264 I-73 ,1 2 ,1,2,None,None,0,0,wilmington raleigh ,23 38 ,1,2
 343,None,None,0,0,None,None,0,0,None,None,0,0
 344,None,None,0,0,None,None,0,0,goldsboro ,13 ,1,1
 345,None,None,0,0,wayne county ,10 ,1,1,None,None,0,0
@@ -349,18 +349,18 @@
 347,None,None,0,0,None,None,0,0,None,None,0,0
 348,I-40 ,1 ,1,1,durham county ,7 ,1,1,durham ,7 ,1,1
 349,None,None,0,0,durham county ashe county durham county ,2 14 17 ,1,3,durham durham ,2 17 ,1,2
-350,I-95 US 6 US 64 NC 8 NC 82 NC 87 I-74 ,1 2 3 4 5 6 7 ,1,7,None,None,0,0,king dunn fayetteville lumberton wallace wilmington ,2 19 23 26 32 34 ,1,6
-351,NC 8 NC 87 I-74 ,1 2 3 ,1,3,None,None,0,0,fayetteville lumberton ,10 14 ,1,2
+350,I-95 US 64 I-40 NC 82 NC 87 I-74 ,1 2 3 4 5 6 ,1,6,None,None,0,0,king dunn fayetteville lumberton wallace wilmington ,2 19 23 26 32 34 ,1,6
+351,I-95 NC 87 I-74 ,1 2 3 ,1,3,None,None,0,0,fayetteville lumberton ,10 14 ,1,2
 352,None,None,0,0,ashe county durham county ,8 15 ,1,2,durham ,15 ,1,1
 353,I-95 ,1 ,1,1,None,None,0,0,fayetteville ,9 ,1,1
 354,None,None,0,0,person county ,10 ,1,1,fayetteville ,3 ,1,1
-355,US 9 ,1 ,1,1,None,None,0,0,fayetteville ,8 ,1,1
+355,None,None,0,0,None,None,0,0,fayetteville ,8 ,1,1
 356,None,None,0,0,None,None,0,0,None,None,0,0
 357,None,None,0,0,durham county ,16 ,1,1,raleigh durham fayetteville ,15 16 17 ,1,3
 358,None,None,0,0,anson county ,6 ,1,1,None,None,0,0
 359,None,None,0,0,durham county ,11 ,1,1,raleigh durham fayetteville ,10 11 12 ,1,3
 360,None,None,0,0,cumberland county ,4 ,1,1,fayetteville ,8 ,1,1
-361,I-95 I-74 ,1 2 ,1,2,durham county ,22 ,1,1,wilmington raleigh durham ,9 21 22 ,1,3
+361,I-95 I-40 I-74 ,1 2 3 ,1,3,durham county ,22 ,1,1,wilmington raleigh durham ,9 21 22 ,1,3
 362,None,None,0,0,scotland county ,6 ,1,1,laurinburg stem ,4 11 ,1,2
 363,I-95 NC 72 ,1 2 ,1,2,None,None,0,0,lumberton ,14 ,1,1
 364,None,None,0,0,None,None,0,0,None,None,0,0
@@ -380,7 +380,7 @@
 378,None,None,0,0,None,None,0,0,king raleigh ,3 12 ,1,2
 379,None,None,0,0,None,None,0,0,apex ,13 ,1,1
 380,None,None,0,0,durham county ,4 ,1,1,durham ,4 ,1,1
-381,NC 5 NC 55 ,1 2 ,1,2,None,None,0,0,apex ,9 ,1,1
+381,NC 55 ,1 ,1,1,None,None,0,0,apex ,9 ,1,1
 382,None,None,0,0,None,None,0,0,None,None,0,0
 383,None,None,0,0,None,None,0,0,raleigh ,10 ,1,1
 384,None,None,0,0,None,None,0,0,earl wilmington ,1 8 ,1,2
@@ -392,19 +392,19 @@
 390,None,None,0,0,None,None,0,0,None,None,0,0
 391,None,None,0,0,ashe county ,9 ,1,1,None,None,0,0
 392,None,None,0,0,None,None,0,0,None,None,0,0
-393,None,None,0,0,durham county ,12 ,1,1,raleigh durham como ,10 12 17 ,1,3
+393,None,None,0,0,durham county ,12 ,1,1,raleigh durham ,10 12 ,1,2
 394,None,None,0,0,None,None,0,0,wilmington ,16 ,1,1
 395,None,None,0,0,None,None,0,0,wilmington ,14 ,1,1
 396,None,None,0,0,None,None,0,0,None,None,0,0
-397,NC 2 NC 210 I-40 ,1 2 3 ,1,3,None,None,0,0,None,None,0,0
+397,NC 210 I-95 I-40 ,1 2 3 ,1,3,None,None,0,0,None,None,0,0
 398,I-95 I-40 ,1 2 ,1,2,None,None,0,0,benson dunn raleigh ,8 16 21 ,1,3
-399,US 1 US 17 ,1 2 ,1,2,jones county ,7 ,1,1,pollocksville ,13 ,1,1
+399,US 17 ,1 ,1,1,jones county ,7 ,1,1,pollocksville ,13 ,1,1
 400,None,None,0,0,None,None,0,0,None,None,0,0
 401,None,None,0,0,None,None,0,0,None,None,0,0
 402,None,None,0,0,None,None,0,0,None,None,0,0
 403,None,None,0,0,None,None,0,0,raleigh ,15 ,1,1
 404,None,None,0,0,None,None,0,0,king ,23 ,1,1
-405,US 7 US 70 ,1 2 ,1,2,None,None,0,0,newport ,7 ,1,1
+405,US 70 ,1 ,1,1,None,None,0,0,newport ,7 ,1,1
 406,None,None,0,0,None,None,0,0,raleigh ,17 ,1,1
 407,None,None,0,0,None,None,0,0,wilmington ,5 ,1,1
 408,None,None,0,0,None,None,0,0,None,None,0,0
@@ -576,7 +576,7 @@
 574,None,None,0,0,cumberland county ,13 ,1,1,None,None,0,0
 575,None,None,0,0,cumberland county ,13 ,1,1,None,None,0,0
 576,None,None,0,0,durham county ,4 ,1,1,durham cary morrisville ,4 6 8 ,1,3
-577,None,None,0,0,wilson county ,5 ,1,1,wilson goldsboro como ,5 7 15 ,1,3
+577,None,None,0,0,wilson county ,5 ,1,1,wilson goldsboro ,5 7 ,1,2
 578,None,None,0,0,wilson county ,5 ,1,1,wilson goldsboro ,5 7 ,1,2
 579,None,None,0,0,sampson county ,13 ,1,1,None,None,0,0
 580,None,None,0,0,None,None,0,0,eureka ,4 ,1,1
@@ -610,7 +610,7 @@
 608,None,None,0,0,None,None,0,0,None,None,0,0
 609,None,None,0,0,None,None,0,0,None,None,0,0
 610,None,None,0,0,None,None,0,0,laurinburg wagram laurinburg ,4 6 9 ,1,3
-611,None,None,0,0,None,None,0,0,greensboro winston-salem como ,4 6 14 ,1,3
+611,None,None,0,0,None,None,0,0,greensboro winston-salem ,4 6 ,1,2
 612,None,None,0,0,None,None,0,0,None,None,0,0
 613,None,None,0,0,None,None,0,0,laurinburg wagram laurinburg ,3 5 8 ,1,3
 614,None,None,0,0,None,None,0,0,laurinburg wagram laurinburg ,4 6 9 ,1,3
@@ -622,8 +622,8 @@
 620,None,None,0,0,None,None,0,0,None,None,0,0
 621,None,None,0,0,None,None,0,0,None,None,0,0
 622,None,None,0,0,None,None,0,0,fayetteville ,11 ,1,1
-623,US 1 US 117 ,1 2 ,1,2,None,None,0,0,goldsboro ,4 ,1,1
-624,US 7 US 70 ,1 2 ,1,2,None,None,0,0,smithfield smithfield ,4 25 ,1,2
+623,US 117 ,1 ,1,1,None,None,0,0,goldsboro ,4 ,1,1
+624,US 70 ,1 ,1,1,None,None,0,0,smithfield smithfield ,4 25 ,1,2
 625,None,None,0,0,clay county ,4 ,1,1,clayton ,4 ,1,1
 626,None,None,0,0,None,None,0,0,princeton ,4 ,1,1
 627,None,None,0,0,None,None,0,0,None,None,0,0
@@ -669,7 +669,7 @@
 667,None,None,0,0,None,None,0,0,greensboro winston-salem ,4 6 ,1,2
 668,None,None,0,0,durham county ,4 ,1,1,durham morrisville ,4 6 ,1,2
 669,None,None,0,0,clay county ,14 ,1,1,clayton goldsboro smithfield ,14 15 17 ,1,3
-670,None,None,0,0,None,None,0,0,como ,34 ,1,1
+670,None,None,0,0,None,None,0,0,None,None,0,0
 671,None,None,0,0,wake county ,6 ,1,1,None,None,0,0
 672,None,None,0,0,None,None,0,0,raleigh ,1 ,1,1
 673,None,None,0,0,None,None,0,0,None,None,0,0
@@ -707,7 +707,7 @@
 705,None,None,0,0,None,None,0,0,raleigh fayetteville cary ,4 6 8 ,1,3
 706,None,None,0,0,None,None,0,0,raleigh cary apex ,5 7 9 ,1,3
 707,None,None,0,0,None,None,0,0,None,None,0,0
-708,None,None,0,0,None,None,0,0,goldsboro como ,3 13 ,1,2
+708,None,None,0,0,None,None,0,0,goldsboro ,3 ,1,1
 709,None,None,0,0,None,None,0,0,fayetteville ,5 ,1,1
 710,None,None,0,0,None,None,0,0,goldsboro ,4 ,1,1
 711,None,None,0,0,None,None,0,0,None,None,0,0
@@ -722,7 +722,7 @@
 720,None,None,0,0,None,None,0,0,goldsboro princeton ,23 25 ,1,2
 721,None,None,0,0,None,None,0,0,goldsboro smithfield selma ,4 6 8 ,1,3
 722,None,None,0,0,None,None,0,0,None,None,0,0
-723,None,None,0,0,None,None,0,0,raeford como ,5 15 ,1,2
+723,None,None,0,0,None,None,0,0,raeford ,5 ,1,1
 724,None,None,0,0,None,None,0,0,None,None,0,0
 725,None,None,0,0,None,None,0,0,oxford ,3 ,1,1
 726,None,None,0,0,None,None,0,0,None,None,0,0
@@ -769,7 +769,7 @@
 767,None,None,0,0,wilson county ,4 ,1,1,wilson goldsboro ,4 6 ,1,2
 768,None,None,0,0,None,None,0,0,None,None,0,0
 769,None,None,0,0,None,None,0,0,None,None,0,0
-770,None,None,0,0,None,None,0,0,como ,36 ,1,1
+770,None,None,0,0,None,None,0,0,None,None,0,0
 771,None,None,0,0,None,None,0,0,clinton roseboro ,4 9 ,1,2
 772,None,None,0,0,None,None,0,0,None,None,0,0
 773,None,None,0,0,None,None,0,0,None,None,0,0
@@ -782,7 +782,7 @@
 780,None,None,0,0,None,None,0,0,None,None,0,0
 781,None,None,0,0,None,None,0,0,laurinburg ,9 ,1,1
 782,None,None,0,0,None,None,0,0,fayetteville ,9 ,1,1
-783,None,None,0,0,None,None,0,0,como ,34 ,1,1
+783,None,None,0,0,None,None,0,0,None,None,0,0
 784,None,None,0,0,None,None,0,0,None,None,0,0
 785,None,None,0,0,None,None,0,0,fayetteville ,24 ,1,1
 786,None,None,0,0,None,None,0,0,fayetteville ,2 ,1,1
@@ -808,7 +808,7 @@
 806,None,None,0,0,None,None,0,0,None,None,0,0
 807,None,None,0,0,None,None,0,0,None,None,0,0
 808,None,None,0,0,None,None,0,0,northwest ,8 ,1,1
-809,None,None,0,0,wake county chatham county franklin county nash county ,14 17 18 20 ,1,4,northwest raleigh franklin ,7 16 18 ,1,3
+809,None,None,0,0,wake county chatham county franklin county nash county ,14 16 17 19 ,1,4,northwest raleigh franklin ,7 15 17 ,1,3
 810,None,None,0,0,None,None,0,0,garner ,1 ,1,1
 811,None,None,0,0,None,None,0,0,raleigh ,9 ,1,1
 812,None,None,0,0,None,None,0,0,None,None,0,0
@@ -902,14 +902,14 @@
 900,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
 901,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
 902,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
-903,US 2 US 264 ,1 2 ,1,2,None,None,0,0,zebulon ,5 ,1,1
-904,US 6 US 64 ,1 2 ,1,2,None,None,0,0,zebulon ,5 ,1,1
+903,US 264 ,1 ,1,1,None,None,0,0,zebulon ,5 ,1,1
+904,US 64 ,1 ,1,1,None,None,0,0,zebulon ,5 ,1,1
 905,I-85 ,1 ,1,1,None,None,0,0,norlina ,7 ,1,1
 906,US 1 ,1 ,1,1,None,None,0,0,cary ,5 ,1,1
 907,I-85 ,1 ,1,1,None,None,0,0,None,None,0,0
 908,US 1 ,1 ,1,1,None,None,0,0,cary ,5 ,1,1
-909,US 2 US 264 ,1 2 ,1,2,None,None,0,0,zebulon ,5 ,1,1
-910,US 6 US 64 ,1 2 ,1,2,None,None,0,0,zebulon ,5 ,1,1
+909,US 264 ,1 ,1,1,None,None,0,0,zebulon ,5 ,1,1
+910,US 64 ,1 ,1,1,None,None,0,0,zebulon ,5 ,1,1
 911,US 1 ,1 ,1,1,None,None,0,0,cary ,5 ,1,1
 912,I-440 ,1 ,1,1,None,None,0,0,None,None,0,0
 913,I-40 ,1 ,1,1,None,None,0,0,None,None,0,0
@@ -971,11 +971,11 @@
 969,None,None,0,0,None,None,0,0,None,None,0,0
 970,None,None,0,0,pitt county ,4 ,1,1,pittsboro ,4 ,1,1
 971,I-40 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
-972,NC 14 NC 147 ,1 2 ,1,2,durham county ,5 ,1,1,durham ,5 ,1,1
+972,NC 147 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 973,I-40 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 974,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 975,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
-976,NC 14 NC 147 ,1 2 ,1,2,durham county ,5 ,1,1,durham ,5 ,1,1
+976,NC 147 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 977,I-440 ,1 ,1,1,None,None,0,0,raleigh ,0 ,1,1
 978,None,None,0,0,None,None,0,0,zebulon ,5 ,1,1
 979,None,None,0,0,henderson county ,4 ,1,1,henderson ,4 ,1,1
@@ -987,16 +987,16 @@
 985,None,None,0,0,None,None,0,0,raleigh ,4 ,1,1
 986,None,None,0,0,None,None,0,0,raleigh ,5 ,1,1
 987,I-85 ,1 ,1,1,None,None,0,0,norlina ,5 ,1,1
-988,US 4 US 401 ,1 2 ,1,2,None,None,0,0,raleigh ,3 ,1,1
+988,US 401 ,1 ,1,1,None,None,0,0,raleigh ,3 ,1,1
 989,I-85 ,1 ,1,1,None,None,0,0,norlina ,5 ,1,1
 990,I-40 ,1 ,1,1,clay county ,5 ,1,1,clayton ,5 ,1,1
-991,US 4 US 401 ,1 2 ,1,2,None,None,0,0,raleigh ,3 ,1,1
+991,US 401 ,1 ,1,1,None,None,0,0,raleigh ,3 ,1,1
 992,None,None,0,0,None,None,0,0,raleigh ,4 ,1,1
 993,None,None,0,0,None,None,0,0,raleigh ,5 ,1,1
 994,None,None,0,0,durham county ,17 ,1,1,durham ,17 ,1,1
 995,None,None,0,0,None,None,0,0,goldston ,4 ,1,1
 996,None,None,0,0,None,None,0,0,goldston ,4 ,1,1
-997,US 4 US 401 ,1 2 ,1,2,None,None,0,0,raleigh ,3 ,1,1
+997,US 401 ,1 ,1,1,None,None,0,0,raleigh ,3 ,1,1
 998,None,None,0,0,None,None,0,0,None,None,0,0
 999,None,None,0,0,durham county ,6 ,1,1,durham ,6 ,1,1
 1000,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
@@ -1016,7 +1016,7 @@
 1014,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1015,I-85 ,1 ,1,1,henderson county ,5 ,1,1,henderson ,5 ,1,1
 1016,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
-1017,US 4 US 421 ,1 2 ,1,2,None,None,0,0,goldston ,4 ,1,1
+1017,US 421 ,1 ,1,1,None,None,0,0,goldston ,4 ,1,1
 1018,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1019,I-40 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 1020,I-40 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
@@ -1033,37 +1033,37 @@
 1031,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1032,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1033,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
-1034,US 6 US 64 ,1 2 ,1,2,None,None,0,0,knightdale ,5 ,1,1
+1034,US 64 ,1 ,1,1,None,None,0,0,knightdale ,5 ,1,1
 1035,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1036,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
-1037,US 6 US 64 ,1 2 ,1,2,None,None,0,0,knightdale ,5 ,1,1
+1037,US 64 ,1 ,1,1,None,None,0,0,knightdale ,5 ,1,1
 1038,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1039,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
-1040,US 6 US 64 ,1 2 ,1,2,None,None,0,0,raleigh ,5 ,1,1
-1041,US 6 US 64 ,1 2 ,1,2,None,None,0,0,knightdale ,5 ,1,1
-1042,US 6 US 64 ,1 2 ,1,2,None,None,0,0,raleigh ,5 ,1,1
-1043,US 4 US 421 ,1 2 ,1,2,None,None,0,0,goldston ,5 ,1,1
+1040,US 64 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
+1041,US 64 ,1 ,1,1,None,None,0,0,knightdale ,5 ,1,1
+1042,US 64 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
+1043,US 421 ,1 ,1,1,None,None,0,0,goldston ,5 ,1,1
 1044,None,None,0,0,None,None,0,0,raleigh ,5 ,1,1
 1045,None,None,0,0,pitt county ,6 ,1,1,pittsboro ,6 ,1,1
 1046,None,None,0,0,None,None,0,0,None,None,0,0
 1047,None,None,0,0,None,None,0,0,goldston ,5 ,1,1
 1048,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
 1049,None,None,0,0,None,None,0,0,goldston ,4 ,1,1
-1050,NC 5 NC 50 ,1 2 ,1,2,None,None,0,0,raleigh ,3 ,1,1
+1050,NC 50 ,1 ,1,1,None,None,0,0,raleigh ,3 ,1,1
 1051,None,None,0,0,None,None,0,0,raleigh ,5 ,1,1
-1052,NC 5 NC 50 ,1 2 ,1,2,None,None,0,0,raleigh ,3 ,1,1
+1052,NC 50 ,1 ,1,1,None,None,0,0,raleigh ,3 ,1,1
 1053,None,None,0,0,None,None,0,0,raleigh ,5 ,1,1
 1054,None,None,0,0,None,None,0,0,benson ,5 ,1,1
-1055,US 4 US 421 ,1 2 ,1,2,None,None,0,0,goldston ,5 ,1,1
+1055,US 421 ,1 ,1,1,None,None,0,0,goldston ,5 ,1,1
 1056,None,None,0,0,None,None,0,0,benson ,5 ,1,1
 1057,None,None,0,0,None,None,0,0,cary ,6 ,1,1
 1058,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
-1059,US 2 US 264 ,1 2 ,1,2,None,None,0,0,zebulon ,5 ,1,1
-1060,US 6 US 64 ,1 2 ,1,2,None,None,0,0,zebulon ,5 ,1,1
+1059,US 264 ,1 ,1,1,None,None,0,0,zebulon ,5 ,1,1
+1060,US 64 ,1 ,1,1,None,None,0,0,zebulon ,5 ,1,1
 1061,None,None,0,0,None,None,0,0,raleigh ,5 ,1,1
 1062,None,None,0,0,None,None,0,0,cary ,4 ,1,1
-1063,US 2 US 264 ,1 2 ,1,2,None,None,0,0,zebulon ,5 ,1,1
-1064,US 6 US 64 ,1 2 ,1,2,None,None,0,0,zebulon ,5 ,1,1
+1063,US 264 ,1 ,1,1,None,None,0,0,zebulon ,5 ,1,1
+1064,US 64 ,1 ,1,1,None,None,0,0,zebulon ,5 ,1,1
 1065,I-40 ,1 ,1,1,None,None,0,0,benson ,6 ,1,1
 1066,None,None,0,0,durham county ,5 ,1,1,durham ,5 ,1,1
 1067,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
@@ -1080,7 +1080,7 @@
 1078,None,None,0,0,None,None,0,0,smithfield ,4 ,1,1
 1079,None,None,0,0,None,None,0,0,None,None,0,0
 1080,None,None,0,0,franklin county ,7 ,1,1,franklin franklinton ,7 7 ,1,2
-1081,NC 5 NC 540 ,1 2 ,1,2,None,None,0,0,morrisville ,6 ,1,1
+1081,NC 540 ,1 ,1,1,None,None,0,0,morrisville ,6 ,1,1
 1082,None,None,0,0,None,None,0,0,creedmoor ,6 ,1,1
 1083,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1084,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
@@ -1095,7 +1095,7 @@
 1093,I-85 ,1 ,1,1,None,None,0,0,hillsborough ,5 ,1,1
 1094,US 1 ,1 ,1,1,None,None,0,0,raleigh ,3 ,1,1
 1095,US 1 ,1 ,1,1,None,None,0,0,raleigh ,3 ,1,1
-1096,NC 5 NC 540 ,1 2 ,1,2,None,None,0,0,morrisville ,6 ,1,1
+1096,NC 540 ,1 ,1,1,None,None,0,0,morrisville ,6 ,1,1
 1097,US 1 ,1 ,1,1,None,None,0,0,apex ,5 ,1,1
 1098,None,None,0,0,jones county pitt county ,0 6 ,1,2,pittsboro ,6 ,1,1
 1099,None,None,0,0,None,None,0,0,benson ,4 ,1,1
@@ -1128,7 +1128,7 @@
 1126,None,None,0,0,jones county pitt county ,0 6 ,1,2,pittsboro ,6 ,1,1
 1127,None,None,0,0,durham county ,5 ,1,1,durham ,5 ,1,1
 1128,None,None,0,0,durham county ,6 ,1,1,oxford durham ,1 6 ,1,2
-1129,NC 5 NC 54 ,1 2 ,1,2,durham county ,3 ,1,1,durham ,3 ,1,1
+1129,NC 54 ,1 ,1,1,durham county ,3 ,1,1,durham ,3 ,1,1
 1130,None,None,0,0,pitt county ,4 ,1,1,pittsboro ,4 ,1,1
 1131,None,None,0,0,pitt county ,4 ,1,1,pittsboro ,4 ,1,1
 1132,None,None,0,0,pitt county ,0 ,1,1,pittsboro goldston goldston ,0 1 5 ,1,3
@@ -1148,7 +1148,7 @@
 1146,None,None,0,0,None,None,0,0,oxford ,5 ,1,1
 1147,None,None,0,0,None,None,0,0,oxford ,6 ,1,1
 1148,None,None,0,0,None,None,0,0,oxford ,6 ,1,1
-1149,US 1 US 15 ,1 2 ,1,2,None,None,0,0,oxford ,3 ,1,1
+1149,US 15 ,1 ,1,1,None,None,0,0,oxford ,3 ,1,1
 1150,None,None,0,0,None,None,0,0,butner ,5 ,1,1
 1151,None,None,0,0,pitt county ,4 ,1,1,pittsboro ,4 ,1,1
 1152,None,None,0,0,jones county pitt county ,0 6 ,1,2,pittsboro ,6 ,1,1
@@ -1158,23 +1158,23 @@
 1156,None,None,0,0,pitt county ,6 ,1,1,pittsboro ,6 ,1,1
 1157,None,None,0,0,None,None,0,0,hamlet ,0 ,1,1
 1158,None,None,0,0,None,None,0,0,andrews ,0 ,1,1
-1159,NC 9 NC 902 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
-1160,NC 9 NC 902 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1159,NC 902 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1160,NC 902 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
 1161,None,None,0,0,None,None,0,0,None,None,0,0
 1162,None,None,0,0,None,None,0,0,None,None,0,0
 1163,None,None,0,0,None,None,0,0,None,None,0,0
 1164,None,None,0,0,None,None,0,0,None,None,0,0
 1165,None,None,0,0,None,None,0,0,None,None,0,0
 1166,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
-1167,US 5 US 501 ,1 2 ,1,2,None,None,0,0,None,None,0,0
-1168,US 5 US 501 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1167,US 501 ,1 ,1,1,None,None,0,0,None,None,0,0
+1168,US 501 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
 1169,None,None,0,0,None,None,0,0,None,None,0,0
 1170,None,None,0,0,None,None,0,0,goldston ,5 ,1,1
 1171,None,None,0,0,None,None,0,0,None,None,0,0
 1172,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
 1173,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
 1174,None,None,0,0,pitt county ,4 ,1,1,pittsboro ,4 ,1,1
-1175,NC 8 NC 87 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1175,NC 87 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
 1176,None,None,0,0,None,None,0,0,oxford ,4 ,1,1
 1177,None,None,0,0,None,None,0,0,apex ,6 ,1,1
 1178,None,None,0,0,None,None,0,0,cary ,6 ,1,1
@@ -1183,7 +1183,7 @@
 1181,None,None,0,0,durham county ,4 ,1,1,durham ,4 ,1,1
 1182,None,None,0,0,durham county ,4 ,1,1,durham ,4 ,1,1
 1183,None,None,0,0,None,None,0,0,bailey benson ,0 5 ,1,2
-1184,NC 3 NC 39 ,1 2 ,1,2,None,None,0,0,middlesex ,3 ,1,1
+1184,NC 39 ,1 ,1,1,None,None,0,0,middlesex ,3 ,1,1
 1185,None,None,0,0,None,None,0,0,None,None,0,0
 1186,None,None,0,0,None,None,0,0,wilmington ,16 ,1,1
 1187,None,None,0,0,None,None,0,0,kenly ,5 ,1,1
@@ -1194,7 +1194,7 @@
 1192,None,None,0,0,None,None,0,0,oxford ,4 ,1,1
 1193,None,None,0,0,durham county ,5 ,1,1,durham ,5 ,1,1
 1194,None,None,0,0,None,None,0,0,benson ,3 ,1,1
-1195,NC 9 NC 96 ,1 2 ,1,2,None,None,0,0,benson ,3 ,1,1
+1195,NC 96 ,1 ,1,1,None,None,0,0,benson ,3 ,1,1
 1196,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1197,None,None,0,0,None,None,0,0,None,None,0,0
 1198,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
@@ -1205,23 +1205,23 @@
 1203,None,None,0,0,None,None,0,0,roxboro ,5 ,1,1
 1204,I-440 ,1 ,1,1,person county ,30 ,1,1,None,None,0,0
 1205,None,None,0,0,None,None,0,0,roxboro ,7 ,1,1
-1206,NC 5 NC 54 ,1 2 ,1,2,durham county ,3 ,1,1,durham ,3 ,1,1
-1207,US 5 US 501 ,1 2 ,1,2,durham county ,5 ,1,1,durham ,5 ,1,1
-1208,US 1 US 15 ,1 2 ,1,2,durham county ,5 ,1,1,durham ,5 ,1,1
+1206,NC 54 ,1 ,1,1,durham county ,3 ,1,1,durham ,3 ,1,1
+1207,US 501 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
+1208,US 15 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 1209,None,None,0,0,durham county ,4 ,1,1,durham ,4 ,1,1
 1210,None,None,0,0,durham county ,5 ,1,1,fletcher durham ,0 5 ,1,2
 1211,None,None,0,0,durham county ,4 ,1,1,durham ,4 ,1,1
 1212,None,None,0,0,None,None,0,0,apex ,4 ,1,1
 1213,None,None,0,0,durham county ,5 ,1,1,durham ,5 ,1,1
 1214,I-85 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
-1215,US 1 US 15 ,1 2 ,1,2,None,None,0,0,oxford ,3 ,1,1
-1216,NC 3 NC 39 ,1 2 ,1,2,None,None,0,0,middlesex ,3 ,1,1
+1215,US 15 ,1 ,1,1,None,None,0,0,oxford ,3 ,1,1
+1216,NC 39 ,1 ,1,1,None,None,0,0,middlesex ,3 ,1,1
 1217,I-95 ,1 ,1,1,None,None,0,0,kenly ,6 ,1,1
 1218,I-95 ,1 ,1,1,None,None,0,0,kenly ,5 ,1,1
 1219,None,None,0,0,None,None,0,0,kenly ,5 ,1,1
 1220,None,None,0,0,None,None,0,0,kenly ,6 ,1,1
 1221,None,None,0,0,None,None,0,0,None,None,0,0
-1222,US 3 US 301 ,1 2 ,1,2,None,None,0,0,benson ,3 ,1,1
+1222,US 301 ,1 ,1,1,None,None,0,0,benson ,3 ,1,1
 1223,None,None,0,0,None,None,0,0,hillsborough ,6 ,1,1
 1224,None,None,0,0,None,None,0,0,andrews ,0 ,1,1
 1225,None,None,0,0,None,None,0,0,hillsborough ,6 ,1,1
@@ -1266,7 +1266,7 @@
 1264,None,None,0,0,None,None,0,0,wade ,0 ,1,1
 1265,None,None,0,0,None,None,0,0,None,None,0,0
 1266,None,None,0,0,None,None,0,0,None,None,0,0
-1267,US 5 US 50 US 501 US 64 ,1 2 3 4 ,1,4,None,None,0,0,None,None,0,0
+1267,US 501 US 64 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 1268,None,None,0,0,durham county ,6 ,1,1,oxford durham ,1 6 ,1,2
 1269,None,None,0,0,warren county warren county ,1 5 ,1,2,warrenton warrenton ,1 5 ,1,2
 1270,None,None,0,0,None,None,0,0,kenly ,5 ,1,1
@@ -1277,15 +1277,15 @@
 1275,None,None,0,0,None,None,0,0,None,None,0,0
 1276,None,None,0,0,wake county sampson county ,2 10 ,1,2,None,None,0,0
 1277,None,None,0,0,None,None,0,0,wade ,0 ,1,1
-1278,US 5 US 501 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+1278,US 501 ,1 ,1,1,None,None,0,0,None,None,0,0
 1279,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
 1280,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
 1281,None,None,0,0,pitt county ,0 ,1,1,pittsboro goldston goldston ,0 1 5 ,1,3
 1282,None,None,0,0,None,None,0,0,benson ,4 ,1,1
 1283,None,None,0,0,chatham county pitt county ,0 6 ,1,2,pittsboro ,6 ,1,1
-1284,NC 9 NC 902 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1284,NC 902 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
 1285,None,None,0,0,pitt county ,7 ,1,1,pittsboro ,7 ,1,1
-1286,NC 9 NC 902 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1286,NC 902 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
 1287,None,None,0,0,durham county ,5 ,1,1,durham ,5 ,1,1
 1288,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
 1289,None,None,0,0,pitt county ,4 ,1,1,pittsboro ,4 ,1,1
@@ -1295,9 +1295,9 @@
 1293,I-40 ,1 ,1,1,None,None,0,0,cary ,5 ,1,1
 1294,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1295,None,None,0,0,None,None,0,0,benson raleigh ,1 7 ,1,2
-1296,NC 8 NC 87 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1296,NC 87 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
 1297,None,None,0,0,None,None,0,0,hillsborough ,6 ,1,1
-1298,US 5 US 501 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1298,US 501 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
 1299,None,None,0,0,pitt county ,4 ,1,1,pittsboro ,4 ,1,1
 1300,None,None,0,0,None,None,0,0,raleigh ,15 ,1,1
 1301,I-85 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
@@ -1305,11 +1305,11 @@
 1303,I-95 ,1 ,1,1,None,None,0,0,kenly ,5 ,1,1
 1304,None,None,0,0,jones county ,0 ,1,1,None,None,0,0
 1305,None,None,0,0,durham county ,3 ,1,1,durham ,3 ,1,1
-1306,US 5 US 501 ,1 2 ,1,2,durham county ,5 ,1,1,durham ,5 ,1,1
-1307,US 1 US 15 ,1 2 ,1,2,durham county ,5 ,1,1,durham ,5 ,1,1
+1306,US 501 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
+1307,US 15 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 1308,I-40 ,1 ,1,1,None,None,0,0,cary ,5 ,1,1
-1309,US 5 US 501 ,1 2 ,1,2,durham county ,5 ,1,1,durham ,5 ,1,1
-1310,US 1 US 15 ,1 2 ,1,2,durham county ,5 ,1,1,durham ,5 ,1,1
+1309,US 501 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
+1310,US 15 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 1311,None,None,0,0,durham county durham county ,5 36 ,1,2,durham durham ,5 36 ,1,2
 1312,I-85 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 1313,I-85 ,1 ,1,1,durham county ,7 ,1,1,durham ,7 ,1,1
@@ -1317,7 +1317,7 @@
 1315,None,None,0,0,durham county ,5 ,1,1,durham ,5 ,1,1
 1316,None,None,0,0,None,None,0,0,benson raleigh ,1 7 ,1,2
 1317,None,None,0,0,durham county ,5 ,1,1,fletcher durham ,0 5 ,1,2
-1318,US 7 US 70 ,1 2 ,1,2,None,None,0,0,raleigh ,3 ,1,1
+1318,US 70 ,1 ,1,1,None,None,0,0,raleigh ,3 ,1,1
 1319,None,None,0,0,None,None,0,0,None,None,0,0
 1320,None,None,0,0,durham county ,10 ,1,1,durham ,10 ,1,1
 1321,None,None,0,0,durham county ,4 ,1,1,durham ,4 ,1,1
@@ -1331,13 +1331,13 @@
 1329,None,None,0,0,None,None,0,0,None,None,0,0
 1330,None,None,0,0,jones county ,0 ,1,1,carrboro ,6 ,1,1
 1331,None,None,0,0,None,None,0,0,raleigh ,0 ,1,1
-1332,NC 9 NC 96 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+1332,NC 96 ,1 ,1,1,None,None,0,0,None,None,0,0
 1333,I-85 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 1334,None,None,0,0,None,None,0,0,hillsborough ,6 ,1,1
 1335,None,None,0,0,None,None,0,0,None,None,0,0
 1336,I-540 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1337,None,None,0,0,None,None,0,0,raleigh ,4 ,1,1
-1338,US 7 US 70 ,1 2 ,1,2,None,None,0,0,raleigh ,3 ,1,1
+1338,US 70 ,1 ,1,1,None,None,0,0,raleigh ,3 ,1,1
 1339,None,None,0,0,None,None,0,0,hillsborough ,6 ,1,1
 1340,None,None,0,0,None,None,0,0,None,None,0,0
 1341,None,None,0,0,None,None,0,0,None,None,0,0
@@ -1349,12 +1349,12 @@
 1347,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
 1348,None,None,0,0,None,None,0,0,None,None,0,0
 1349,None,None,0,0,None,None,0,0,None,None,0,0
-1350,US 6 US 64 ,1 2 ,1,2,None,None,0,0,apex ,3 ,1,1
+1350,US 64 ,1 ,1,1,None,None,0,0,apex ,3 ,1,1
 1351,None,None,0,0,durham county ,4 ,1,1,durham ,4 ,1,1
 1352,I-85 ,1 ,1,1,None,None,0,0,butner ,5 ,1,1
 1353,I-85 ,1 ,1,1,None,None,0,0,butner ,5 ,1,1
-1354,US 7 US 70 ,1 2 ,1,2,durham county ,3 ,1,1,durham ,3 ,1,1
-1355,US 7 US 70 ,1 2 ,1,2,durham county ,3 ,1,1,durham ,3 ,1,1
+1354,US 70 ,1 ,1,1,durham county ,3 ,1,1,durham ,3 ,1,1
+1355,US 70 ,1 ,1,1,durham county ,3 ,1,1,durham ,3 ,1,1
 1356,None,None,0,0,durham county ,5 ,1,1,durham ,5 ,1,1
 1357,US 1 ,1 ,1,1,None,None,0,0,apex ,5 ,1,1
 1358,US 1 ,1 ,1,1,None,None,0,0,apex ,5 ,1,1
@@ -1389,7 +1389,7 @@
 1387,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1388,None,None,0,0,None,None,0,0,None,None,0,0
 1389,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
-1390,US 3 US 301 ,1 2 ,1,2,None,None,0,0,benson ,3 ,1,1
+1390,US 301 ,1 ,1,1,None,None,0,0,benson ,3 ,1,1
 1391,None,None,0,0,None,None,0,0,princeton ,5 ,1,1
 1392,None,None,0,0,None,None,0,0,smithfield ,4 ,1,1
 1393,None,None,0,0,None,None,0,0,kenly ,6 ,1,1
@@ -1410,7 +1410,7 @@
 1408,None,None,0,0,None,None,0,0,None,None,0,0
 1409,None,None,0,0,None,None,0,0,None,None,0,0
 1410,I-40 ,1 ,1,1,None,None,0,0,None,None,0,0
-1411,NC 9 NC 96 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+1411,NC 96 ,1 ,1,1,None,None,0,0,None,None,0,0
 1412,None,None,0,0,None,None,0,0,benson ,3 ,1,1
 1413,I-40 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 1414,None,None,0,0,None,None,0,0,smithfield ,5 ,1,1
@@ -1422,24 +1422,24 @@
 1420,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1421,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1422,None,None,0,0,None,None,0,0,benson ,5 ,1,1
-1423,US 7 US 70 ,1 2 ,1,2,clay county ,4 ,1,1,clayton ,4 ,1,1
-1424,US 7 US 70 ,1 2 ,1,2,clay county ,3 ,1,1,clayton ,3 ,1,1
+1423,US 70 ,1 ,1,1,clay county ,4 ,1,1,clayton ,4 ,1,1
+1424,US 70 ,1 ,1,1,clay county ,3 ,1,1,clayton ,3 ,1,1
 1425,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1426,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1427,None,None,0,0,None,None,0,0,None,None,0,0
 1428,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1429,None,None,0,0,None,None,0,0,benson ,4 ,1,1
-1430,NC 9 NC 96 ,1 2 ,1,2,None,None,0,0,benson ,3 ,1,1
+1430,NC 96 ,1 ,1,1,None,None,0,0,benson ,3 ,1,1
 1431,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1432,None,None,0,0,None,None,0,0,None,None,0,0
 1433,US 1 ,1 ,1,1,None,None,0,0,cary ,5 ,1,1
-1434,NC 2 NC 222 ,1 2 ,1,2,None,None,0,0,kenly ,3 ,1,1
-1435,US 7 US 701 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+1434,NC 222 ,1 ,1,1,None,None,0,0,kenly ,3 ,1,1
+1435,US 701 ,1 ,1,1,None,None,0,0,None,None,0,0
 1436,None,None,0,0,None,None,0,0,None,None,0,0
 1437,None,None,0,0,johnston county johnston county ,3 32 ,1,2,None,None,0,0
 1438,US 1 ,1 ,1,1,None,None,0,0,cary ,5 ,1,1
 1439,US 1 ,1 ,1,1,None,None,0,0,cary ,5 ,1,1
-1440,NC 2 NC 222 ,1 2 ,1,2,None,None,0,0,kenly ,3 ,1,1
+1440,NC 222 ,1 ,1,1,None,None,0,0,kenly ,3 ,1,1
 1441,None,None,0,0,pitt county ,6 ,1,1,pittsboro ,6 ,1,1
 1442,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
 1443,None,None,0,0,chatham county pitt county ,0 6 ,1,2,pittsboro ,6 ,1,1
@@ -1451,7 +1451,7 @@
 1449,I-95 ,1 ,1,1,None,None,0,0,kenly ,5 ,1,1
 1450,None,None,0,0,None,None,0,0,None,None,0,0
 1451,I-95 ,1 ,1,1,None,None,0,0,kenly ,5 ,1,1
-1452,US 3 US 301 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+1452,US 301 ,1 ,1,1,None,None,0,0,None,None,0,0
 1453,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1454,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1455,US 1 ,1 ,1,1,None,None,0,0,raleigh ,3 ,1,1
@@ -1463,9 +1463,9 @@
 1461,I-95 ,1 ,1,1,None,None,0,0,kenly ,5 ,1,1
 1462,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
 1463,None,None,0,0,pitt county ,6 ,1,1,pittsboro ,6 ,1,1
-1464,NC 9 NC 96 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+1464,NC 96 ,1 ,1,1,None,None,0,0,None,None,0,0
 1465,None,None,0,0,chatham county pitt county ,0 6 ,1,2,pittsboro ,6 ,1,1
-1466,US 3 US 301 ,1 2 ,1,2,None,None,0,0,benson ,3 ,1,1
+1466,US 301 ,1 ,1,1,None,None,0,0,benson ,3 ,1,1
 1467,None,None,0,0,None,None,0,0,None,None,0,0
 1468,I-40 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 1469,None,None,0,0,None,None,0,0,raleigh ,4 ,1,1
@@ -1478,7 +1478,7 @@
 1476,None,None,0,0,None,None,0,0,None,None,0,0
 1477,None,None,0,0,None,None,0,0,None,None,0,0
 1478,None,None,0,0,None,None,0,0,None,None,0,0
-1479,US 7 US 701 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+1479,US 701 ,1 ,1,1,None,None,0,0,None,None,0,0
 1480,None,None,0,0,None,None,0,0,raleigh ,4 ,1,1
 1481,None,None,0,0,None,None,0,0,kenly ,6 ,1,1
 1482,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
@@ -1497,7 +1497,7 @@
 1495,I-40 ,1 ,1,1,None,None,0,0,benson ,5 ,1,1
 1496,I-40 ,1 ,1,1,None,None,0,0,benson ,5 ,1,1
 1497,I-40 ,1 ,1,1,None,None,0,0,benson ,5 ,1,1
-1498,US 7 US 70 ,1 2 ,1,2,None,None,0,0,garner ,3 ,1,1
+1498,US 70 ,1 ,1,1,None,None,0,0,garner ,3 ,1,1
 1499,I-40 ,1 ,1,1,None,None,0,0,benson ,5 ,1,1
 1500,None,None,0,0,None,None,0,0,None,None,0,0
 1501,None,None,0,0,None,None,0,0,raleigh ,12 ,1,1
@@ -1505,19 +1505,19 @@
 1503,I-40 ,1 ,1,1,None,None,0,0,benson ,5 ,1,1
 1504,None,None,0,0,None,None,0,0,smithfield ,5 ,1,1
 1505,I-40 ,1 ,1,1,None,None,0,0,benson ,5 ,1,1
-1506,US 7 US 70 ,1 2 ,1,2,None,None,0,0,garner ,3 ,1,1
+1506,US 70 ,1 ,1,1,None,None,0,0,garner ,3 ,1,1
 1507,None,None,0,0,None,None,0,0,benson ,4 ,1,1
 1508,None,None,0,0,None,None,0,0,smithfield ,5 ,1,1
 1509,None,None,0,0,None,None,0,0,benson ,4 ,1,1
-1510,NC 9 NC 96 ,1 2 ,1,2,None,None,0,0,benson ,3 ,1,1
+1510,NC 96 ,1 ,1,1,None,None,0,0,benson ,3 ,1,1
 1511,None,None,0,0,None,None,0,0,None,None,0,0
 1512,None,None,0,0,None,None,0,0,None,None,0,0
 1513,None,None,0,0,None,None,0,0,smithfield ,6 ,1,1
 1514,None,None,0,0,None,None,0,0,raleigh ,4 ,1,1
 1515,None,None,0,0,None,None,0,0,raleigh ,4 ,1,1
-1516,NC 9 NC 902 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1516,NC 902 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
 1517,I-40 ,1 ,1,1,None,None,0,0,cary ,5 ,1,1
-1518,NC 9 NC 902 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1518,NC 902 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
 1519,None,None,0,0,None,None,0,0,raleigh ,10 ,1,1
 1520,None,None,0,0,wilson county johnston county wayne county lee county ,9 10 12 17 ,1,4,wilson ,9 ,1,1
 1521,None,None,0,0,chatham county hoke county lee county montgomery county moore county randolph county richmond county scotland county ,28 29 30 31 32 33 34 36 ,1,8,None,None,0,0
@@ -1533,8 +1533,8 @@
 1531,I-85 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 1532,None,None,0,0,None,None,0,0,raleigh ,4 ,1,1
 1533,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
-1534,US 4 US 401 ,1 2 ,1,2,None,None,0,0,bunn ,3 ,1,1
-1535,US 4 US 401 ,1 2 ,1,2,None,None,0,0,bunn ,3 ,1,1
+1534,US 401 ,1 ,1,1,None,None,0,0,bunn ,3 ,1,1
+1535,US 401 ,1 ,1,1,None,None,0,0,bunn ,3 ,1,1
 1536,None,None,0,0,None,None,0,0,hillsborough ,6 ,1,1
 1537,None,None,0,0,None,None,0,0,carrboro ,6 ,1,1
 1538,None,None,0,0,None,None,0,0,raleigh ,10 ,1,1
@@ -1551,16 +1551,16 @@
 1549,None,None,0,0,None,None,0,0,wendell ,6 ,1,1
 1550,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1551,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
-1552,NC 8 NC 87 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1552,NC 87 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
 1553,None,None,0,0,None,None,0,0,None,None,0,0
 1554,None,None,0,0,None,None,0,0,None,None,0,0
-1555,NC 8 NC 87 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
-1556,NC 8 NC 87 ,1 2 ,1,2,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
-1557,NC 5 NC 540 ,1 2 ,1,2,None,None,0,0,morrisville ,6 ,1,1
+1555,NC 87 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1556,NC 87 ,1 ,1,1,pitt county ,3 ,1,1,pittsboro ,3 ,1,1
+1557,NC 540 ,1 ,1,1,None,None,0,0,morrisville ,6 ,1,1
 1558,I-40 ,1 ,1,1,johnston county lee county ,3 15 ,1,2,raleigh ,8 ,1,1
 1559,None,None,0,0,None,None,0,0,oxford ,6 ,1,1
 1560,None,None,0,0,henderson county ,6 ,1,1,henderson ,6 ,1,1
-1561,NC 5 NC 540 ,1 2 ,1,2,None,None,0,0,morrisville ,6 ,1,1
+1561,NC 540 ,1 ,1,1,None,None,0,0,morrisville ,6 ,1,1
 1562,None,None,0,0,wake county ,1 ,1,1,None,None,0,0
 1563,None,None,0,0,franklin county ,1 ,1,1,franklin ,1 ,1,1
 1564,None,None,0,0,wake county ,1 ,1,1,None,None,0,0
@@ -1586,16 +1586,16 @@
 1584,None,None,0,0,None,None,0,0,smithfield ,6 ,1,1
 1585,None,None,0,0,None,None,0,0,smithfield ,6 ,1,1
 1586,None,None,0,0,None,None,0,0,kenly ,5 ,1,1
-1587,US 6 US 64 ,1 2 ,1,2,None,None,0,0,zebulon ,5 ,1,1
+1587,US 64 ,1 ,1,1,None,None,0,0,zebulon ,5 ,1,1
 1588,I-40 ,1 ,1,1,None,None,0,0,benson ,5 ,1,1
 1589,I-40 ,1 ,1,1,None,None,0,0,benson ,5 ,1,1
-1590,US 6 US 64 ,1 2 ,1,2,None,None,0,0,zebulon ,5 ,1,1
+1590,US 64 ,1 ,1,1,None,None,0,0,zebulon ,5 ,1,1
 1591,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
-1592,US 5 US 501 ,1 2 ,1,2,durham county ,5 ,1,1,durham ,5 ,1,1
-1593,US 6 US 64 ,1 2 ,1,2,None,None,0,0,zebulon ,5 ,1,1
+1592,US 501 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
+1593,US 64 ,1 ,1,1,None,None,0,0,zebulon ,5 ,1,1
 1594,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1595,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
-1596,US 5 US 501 ,1 2 ,1,2,durham county ,5 ,1,1,durham ,5 ,1,1
+1596,US 501 ,1 ,1,1,durham county ,5 ,1,1,durham ,5 ,1,1
 1597,None,None,0,0,durham county ,5 ,1,1,durham ,5 ,1,1
 1598,I-40 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 1599,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
@@ -1929,7 +1929,7 @@
 1927,None,None,0,0,None,None,0,0,wendell rolesville ,2 4 ,1,2
 1928,None,None,0,0,durham county durham county ,8 8 ,1,2,durham ,8 ,1,1
 1929,None,None,0,0,durham county durham county ,5 5 ,1,2,durham ,5 ,1,1
-1930,NC 8 NC 82 US 6 ,1 2 3 ,1,3,cumberland county cumberland county nash county nash county ,5 5 5 5 ,1,4,None,None,0,0
+1930,NC 82 US 64 ,1 2 ,1,2,cumberland county cumberland county nash county nash county ,5 5 5 5 ,1,4,None,None,0,0
 1931,None,None,0,0,durham county ,10 ,1,1,durham fayetteville ,10 20 ,1,2
 1932,None,None,0,0,None,None,0,0,raleigh wade ,10 12 ,1,2
 1933,None,None,0,0,durham county ,11 ,1,1,durham ,11 ,1,1
@@ -1983,7 +1983,7 @@
 1981,None,None,0,0,None,None,0,0,cary tryon ,3 9 ,1,2
 1982,None,None,0,0,None,None,0,0,garner fayetteville ,2 4 ,1,2
 1983,I-440 ,1 ,1,1,wake county wake county ,5 5 ,1,2,None,None,0,0
-1984,NC 8 NC 82 US 6 ,1 2 3 ,1,3,cumberland county cumberland county nash county nash county ,5 5 5 5 ,1,4,None,None,0,0
+1984,NC 82 US 64 ,1 2 ,1,2,cumberland county cumberland county nash county nash county ,5 5 5 5 ,1,4,None,None,0,0
 1985,I-540 ,1 ,1,1,wake county wake county ,5 5 ,1,2,None,None,0,0
 1986,None,None,0,0,None,None,0,0,raleigh wade ,10 12 ,1,2
 1987,None,None,0,0,durham county ,11 ,1,1,durham ,11 ,1,1
@@ -2026,7 +2026,7 @@
 2024,None,None,0,0,wake county ,4 ,1,1,None,None,0,0
 2025,None,None,0,0,wake county ,5 ,1,1,None,None,0,0
 2026,None,None,0,0,pitt county ,5 ,1,1,pittsboro ,5 ,1,1
-2027,NC 8 NC 82 US 6 ,1 2 3 ,1,3,cumberland county cumberland county nash county nash county ,5 5 5 5 ,1,4,None,None,0,0
+2027,NC 82 US 64 ,1 2 ,1,2,cumberland county cumberland county nash county nash county ,5 5 5 5 ,1,4,None,None,0,0
 2028,None,None,0,0,None,None,0,0,None,None,0,0
 2029,None,None,0,0,wake county wake county ,3 3 ,1,2,None,None,0,0
 2030,None,None,0,0,None,None,0,0,raleigh ,2 ,1,1
@@ -2056,9 +2056,9 @@
 2054,None,None,0,0,chatham county chatham county ,2 2 ,1,2,None,None,0,0
 2055,None,None,0,0,orange county orange county ,8 8 ,1,2,None,None,0,0
 2056,NC 403 I-95 ,1 2 ,1,2,johnston county ,9 ,1,1,benson wilmington ,4 6 ,1,2
-2057,NC 2 NC 242 ,1 2 ,1,2,None,None,0,0,dunn godwin ,7 13 ,1,2
-2058,US 1 US 13 US 117 ,1 2 3 ,1,3,None,None,0,0,None,None,0,0
-2059,NC 2 NC 22 ,1 2 ,1,2,moore county ,5 ,1,1,None,None,0,0
+2057,NC 242 ,1 ,1,1,None,None,0,0,dunn godwin ,7 13 ,1,2
+2058,US 13 US 117 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+2059,NC 22 ,1 ,1,1,moore county ,5 ,1,1,None,None,0,0
 2060,None,None,0,0,None,None,0,0,earl raleigh ,0 3 ,1,2
 2061,I-440 ,1 ,1,1,wake county ,4 ,1,1,raleigh ,2 ,1,1
 2062,None,None,0,0,None,None,0,0,king ,1 ,1,1
@@ -2068,7 +2068,7 @@
 2066,None,None,0,0,None,None,0,0,raleigh ,8 ,1,1
 2067,None,None,0,0,None,None,0,0,raleigh ,2 ,1,1
 2068,None,None,0,0,johnston county johnston county ,8 8 ,1,2,None,None,0,0
-2069,NC 8 NC 82 US 6 ,1 2 3 ,1,3,cumberland county cumberland county nash county nash county ,5 5 5 5 ,1,4,None,None,0,0
+2069,NC 82 US 64 ,1 2 ,1,2,cumberland county cumberland county nash county nash county ,5 5 5 5 ,1,4,None,None,0,0
 2070,None,None,0,0,johnston county johnston county clay county ,2 2 2 ,1,3,clayton ,2 ,1,1
 2071,None,None,0,0,None,None,0,0,None,None,0,0
 2072,None,None,0,0,None,None,0,0,raleigh hillsborough ,4 6 ,1,2
@@ -2093,7 +2093,7 @@
 2091,None,None,0,0,None,None,0,0,cary ,2 ,1,1
 2092,None,None,0,0,None,None,0,0,raleigh ,2 ,1,1
 2093,I-440 ,1 ,1,1,wake county wake county wake county ,2 2 7 ,1,3,None,None,0,0
-2094,US 1 US 13 US 117 ,1 2 3 ,1,3,None,None,0,0,None,None,0,0
+2094,US 13 US 117 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 2095,None,None,0,0,orange county orange county ,8 8 ,1,2,None,None,0,0
 2096,None,None,0,0,durham county durham county ,5 15 ,1,2,durham durham ,5 15 ,1,2
 2097,None,None,0,0,durham county ,4 ,1,1,durham stallings ,4 15 ,1,2
@@ -2154,14 +2154,14 @@
 2152,None,None,0,0,johnston county johnston county ,13 13 ,1,2,None,None,0,0
 2153,None,None,0,0,johnston county johnston county ,9 9 ,1,2,None,None,0,0
 2154,None,None,0,0,durham county ,8 ,1,1,durham ,8 ,1,1
-2155,NC 2 NC 242 ,1 2 ,1,2,None,None,0,0,dunn godwin ,7 13 ,1,2
+2155,NC 242 ,1 ,1,1,None,None,0,0,dunn godwin ,7 13 ,1,2
 2156,None,None,0,0,wake county ,7 ,1,1,raleigh ,2 ,1,1
 2157,None,None,0,0,durham county ,8 ,1,1,king durham ,1 8 ,1,2
 2158,None,None,0,0,durham county durham county ,6 6 ,1,2,northwest durham ,6 6 ,1,2
 2159,None,None,0,0,None,None,0,0,apex ,6 ,1,1
 2160,None,None,0,0,wake county wake county ,2 2 ,1,2,apex ,2 ,1,1
-2161,NC 8 NC 82 US 6 ,1 2 3 ,1,3,cumberland county cumberland county nash county nash county ,5 5 5 5 ,1,4,None,None,0,0
-2162,US 1 US 13 US 117 ,1 2 3 ,1,3,None,None,0,0,None,None,0,0
+2161,NC 82 US 64 ,1 2 ,1,2,cumberland county cumberland county nash county nash county ,5 5 5 5 ,1,4,None,None,0,0
+2162,US 13 US 117 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 2163,None,None,0,0,None,None,0,0,cary ,13 ,1,1
 2164,None,None,0,0,None,None,0,0,None,None,0,0
 2165,I-140 ,1 ,1,1,johnston county johnston county ,9 9 ,1,2,wilmington ,22 ,1,1
@@ -2171,9 +2171,9 @@
 2169,None,None,0,0,durham county durham county ,9 9 ,1,2,durham ,9 ,1,1
 2170,None,None,0,0,johnston county johnston county ,8 8 ,1,2,None,None,0,0
 2171,None,None,0,0,durham county ,10 ,1,1,durham fayetteville ,10 20 ,1,2
-2172,NC 2 NC 22 ,1 2 ,1,2,moore county ,5 ,1,1,None,None,0,0
+2172,NC 22 ,1 ,1,1,moore county ,5 ,1,1,None,None,0,0
 2173,None,None,0,0,None,None,0,0,None,None,0,0
-2174,NC 8 NC 82 US 6 ,1 2 3 ,1,3,cumberland county cumberland county ,5 5 ,1,2,None,None,0,0
+2174,NC 82 US 64 ,1 2 ,1,2,cumberland county cumberland county ,5 5 ,1,2,None,None,0,0
 2175,None,None,0,0,None,None,0,0,benson ,8 ,1,1
 2176,I-440 ,1 ,1,1,None,None,0,0,raleigh ,5 ,1,1
 2177,None,None,0,0,wake county ,15 ,1,1,raleigh ,8 ,1,1
@@ -2184,10 +2184,10 @@
 2182,None,None,0,0,None,None,0,0,None,None,0,0
 2183,None,None,0,0,None,None,0,0,raleigh ,2 ,1,1
 2184,None,None,0,0,None,None,0,0,None,None,0,0
-2185,NC 8 NC 82 US 6 ,1 2 3 ,1,3,cumberland county cumberland county ,5 5 ,1,2,None,None,0,0
+2185,NC 82 US 64 ,1 2 ,1,2,cumberland county cumberland county ,5 5 ,1,2,None,None,0,0
 2186,None,None,0,0,None,None,0,0,raleigh ,3 ,1,1
 2187,None,None,0,0,clay county johnston county johnston county ,9 9 9 ,1,3,king clayton ,6 9 ,1,2
-2188,US 7 US 70 ,1 2 ,1,2,clay county johnston county johnston county ,4 4 4 ,1,3,clayton ,4 ,1,1
+2188,US 70 ,1 ,1,1,clay county johnston county johnston county ,4 4 4 ,1,3,clayton ,4 ,1,1
 2189,None,None,0,0,None,None,0,0,None,None,0,0
 2190,None,None,0,0,clay county johnston county johnston county ,10 10 10 ,1,3,king king clayton ,2 8 10 ,1,3
 2191,I-440 ,1 ,1,1,None,None,0,0,raleigh hillsborough ,3 8 ,1,2
@@ -2216,8 +2216,8 @@
 2214,None,None,0,0,None,None,0,0,None,None,0,0
 2215,None,None,0,0,johnston county johnston county ,6 6 ,1,2,raleigh ,11 ,1,1
 2216,None,None,0,0,None,None,0,0,benson ,8 ,1,1
-2217,NC 8 NC 82 US 6 ,1 2 3 ,1,3,cumberland county cumberland county ,5 5 ,1,2,None,None,0,0
-2218,NC 8 NC 82 US 6 ,1 2 3 ,1,3,cumberland county cumberland county ,6 6 ,1,2,None,None,0,0
+2217,NC 82 US 64 ,1 2 ,1,2,cumberland county cumberland county ,5 5 ,1,2,None,None,0,0
+2218,NC 82 US 64 ,1 2 ,1,2,cumberland county cumberland county ,6 6 ,1,2,None,None,0,0
 2219,None,None,0,0,None,None,0,0,None,None,0,0
 2220,None,None,0,0,None,None,0,0,None,None,0,0
 2221,I-40 ,1 ,1,1,johnston county johnston county ,2 2 ,1,2,benson raleigh ,2 11 ,1,2
@@ -2240,7 +2240,7 @@
 2238,None,None,0,0,None,None,0,0,None,None,0,0
 2239,I-40 ,1 ,1,1,durham county durham county durham county ,4 4 18 ,1,3,durham durham ,4 18 ,1,2
 2240,I-40 ,1 ,1,1,johnston county johnston county ,2 2 ,1,2,benson raleigh ,2 11 ,1,2
-2241,NC 5 NC 540 ,1 2 ,1,2,wake county wake county ,3 3 ,1,2,None,None,0,0
+2241,NC 540 ,1 ,1,1,wake county wake county ,3 3 ,1,2,None,None,0,0
 2242,None,None,0,0,None,None,0,0,raleigh ,3 ,1,1
 2243,None,None,0,0,None,None,0,0,raleigh ,2 ,1,1
 2244,I-40 ,1 ,1,1,cumberland county cumberland county ,5 5 ,1,2,wade stedman ,12 12 ,1,2
@@ -2265,7 +2265,7 @@
 2263,None,None,0,0,None,None,0,0,raleigh raleigh ,2 4 ,1,2
 2264,None,None,0,0,graham county ,10 ,1,1,king graham ,1 10 ,1,2
 2265,None,None,0,0,wake county ,2 ,1,1,None,None,0,0
-2266,None,None,0,0,None,None,0,0,como ,11 ,1,1
+2266,None,None,0,0,None,None,0,0,None,None,0,0
 2267,None,None,0,0,chatham county ,4 ,1,1,apex ,7 ,1,1
 2268,None,None,0,0,wake county wake county ,6 6 ,1,2,norwood creedmoor creedmoor ,8 12 17 ,1,3
 2269,None,None,0,0,None,None,0,0,raleigh ,2 ,1,1
@@ -2305,7 +2305,7 @@
 2303,None,None,0,0,wake county wake county ,5 5 ,1,2,angier ,10 ,1,1
 2304,None,None,0,0,clay county johnston county johnston county cleveland county ,6 6 6 8 ,1,4,clayton cleveland monroe ,6 8 11 ,1,3
 2305,None,None,0,0,None,None,0,0,None,None,0,0
-2306,US 7 US 70 ,1 2 ,1,2,johnston county johnston county clay county ,6 6 6 ,1,3,clayton ,6 ,1,1
+2306,US 70 ,1 ,1,1,johnston county johnston county clay county ,6 6 6 ,1,3,clayton ,6 ,1,1
 2307,None,None,0,0,clay county ,0 ,1,1,clayton ,0 ,1,1
 2308,None,None,0,0,durham county ,10 ,1,1,durham fayetteville ,10 20 ,1,2
 2309,None,None,0,0,None,None,0,0,None,None,0,0
@@ -2470,98 +2470,98 @@
 2468,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2469,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2470,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2471,US 3 SC 5 SC 544 ,1 2 3 ,1,3,None,None,0,0,conway conway ,6 8 ,1,2
+2471,US 378 SC 544 ,1 2 ,1,2,None,None,0,0,conway conway ,6 8 ,1,2
 2472,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2473,US 3 SC 5 SC 544 ,1 2 3 ,1,3,None,None,0,0,conway conway ,6 8 ,1,2
-2474,US 3 SC 5 SC 544 ,1 2 3 ,1,3,None,None,0,0,conway conway ,6 8 ,1,2
-2475,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway conway ,8 10 ,1,2
-2476,US 3 SC 5 SC 544 ,1 2 3 ,1,3,None,None,0,0,conway conway ,6 8 ,1,2
-2477,SC 9 SC 905 ,1 2 ,1,2,None,None,0,0,None,None,0,0
-2478,SC 9 SC 905 ,1 2 ,1,2,None,None,0,0,None,None,0,0
-2479,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway conway ,8 10 ,1,2
-2480,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway conway ,8 10 ,1,2
-2481,US 3 SC 5 SC 544 ,1 2 3 ,1,3,None,None,0,0,conway conway ,6 8 ,1,2
+2473,US 378 SC 544 ,1 2 ,1,2,None,None,0,0,conway conway ,6 8 ,1,2
+2474,US 378 SC 544 ,1 2 ,1,2,None,None,0,0,conway conway ,6 8 ,1,2
+2475,US 378 ,1 ,1,1,None,None,0,0,conway conway ,8 10 ,1,2
+2476,US 378 SC 544 ,1 2 ,1,2,None,None,0,0,conway conway ,6 8 ,1,2
+2477,SC 905 ,1 ,1,1,None,None,0,0,None,None,0,0
+2478,SC 90 SC 905 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+2479,US 378 ,1 ,1,1,None,None,0,0,conway conway ,8 10 ,1,2
+2480,US 378 ,1 ,1,1,None,None,0,0,conway conway ,8 10 ,1,2
+2481,US 378 SC 544 ,1 2 ,1,2,None,None,0,0,conway conway ,6 8 ,1,2
 2482,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2483,SC 2 SC 22 ,1 2 ,1,2,horry county ,5 ,1,1,brunson conway ,7 11 ,1,2
+2483,SC 22 ,1 ,1,1,horry county ,5 ,1,1,brunson conway ,7 11 ,1,2
 2484,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2485,SC 9 SC 905 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+2485,SC 90 SC 905 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 2486,I-20 ,1 ,1,1,None,None,0,0,None,None,0,0
-2487,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
+2487,US 378 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
 2488,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2489,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2490,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2491,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2492,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2493,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2494,SC 9 SC 905 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+2494,SC 90 SC 905 ,1 2 ,1,2,None,None,0,0,None,None,0,0
 2495,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2496,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2497,SC 9 SC 905 ,1 2 ,1,2,None,None,0,0,None,None,0,0
-2498,SC 9 SC 905 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+2497,SC 905 ,1 ,1,1,None,None,0,0,None,None,0,0
+2498,SC 905 ,1 ,1,1,None,None,0,0,None,None,0,0
 2499,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2500,SC 9 SC 905 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+2500,SC 905 ,1 ,1,1,None,None,0,0,None,None,0,0
 2501,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2502,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2503,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2504,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2505,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
+2505,US 378 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
 2506,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2507,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2508,SC 5 SC 544 ,1 2 ,1,2,None,None,0,0,None,None,0,0
-2509,SC 5 SC 544 ,1 2 ,1,2,None,None,0,0,None,None,0,0
-2510,SC 5 SC 544 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+2508,SC 544 ,1 ,1,1,None,None,0,0,None,None,0,0
+2509,SC 544 ,1 ,1,1,None,None,0,0,None,None,0,0
+2510,SC 544 ,1 ,1,1,None,None,0,0,None,None,0,0
 2511,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2512,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
+2512,US 378 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
 2513,None,None,0,0,None,None,0,0,None,None,0,0
 2514,None,None,0,0,None,None,0,0,None,None,0,0
 2515,None,None,0,0,None,None,0,0,None,None,0,0
 2516,None,None,0,0,None,None,0,0,None,None,0,0
-2517,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
+2517,US 378 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
 2518,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2519,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
+2519,US 378 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
 2520,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2521,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,5 ,1,1
+2521,US 378 ,1 ,1,1,None,None,0,0,conway ,5 ,1,1
 2522,None,None,0,0,None,None,0,0,conway ,7 ,1,1
 2523,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2524,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
+2524,US 378 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
 2525,None,None,0,0,None,None,0,0,conway ,8 ,1,1
 2526,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2527,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2528,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
-2529,SC 2 SC 22 ,1 2 ,1,2,horry county ,6 ,1,1,brunson conway ,8 12 ,1,2
+2528,US 378 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
+2529,SC 22 ,1 ,1,1,horry county ,6 ,1,1,brunson conway ,8 12 ,1,2
 2530,None,None,0,0,horry county ,6 ,1,1,brunson ,8 ,1,1
 2531,None,None,0,0,horry county ,10 ,1,1,brunson ,12 ,1,1
-2532,SC 2 SC 22 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
-2533,SC 2 SC 22 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
+2532,SC 22 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
+2533,SC 22 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
 2534,None,None,0,0,horry county ,5 ,1,1,brunson ,7 ,1,1
 2535,None,None,0,0,horry county ,9 ,1,1,brunson ,11 ,1,1
 2536,None,None,0,0,None,None,0,0,conway ,8 ,1,1
-2537,SC 2 SC 22 ,1 2 ,1,2,None,None,0,0,conway ,5 ,1,1
-2538,SC 2 SC 22 ,1 2 ,1,2,horry county ,6 ,1,1,brunson conway ,8 12 ,1,2
-2539,SC 2 SC 22 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
-2540,SC 2 SC 22 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
-2541,SC 2 SC 22 ,1 2 ,1,2,None,None,0,0,conway ,5 ,1,1
-2542,SC 2 SC 22 ,1 2 ,1,2,None,None,0,0,conway ,5 ,1,1
-2543,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,5 ,1,1
+2537,SC 22 ,1 ,1,1,None,None,0,0,conway ,5 ,1,1
+2538,SC 22 ,1 ,1,1,horry county ,6 ,1,1,brunson conway ,8 12 ,1,2
+2539,SC 22 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
+2540,SC 22 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
+2541,SC 22 ,1 ,1,1,None,None,0,0,conway ,5 ,1,1
+2542,SC 22 ,1 ,1,1,None,None,0,0,conway ,5 ,1,1
+2543,US 378 ,1 ,1,1,None,None,0,0,conway ,5 ,1,1
 2544,None,None,0,0,None,None,0,0,None,None,0,0
-2545,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,10 ,1,1
-2546,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,10 ,1,1
-2547,SC 2 SC 22 SC 544 ,1 2 3 ,1,3,None,None,0,0,conway conway ,6 10 ,1,2
+2545,US 378 ,1 ,1,1,None,None,0,0,conway ,10 ,1,1
+2546,US 378 ,1 ,1,1,None,None,0,0,conway ,10 ,1,1
+2547,SC 22 SC 544 ,1 2 ,1,2,None,None,0,0,conway conway ,6 10 ,1,2
 2548,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2549,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2550,SC 2 SC 22 SC 544 ,1 2 3 ,1,3,None,None,0,0,conway conway ,6 10 ,1,2
-2551,SC 2 SC 22 ,1 2 ,1,2,horry county ,5 ,1,1,brunson conway ,7 11 ,1,2
+2550,SC 22 SC 544 ,1 2 ,1,2,None,None,0,0,conway conway ,6 10 ,1,2
+2551,SC 22 ,1 ,1,1,horry county ,5 ,1,1,brunson conway ,7 11 ,1,2
 2552,I-20 ,1 ,1,1,None,None,0,0,None,None,0,0
 2553,I-20 ,1 ,1,1,None,None,0,0,None,None,0,0
 2554,I-20 ,1 ,1,1,None,None,0,0,None,None,0,0
-2555,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
-2556,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,10 ,1,1
-2557,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
-2558,US 3 US 378 ,1 2 ,1,2,None,None,0,0,conway ,9 ,1,1
-2559,US 7 US 701 ,1 2 ,1,2,None,None,0,0,conway ,5 ,1,1
-2560,US 7 US 701 ,1 2 ,1,2,None,None,0,0,conway ,7 ,1,1
-2561,US 7 US 701 ,1 2 ,1,2,None,None,0,0,conway ,7 ,1,1
-2562,US 7 US 701 ,1 2 ,1,2,None,None,0,0,conway ,6 ,1,1
+2555,US 378 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
+2556,US 378 ,1 ,1,1,None,None,0,0,conway ,10 ,1,1
+2557,US 378 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
+2558,US 378 ,1 ,1,1,None,None,0,0,conway ,9 ,1,1
+2559,US 701 ,1 ,1,1,None,None,0,0,conway ,5 ,1,1
+2560,US 701 ,1 ,1,1,None,None,0,0,conway ,7 ,1,1
+2561,US 701 ,1 ,1,1,None,None,0,0,conway ,7 ,1,1
+2562,US 701 ,1 ,1,1,None,None,0,0,conway ,6 ,1,1
 2563,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2564,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2565,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
@@ -2599,10 +2599,10 @@
 2597,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2598,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2599,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
-2600,US 5 US 501 ,1 2 ,1,2,None,None,0,0,None,None,0,0
-2601,US 5 US 501 ,1 2 ,1,2,None,None,0,0,None,None,0,0
-2602,US 5 US 501 ,1 2 ,1,2,None,None,0,0,None,None,0,0
-2603,US 5 US 501 ,1 2 ,1,2,None,None,0,0,None,None,0,0
+2600,US 501 ,1 ,1,1,None,None,0,0,None,None,0,0
+2601,US 501 ,1 ,1,1,None,None,0,0,None,None,0,0
+2602,US 501 ,1 ,1,1,None,None,0,0,None,None,0,0
+2603,US 501 ,1 ,1,1,None,None,0,0,None,None,0,0
 2604,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2605,I-95 ,1 ,1,1,None,None,0,0,None,None,0,0
 2606,I-20 ,1 ,1,1,None,None,0,0,None,None,0,0
@@ -2642,13 +2642,13 @@
 2640,I-85 ,1 ,1,1,None,None,0,0,None,None,0,0
 2641,I-85 ,1 ,1,1,None,None,0,0,None,None,0,0
 2642,I-385 ,1 ,1,1,None,None,0,0,None,None,0,0
-2643,I-77 US 21 SC 16 SC 161 ,1 2 3 4 ,1,4,None,None,0,0,None,None,0,0
-2644,I-77 US 21 SC 16 SC 161 ,1 2 3 4 ,1,4,None,None,0,0,None,None,0,0
+2643,I-77 US 21 SC 161 ,1 2 3 ,1,3,None,None,0,0,None,None,0,0
+2644,I-77 US 21 SC 161 ,1 2 3 ,1,3,None,None,0,0,None,None,0,0
 2645,I-85 ,1 ,1,1,None,None,0,0,None,None,0,0
 2646,I-85 ,1 ,1,1,None,None,0,0,None,None,0,0
 2647,I-26 ,1 ,1,1,None,None,0,0,None,None,0,0
 2648,I-85 ,1 ,1,1,None,None,0,0,None,None,0,0
-2649,I-385 SC 14 SC 146 ,1 2 3 ,1,3,greenville county greenville county ,6 10 ,1,2,greenville woodruff greenville ,6 9 10 ,1,3
+2649,I-85 I-385 SC 146 ,1 2 3 ,1,3,greenville county greenville county ,6 10 ,1,2,greenville woodruff greenville ,6 9 10 ,1,3
 2650,I-85 ,1 ,1,1,None,None,0,0,None,None,0,0
 2651,I-85 SC 146 ,1 2 ,1,2,greenville county ,13 ,1,1,woodruff greenville ,12 13 ,1,2
 2652,I-85 SC 146 ,1 2 ,1,2,greenville county ,7 ,1,1,woodruff greenville ,6 7 ,1,2
@@ -2661,7 +2661,7 @@
 2659,I-85 ,1 ,1,1,None,None,0,0,None,None,0,0
 2660,I-85 ,1 ,1,1,None,None,0,0,None,None,0,0
 2661,I-385 ,1 ,1,1,None,None,0,0,None,None,0,0
-2662,I-385 SC 14 SC 146 ,1 2 3 ,1,3,greenville county greenville county ,5 9 ,1,2,greenville woodruff greenville ,5 8 9 ,1,3
+2662,I-85 I-385 SC 146 ,1 2 3 ,1,3,greenville county greenville county ,5 9 ,1,2,greenville woodruff greenville ,5 8 9 ,1,3
 2663,I-85 SC 146 ,1 2 ,1,2,greenville county ,12 ,1,1,woodruff greenville ,11 12 ,1,2
 2664,I-85 SC 146 ,1 2 ,1,2,greenville county ,6 ,1,1,woodruff greenville ,5 6 ,1,2
 2665,I-85 ,1 ,1,1,None,None,0,0,None,None,0,0
@@ -2985,9 +2985,9 @@
 2983,I-77 ,1 ,1,1,None,None,0,0,None,None,0,0
 2984,I-77 ,1 ,1,1,None,None,0,0,None,None,0,0
 2985,I-77 ,1 ,1,1,None,None,0,0,None,None,0,0
-2986,I-77 US 76 SC 2 SC 262 ,1 2 3 4 ,1,4,None,None,0,0,columbia ,8 ,1,1
+2986,I-77 US 76 SC 262 ,1 2 3 ,1,3,None,None,0,0,columbia ,8 ,1,1
 2987,I-77 ,1 ,1,1,None,None,0,0,None,None,0,0
-2988,I-77 US 76 SC 2 SC 262 ,1 2 3 4 ,1,4,None,None,0,0,columbia ,7 ,1,1
+2988,I-77 US 76 SC 262 ,1 2 3 ,1,3,None,None,0,0,columbia ,7 ,1,1
 2989,I-77 ,1 ,1,1,None,None,0,0,None,None,0,0
 2990,I-77 ,1 ,1,1,None,None,0,0,None,None,0,0
 2991,I-77 ,1 ,1,1,None,None,0,0,None,None,0,0
