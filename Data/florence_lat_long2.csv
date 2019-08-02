@@ -1,0 +1,101 @@
+,x,y,match_scores,matched_addresses
+0,None,None,None,None
+1,None,None,None,None
+2,None,None,None,None
+3,None,None,None,None
+4,None,None,None,None
+5,None,None,None,None
+6,"-78.63834670287177,-79.09141652870422","35.77731462819098,35.800384048112704","88.54,86.19","I-40, mile marker 293, raleigh, North Carolina, USA,I-40, mile marker 293, North Carolina, USA"
+7,None,None,None,None
+8,"-78.83014999999995,-79.09153271022532","35.82305000000008,35.8004023925634","85.12,86.19","I-40, mile marker 285, morrisville, North Carolina, USA,I-40, mile marker 285, North Carolina, USA"
+9,"-78.89643999999998,-79.09197759064469","35.995420000000024,35.80039459192186","83.16,86.19","I-40, mile marker 270, durham, North Carolina, USA,I-40, mile marker 270, North Carolina, USA"
+10,"-77.66087901901783,-79.09146747129577","36.18225714150756,35.8002499518873","84.48,86.19","I-40, mile marker 290, cary, North Carolina, USA,I-40, mile marker 290, North Carolina, USA"
+11,None,None,None,None
+12,"-79.76072559117165,-78.37624743216557","36.07774223337748,35.667414556466134","85.23,86.4","I-40, mile marker 279, durham, North Carolina, USA,I-40, mile marker 279, North Carolina, USA"
+13,"-79.76072559117165,-78.37624743216557","36.07774223337748,35.667414556466134","85.23,86.4","I-40, mile marker 279, durham, North Carolina, USA,I-40, mile marker 279, North Carolina, USA"
+14,"-79.76072559117165,-78.37624743216557","36.07774223337748,35.667414556466134","85.23,86.4","I-40, mile marker 279, durham, North Carolina, USA,I-40, mile marker 279, North Carolina, USA"
+15,"-78.63835778239638,-79.09146747129577","35.77717372627719,35.8002499518873","88.54,86.19","I-40, mile marker 290, raleigh, North Carolina, USA,I-40, mile marker 290, North Carolina, USA"
+16,"-78.91426403148101,-79.62664990409058","35.89145322149752,35.212140720959816","86.15,87.63","NC 147, mile marker 9, durham, North Carolina, USA,NC 147, mile marker 9, North Carolina, USA"
+17,None,None,None,None
+18,None,None,None,None
+19,"-78.90209632785103,-79.09196250482267","35.99685256044414,35.80101175472444","88.36,86.19","I-85, mile marker 183, durham, North Carolina, USA,I-85, mile marker 183, North Carolina, USA"
+20,"-78.65416327375212,-78.8211604352264,-78.65416327375212,-78.8211604352264,-78.65416327375212,-78.27927632795294,-78.799752,-78.799752","35.71957845249576,35.24228859523734,35.71957845249576,35.24228859523734,35.71957845249576,35.631003775976716,35.582751,35.582751","87.79,87.42,85.85,85.04,90.79,85.56,95.65,96.79","US 401 & maintenance lane, raleigh, North Carolina, USA,US 401 & maintenance lane, North Carolina, USA,US 401 & time maintenance lane, raleigh, North Carolina, USA,US 401 & time maintenance lane, North Carolina, USA,US 401 & nig heights, raleigh, North Carolina, USA,US 401 & nig heights, North Carolina, USA,US 401 & raleigh nig heights, raleigh, North Carolina, USA,US 401 & raleigh nig heights, North Carolina, USA"
+21,"-78.19720999999998,-79.09207993492342","36.44575000000003,35.80098312839499","83.59,86.19","I-85, mile marker 226, norlina, North Carolina, USA,I-85, mile marker 226, North Carolina, USA"
+22,None,None,None,None
+23,"-78.65416327375212,-78.8211604352264,-78.643188,-78.8211604352264","35.71957845249576,35.24228859523734,35.784018,35.24228859523734","87.27,86.77,92.18,92.17","US 401 & vehicle crash lane, raleigh, North Carolina, USA,US 401 & vehicle crash lane, North Carolina, USA,US 401 & crash lane, raleigh, North Carolina, USA,US 401 & crash lane, North Carolina, USA"
+24,"-78.48222999999996,-79.09197998057458","35.790350000000046,35.800797052629484","84.76,86.19","I-87, mile marker 423, knightdale, North Carolina, USA,I-87, mile marker 423, North Carolina, USA"
+25,"-78.19720999999998,-79.09207993492342","36.44575000000003,35.80098312839499","83.59,86.19","I-85, mile marker 226, norlina, North Carolina, USA,I-85, mile marker 226, North Carolina, USA"
+26,"-78.6383768499735,-79.0916716008558","35.777315672246445,35.800421123268215","88.54,86.19","I-40, mile marker 283, raleigh, North Carolina, USA,I-40, mile marker 283, North Carolina, USA"
+27,"-82.42689635659367,-77.94644231279932","35.28967476227089,34.23553031115454","85.78,86.19","I-85, mile marker 223, henderson, North Carolina, USA,I-85, mile marker 223, North Carolina, USA"
+28,"-82.42689635659367,-77.94644231279932","35.28967476227089,34.23553031115454","85.78,86.19","I-85, mile marker 223, henderson, North Carolina, USA,I-85, mile marker 223, North Carolina, USA"
+29,"-78.6383768499735,-79.0916716008558","35.777315672246445,35.800421123268215","88.54,86.19","I-40, mile marker 283, raleigh, North Carolina, USA,I-40, mile marker 283, North Carolina, USA"
+30,"-79.28628983076871,-78.81282999999996,-79.32786999999996,-79.28628983076871","35.556414118681246,35.24684000000008,35.59232000000003,35.556414118681246","88.07,82.22,84.62,88.07","US 421 & maintenance lane, goldston, North Carolina, USA,US 421 & maintenance lane, North Carolina, USA,US 421 & goldston maintenance lane, goldston, North Carolina, USA,US 421 & goldston maintenance lane, North Carolina, USA"
+31,"-78.6383768499735,-79.0916716008558","35.777315672246445,35.800421123268215","88.54,86.19","I-40, mile marker 283, raleigh, North Carolina, USA,I-40, mile marker 283, North Carolina, USA"
+32,"-78.89643999999998,-79.09177963496674","35.995420000000024,35.80029030031406","83.16,86.19","I-40, mile marker 278, durham, North Carolina, USA,I-40, mile marker 278, North Carolina, USA"
+33,"-78.89643999999998,-79.09177963496674","35.995420000000024,35.80029030031406","83.16,86.19","I-40, mile marker 278, durham, North Carolina, USA,I-40, mile marker 278, North Carolina, USA"
+34,"-78.89643999999998,-79.09177963496674","35.995420000000024,35.80029030031406","83.16,86.19","I-40, mile marker 278, durham, North Carolina, USA,I-40, mile marker 278, North Carolina, USA"
+35,"-78.12524999999994,-77.94844197890818","35.59672000000006,34.23537644214889","82.7,86.19","I-95, mile marker 107, kenly, North Carolina, USA,I-95, mile marker 107, North Carolina, USA"
+36,"-78.63833350175769,-78.37624743216557","35.77717288538927,35.667414556466134","88.54,86.4","I-40, mile marker 298, raleigh, North Carolina, USA,I-40, mile marker 298, North Carolina, USA"
+37,"-78.63833350175769,-78.37624743216557","35.77717288538927,35.667414556466134","88.54,86.4","I-40, mile marker 298, raleigh, North Carolina, USA,I-40, mile marker 298, North Carolina, USA"
+38,None,None,None,None
+39,"-78.63834067345142,-79.09138748332394","35.777314419379884,35.80037946200002","88.54,86.19","I-40, mile marker 295, raleigh, North Carolina, USA,I-40, mile marker 295, North Carolina, USA"
+40,"-78.63378145597024,-79.09209554549503","35.80968774188072,35.800791341372246","87.46,84.86","I-440, mile marker 7, raleigh, North Carolina, USA,I-440, mile marker 7, North Carolina, USA"
+41,"-78.63836479113282,-79.09150366484505","35.77731525462426,35.800397806450725","88.54,86.19","I-40, mile marker 287, raleigh, North Carolina, USA,I-40, mile marker 287, North Carolina, USA"
+42,"-78.63836479113282,-79.09150366484505","35.77731525462426,35.800397806450725","88.54,86.19","I-40, mile marker 287, raleigh, North Carolina, USA,I-40, mile marker 287, North Carolina, USA"
+43,"-78.63904371043941,-79.09198027183712","35.777197481360936,35.80079347426123","84.21,85.29","US 64, mile marker 427, raleigh, North Carolina, USA,US 64, mile marker 427, North Carolina, USA"
+44,"-78.48222999999996,-79.09198012620584","35.790350000000046,35.80079526344536","84.19,85.29","US 64, mile marker 425, knightdale, North Carolina, USA,US 64, mile marker 425, North Carolina, USA"
+45,"-78.63904371043941,-79.09198027183712","35.777197481360936,35.80079347426123","84.21,85.29","US 64, mile marker 427, raleigh, North Carolina, USA,US 64, mile marker 427, North Carolina, USA"
+46,"-78.68392292270525,-77.30321419870674,-78.68392292270525,-77.30321419870674","35.929562525910946,38.19521389157637,35.929562525910946,38.19521389157637","91.25,86.92,86.98,80.75","NC 50 & crash road, raleigh, North Carolina, USA,NC 50 & crash road, North Carolina, USA,NC 50 & vehicle crash road, raleigh, North Carolina, USA,NC 50 & vehicle crash road, North Carolina, USA"
+47,None,None,None,None
+48,"-78.63918479229989,-79.09190608104461","35.77734365293308,35.801071651186355","87.56,85.01","I-440, mile marker 15, raleigh, North Carolina, USA,I-440, mile marker 15, North Carolina, USA"
+49,None,None,None,None
+50,"-78.31525999999997,-79.09198085436218","35.825270000000046,35.80078631752474","82.44,84.45","US 264, mile marker 435, zebulon, North Carolina, USA,US 264, mile marker 435, North Carolina, USA"
+51,"-78.31525999999997,-79.09198085436218","35.825270000000046,35.80078631752474","83,85.29","US 64, mile marker 435, zebulon, North Carolina, USA,US 64, mile marker 435, North Carolina, USA"
+52,"-78.45807416355986,-76.47280085789716","35.31652633233726,36.18866047403209","89.49,86.19","I-40, mile marker 325, benson, North Carolina, USA,I-40, mile marker 325, North Carolina, USA"
+53,None,None,None,None
+54,"-78.63920760475058,-78.98848999999996","35.77720315735439,34.68165000000005","87.56,87.81","I-440, mile marker 10, raleigh, North Carolina, USA,I-440, mile marker 10, North Carolina, USA"
+55,"-78.63911655235549,-79.11337387166006","35.77720000402469,34.50131674132955","85.16,86.19","I-40, mile marker 303, raleigh, North Carolina, USA,I-40, mile marker 303, North Carolina, USA"
+56,None,None,None,None
+57,None,None,None,None
+58,None,None,None,None
+59,"-78.63836479113282,-79.09150366484505","35.77731525462426,35.800397806450725","88.54,86.19","I-40, mile marker 287, raleigh, North Carolina, USA,I-40, mile marker 287, North Carolina, USA"
+60,"-78.84656082128134,-79.09203630556465","35.74629457084068,35.80111975725678","83.47,85.92","US 1, mile marker 98, apex, North Carolina, USA,US 1, mile marker 98, North Carolina, USA"
+61,None,None,None,None
+62,None,None,None,None
+63,"-79.09943999999996,-79.09196104851002","36.07621000000006,35.80102964656569","85.45,86.19","I-85, mile marker 163, hillsborough, North Carolina, USA,I-85, mile marker 163, North Carolina, USA"
+64,None,None,None,None
+65,"-80.81743883823981,-79.75132490689013","35.570565589419566,34.911641976946285","88.14,86.77","NC 540, mile marker 67, morrisville, North Carolina, USA,NC 540, mile marker 67, North Carolina, USA"
+66,"-78.84656082128134,-79.09203527270644","35.74629457084068,35.801121346269404","83.47,85.92","US 1, mile marker 96, apex, North Carolina, USA,US 1, mile marker 96, North Carolina, USA"
+67,"-78.64266999999995,-78.81282999999996,-78.4064205,-78.81282999999996","35.785510000000045,35.24684000000008,36.27234,35.24684000000008","81.9,82.86,86.29,88.57","US 1 & vehicle crash lane, raleigh, North Carolina, USA,US 1 & vehicle crash lane, North Carolina, USA,US 1 & crash lane, raleigh, North Carolina, USA,US 1 & crash lane, North Carolina, USA"
+68,"-78.63911655235549,-79.11337387166006","35.77720000402469,34.50131674132955","85.16,86.19","I-40, mile marker 303, raleigh, North Carolina, USA,I-40, mile marker 303, North Carolina, USA"
+69,"-78.63911655235549,-79.11337387166006","35.77720000402469,34.50131674132955","85.16,86.19","I-40, mile marker 303, raleigh, North Carolina, USA,I-40, mile marker 303, North Carolina, USA"
+70,None,None,None,None
+71,"-78.63920760475058,-78.98848999999996","35.77720315735439,34.68165000000005","87.56,87.81","I-440, mile marker 10, raleigh, North Carolina, USA,I-440, mile marker 10, North Carolina, USA"
+72,None,None,None,None
+73,"-78.63894658788465,-79.09203527270644","35.77719411780925,35.801121346269404","88.36,85.92","US 1, mile marker 96, raleigh, North Carolina, USA,US 1, mile marker 96, North Carolina, USA"
+74,None,None,None,None
+75,"-78.63894658788465,-79.09203527270644","35.77719411780925,35.801121346269404","88.36,85.92","US 1, mile marker 96, raleigh, North Carolina, USA,US 1, mile marker 96, North Carolina, USA"
+76,"-78.63378145597024,-79.09209554549503","35.80968774188072,35.800791341372246","87.46,84.86","I-440, mile marker 8, raleigh, North Carolina, USA,I-440, mile marker 8, North Carolina, USA"
+77,None,None,None,None
+78,None,None,None,None
+79,None,None,None,None
+80,None,None,None,None
+81,None,None,None,None
+82,None,None,None,None
+83,None,None,None,None
+84,None,None,None,None
+85,None,None,None,None
+86,None,None,None,None
+87,None,None,None,None
+88,None,None,None,None
+89,"-78.63920760475058,-78.98848999999996","35.77720315735439,34.68165000000005","87.56,87.81","I-440, mile marker 10, raleigh, North Carolina, USA,I-440, mile marker 10, North Carolina, USA"
+90,None,None,None,None
+91,None,None,None,None
+92,None,None,None,None
+93,None,None,None,None
+94,None,None,None,None
+95,None,None,None,None
+96,"-78.25129556397134,-77.30321419870674,-78.25129556397134,-77.30321419870674","35.70869771192996,38.19521389157637,35.70869771192996,38.19521389157637","91.71,86.92,87.56,80.75","NC 39 & crash road, middlesex, North Carolina, USA,NC 39 & crash road, North Carolina, USA,NC 39 & vehicle crash road, middlesex, North Carolina, USA,NC 39 & vehicle crash road, North Carolina, USA"
+97,"-78.12524999999994,-77.01997851177232","35.59672000000006,35.06189730195063","82.7,86.19","I-95, mile marker 106, kenly, North Carolina, USA,I-95, mile marker 106, North Carolina, USA"
+98,"-78.12524999999994,-77.94844197890818","35.59672000000006,34.23537644214889","82.7,86.19","I-95, mile marker 107, kenly, North Carolina, USA,I-95, mile marker 107, North Carolina, USA"
+99,None,None,None,None
