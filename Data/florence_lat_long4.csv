@@ -1,0 +1,101 @@
+,x,y,match_scores,matched_addresses
+0,"-78.78097316876706,-79.18541791299998","35.74951770690656,35.53934433500007","85.97,80","NC 96 & event road, North Carolina, USA,NC 96 & weather event road, North Carolina, USA"
+1,None,None,None,None
+2,"-78.54101595292505,-78.97608,-78.54101595292505,-78.97608","35.38957386311313,34.80723900000001,35.38957386311313,34.80723900000001","91.25,84.73,86.98,79.01","US 301 & event road, benson, North Carolina, USA,US 301 & event road, North Carolina, USA,US 301 & weather event road, benson, North Carolina, USA,US 301 & weather event road, North Carolina, USA"
+3,None,None,None,None
+4,None,None,None,None
+5,None,None,None,None
+6,"-78.89643999999998,-79.09186370052078","35.995420000000024,35.80047552130703","83.16,86.19","I-40, mile marker 273, durham, North Carolina, USA,I-40, mile marker 273, North Carolina, USA"
+7,"-78.63270123843098,-79.09210284015467","35.809712909638165,35.80070172126816","90.64,84.86","I-540, mile marker 9, raleigh, North Carolina, USA,I-540, mile marker 9, North Carolina, USA"
+8,None,None,None,None
+9,"-78.6057525,-78.316281","34.628886,34.95309300000001","84.73,82.07","US 701 & event road, North Carolina, USA,US 701 & weather event road, North Carolina, USA"
+10,None,None,None,None
+11,None,None,None,None
+12,"-78.63378145597024,-79.09209554549503","35.80968774188072,35.800791341372246","87.46,84.86","I-440, mile marker 1, raleigh, North Carolina, USA,I-440, mile marker 1, North Carolina, USA"
+13,None,None,None,None
+14,"-78.63270123843098,-79.09210284015467","35.809712909638165,35.80070172126816","90.64,84.86","I-540, mile marker 7, raleigh, North Carolina, USA,I-540, mile marker 7, North Carolina, USA"
+15,"-78.63270123843098,-79.09210284015467","35.809712909638165,35.80070172126816","90.64,84.86","I-540, mile marker 7, raleigh, North Carolina, USA,I-540, mile marker 7, North Carolina, USA"
+16,"-78.89643999999998,-79.0916716008558","35.995420000000024,35.800421123268215","83.16,86.19","I-40, mile marker 283, durham, North Carolina, USA,I-40, mile marker 283, North Carolina, USA"
+17,None,None,None,None
+18,None,None,None,None
+19,"-78.45807416355986,-76.47227983236193","35.31652633233726,36.18865949956732","89.49,86.19","I-40, mile marker 319, benson, North Carolina, USA,I-40, mile marker 319, North Carolina, USA"
+20,None,None,None,None
+21,None,None,None,None
+22,"-78.45807416355986,-79.09208795904901","35.31652633233726,35.80088454628049","89.49,86.19","I-40, mile marker 336, benson, North Carolina, USA,I-40, mile marker 336, North Carolina, USA"
+23,None,None,None,None
+24,"-78.45807416355986,-76.47280085789716","35.31652633233726,36.18866047403209","89.49,86.19","I-40, mile marker 325, benson, North Carolina, USA,I-40, mile marker 325, North Carolina, USA"
+25,"-78.584517,-79.709823,-77.01758099999999,-78.643188,-78.62303999999995,-78.81282999999996,-77.01758099999999,-78.28557612932613","35.696321999999995,36.087120000000006,35.056242,35.784018,35.70644000000004,35.24684000000008,35.056242,35.631750323000645","97.25,97.5,86.29,90.14,80.95,82.22,87.37,87.01","US 70 & us-70 ea street, garner, North Carolina, USA,US 70 & us-70 ea street, North Carolina, USA,US 70 & crash lane, garner, North Carolina, USA,US 70 & crash lane, North Carolina, USA,US 70 & vehicle crash lane, garner, North Carolina, USA,US 70 & vehicle crash lane, North Carolina, USA,US 70 & ea street, garner, North Carolina, USA,US 70 & ea street, North Carolina, USA"
+26,None,None,None,None
+27,None,None,None,None
+28,None,None,None,None
+29,"-78.4532898742448,-78.78097316876706,-78.4532898742448,-79.18541791299998","35.325482522515244,35.74951770690656,35.325482522515244,35.53934433500007","91,85.97,86.67,80","NC 96 & event road, benson, North Carolina, USA,NC 96 & event road, North Carolina, USA,NC 96 & weather event road, benson, North Carolina, USA,NC 96 & weather event road, North Carolina, USA"
+30,None,None,None,None
+31,None,None,None,None
+32,None,None,None,None
+33,"-79.24569841780203,-77.30321419870674,-79.24569841780203,-77.30321419870674","35.691798322268404,38.19521389157637,35.691798322268404,38.19521389157637","91.92,85.86,87.83,80.06","NC 902 & crash road, pittsboro, North Carolina, USA,NC 902 & crash road, North Carolina, USA,NC 902 & vehicle crash road, pittsboro, North Carolina, USA,NC 902 & vehicle crash road, North Carolina, USA"
+34,None,None,None,None
+35,None,None,None,None
+36,None,None,None,None
+37,None,None,None,None
+38,None,None,None,None
+39,None,None,None,None
+40,"-77.66087416669146,-79.0914384259155","36.18225290600235,35.80024536577463","84.48,86.19","I-40, mile marker 292, cary, North Carolina, USA,I-40, mile marker 292, North Carolina, USA"
+41,None,None,None,None
+42,"-78.90198888765516,-79.0920764334868","35.996805531539316,35.80102614604495","88.36,86.19","I-85, mile marker 178, durham, North Carolina, USA,I-85, mile marker 178, North Carolina, USA"
+43,None,None,None,None
+44,"-78.63911655235549,-79.06544226920204","35.77720000402469,35.880847228980286","85.16,86.19","I-40, mile marker 300, raleigh, North Carolina, USA,I-40, mile marker 300, North Carolina, USA"
+45,None,None,None,None
+46,None,None,None,None
+47,None,None,None,None
+48,None,None,None,None
+49,None,None,None,None
+50,None,None,None,None
+51,None,None,None,None
+52,None,None,None,None
+53,None,None,None,None
+54,"-78.63911655235549,-79.09208577065112","35.77720000402469,35.80091143231172","85.16,86.19","I-40, mile marker 306, raleigh, North Carolina, USA,I-40, mile marker 306, North Carolina, USA"
+55,None,None,None,None
+56,None,None,None,None
+57,None,None,None,None
+58,None,None,None,None
+59,None,None,None,None
+60,"-80.81743883823981,-79.75132490689013","35.570565589419566,34.911641976946285","88.14,86.77","NC 540, mile marker 67, morrisville, North Carolina, USA,NC 540, mile marker 67, North Carolina, USA"
+61,None,None,None,None
+62,None,None,None,None
+63,None,None,None,None
+64,"-78.63896773316743,-79.09197998057458","35.777336135733684,35.800797052629484","85.16,86.19","I-87, mile marker 423, raleigh, North Carolina, USA,I-87, mile marker 423, North Carolina, USA"
+65,"-78.63270123843098,-79.09195846487485","35.809712909638165,35.801199774119425","89.84,85.01","I-540, mile marker 26, raleigh, North Carolina, USA,I-540, mile marker 26, North Carolina, USA"
+66,"-78.63919082172023,-77.94927039800334","35.77734386174417,34.235318398291795","87.56,85.01","I-440, mile marker 13, raleigh, North Carolina, USA,I-440, mile marker 13, North Carolina, USA"
+67,"-78.39179120170847,-83.08636635345376","34.79137520279204,35.515396634196996","84.07,85.92","US 1, mile marker 99, cary, North Carolina, USA,US 1, mile marker 99, North Carolina, USA"
+68,"-78.62303999999995,-79.09197167959242","35.70644000000004,35.80089903612459","83.16,86.19","I-40, mile marker 309, garner, North Carolina, USA,I-40, mile marker 309, North Carolina, USA"
+69,"-78.37624743216557,-76.47206866763806","35.667414556466134,36.18871448211084","88.82,86.19","I-40, mile marker 312, clayton, North Carolina, USA,I-40, mile marker 312, North Carolina, USA"
+70,"-78.37624743216557,-76.47206866763806","35.667414556466134,36.18871448211084","88.82,86.19","I-40, mile marker 312, clayton, North Carolina, USA,I-40, mile marker 312, North Carolina, USA"
+71,None,None,None,None
+72,"-78.31525999999997,-79.09209525370865","35.825270000000046,35.80079492617641","83,85.29","US 64, mile marker 436, zebulon, North Carolina, USA,US 64, mile marker 436, North Carolina, USA"
+73,"-78.31525999999997,-79.09209525370865","35.825270000000046,35.80079492617641","83,85.29","US 64, mile marker 436, zebulon, North Carolina, USA,US 64, mile marker 436, North Carolina, USA"
+74,"-78.63920153459091,-77.94933807646143","35.777202947132416,34.2352485905997","87.56,85.01","I-440, mile marker 12, raleigh, North Carolina, USA,I-440, mile marker 12, North Carolina, USA"
+75,None,None,None,None
+76,"-78.63920153459091,-77.94933807646143","35.777202947132416,34.2352485905997","87.56,85.01","I-440, mile marker 12, raleigh, North Carolina, USA,I-440, mile marker 12, North Carolina, USA"
+77,None,None,None,None
+78,"-78.63911655235549,-79.06544226920204","35.77720000402469,35.880847228980286","85.16,86.19","I-40, mile marker 300, raleigh, North Carolina, USA,I-40, mile marker 300, North Carolina, USA"
+79,"-78.63911655235549,-79.11337387166006","35.77720000402469,34.50131674132955","85.16,86.19","I-40, mile marker 303, raleigh, North Carolina, USA,I-40, mile marker 303, North Carolina, USA"
+80,"-77.66080458920862,-79.09150366484505","36.18236199957147,35.800397806450725","84.48,86.19","I-40, mile marker 287, cary, North Carolina, USA,I-40, mile marker 287, North Carolina, USA"
+81,"-77.66080458920862,-79.09150366484505","36.18236199957147,35.800397806450725","84.48,86.19","I-40, mile marker 287, cary, North Carolina, USA,I-40, mile marker 287, North Carolina, USA"
+82,"-78.20469999999995,-79.46946866472388","35.56304000000006,35.19575852207277","82.7,86.19","I-95, mile marker 100, micro, North Carolina, USA,I-95, mile marker 100, North Carolina, USA"
+83,"-78.79437999999999,-78.79437999999999,-78.79437999999999,-78.94119999999998,-78.94119999999998,-78.94119999999998","35.84751000000006,35.84751000000006,35.84751000000006,35.907700000000034,35.907700000000034,35.907700000000034","87.57,77.15,95.19,86.24,96.5,93.73","I-40, exit 285, king, North Carolina, USA,I-40, exit 285, fayetteville, North Carolina, USA,I-40, exit 285, North Carolina, USA,I-40, exit 276, king, North Carolina, USA,I-40, exit 276, fayetteville, North Carolina, USA,I-40, exit 276, North Carolina, USA"
+84,None,None,None,None
+85,"-78.67602,-78.66669784079957,-78.67602,-82.04098999999997,-82.04098999999997,-82.04098999999997","35.329617,35.202680824637454,35.329617,35.64453000000003,35.64453000000003,35.64453000000003","94.74,97.31,98.16,74.88,73.09,95.44","I-40 & NC 82, johnston county, North Carolina, USA,I-40 & NC 82, cumberland county, North Carolina, USA,I-40 & NC 82, North Carolina, USA,I-40, exit 81, johnston county, North Carolina, USA,I-40, exit 81, cumberland county, North Carolina, USA,I-40, exit 81, North Carolina, USA"
+86,"-77.99511966180968,-77.08776297358834,-77.90066889439665,-78.84278999999998,-78.84278999999998,-78.84278999999998","35.37073652207277,35.58840664683715,34.0210001740147,35.711820000000046,35.711820000000046,35.711820000000046","92.93,92.16,92.8,63.44,67.23,75.11","I-95 & NC 403, wilmington, North Carolina, USA,I-95 & NC 403, benson, North Carolina, USA,I-95 & NC 403, North Carolina, USA,I-95, exit 328, wilmington, North Carolina, USA,I-95, exit 328, benson, North Carolina, USA,I-95, exit 328, North Carolina, USA"
+87,"-81.78262999999998,-81.78262999999998,-81.78262999999998,-81.78262999999998","35.70650000000006,35.70650000000006,35.70650000000006,35.70650000000006","77.84,84.56,86.18,93.95","I-40, exit 98, wake county, North Carolina, USA,I-40, exit 98, tryon, North Carolina, USA,I-40, exit 98, king, North Carolina, USA,I-40, exit 98, North Carolina, USA"
+88,None,None,None,None
+89,None,None,None,None
+90,None,None,None,None
+91,None,None,None,None
+92,None,None,None,None
+93,None,None,None,None
+94,None,None,None,None
+95,None,None,None,None
+96,None,None,None,None
+97,None,None,None,None
+98,None,None,None,None
+99,None,None,None,None
