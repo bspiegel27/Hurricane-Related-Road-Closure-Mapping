@@ -16,9 +16,15 @@ Twitter Searching Criteria
 
 Tweet Text Cleaning
 
-Geographic Feature Tagging
+Road Status Determination
 
-Once tweets were gathered, we read through a variety of tweets to understand how road incidents were communicated. We noticed a variety of trends that drove geographic feature tagging. First, tweets describing a road incident are almost always about a major highway, with that highway typically mentioned early on in the tweet. Second, a combination of supporting areas (cities, towns, and counties) and intersecting or nearby roads (exits are often mentioned. 
+# Geographic Feature Tagging
+
+The goal of this piece of the analysis is to construct detailed addresses that will enable accurate plotting on a map.
+We read through a variety of tweets to understand how road incidents were communicated. We noticed a variety of trends that drove geographic feature tagging. First, tweets describing a road incident are almost always about a major highway, with that highway typically mentioned early on in the tweet. Second, supporting areas (cities, towns, and counties) and/or intersecting or nearby roads are used to describe where along a highway the incident occurred. Third, typos and abbreviations are extremely common and needed to be accounted for. The first step in the analysis involved gathering lists of geographic features.
+Highways were gathered largely from wikipedia and state dept of transportation accounts, and included main and auxiliary interstates, US routes, and state highways. County highways and local roads were not included as lists of these roads are typically stored on individual state county websites or not at all. However, to identify presence of roads, we did create a list of road suffixes (eg avenue, street, lane) such that we could identify presence of a road without knowing its name. Improvement to our list generation could be made by determining how to extract layers from exising map APIs to create a database of street and road names. Cities and counties were siimlarly gathered from wikipedia. Individual exits and mile markers were not gathered, though
+
+
 
 Geocoding
 
