@@ -12,11 +12,19 @@ Below is a summary of each key step in the process described above, including a 
 
 # News Source Selection
 
+
 # Twitter Searching Criteria
 
+  Our process of collecting live data from Twitter involved knowing the area in which the past hurricanes, Michael and Florence, had already made landfall. We gathered local news and 511 twitter accounts from the cities that were impacted during the hurricanes. Using this list of Twitter accounts ansd Twitter API we were able to scrape tweets during the specific timeframes of each hurricane. We captured tweets from roughly three days before the hurricane made landfall and the seven days following. For the actual process of scraping tweets, we used the package [GetOldTweets3](https://pypi.org/project/
+  GetOldTweets3/), which allowed scraping for tweets past the 7 day limit that the Twitter API is limited to. This package also allowed to set certain parameters, such as the dates of the hurricane and the list of accounts associated with the area at risk. This parameter setting ability allowed the scraper to pinpoint tweets that were likely to be hurricane related tweets, so there wouldn't be many irrelavant tweets. Using this process, we were able to gather about 15,000 tweets for the two hurricanes that we were focussing on. The scraped data included the date and time of the tweet, username of the tweet, the body text of the tweet, and the hashtags included. 
+  
 # Tweet Text Cleaning
 
+From the ~15,000 tweets collected each tweet contained very important information in the text field, however, extracting this data from thousands of tweets was crititcal in pinpointing the location of a road incident. In order to do so, we needed to remove certain attributes of each tweet so that we were left with only important information relating to road closures. First, we removed any hyperlinks or image links that were included in the body text as these would only cause issues later down during the feature tagging portion. After all links were removed, the next step was to remove special characters. When doing this, we were very catious of which characters to remove. For example, we didnt remove any colon's due to the fact that they could be related to time. Other puncuaiton, like commas, periods, semicolons, and parentheses were removed from all text. Also, all text was set to be lowercased, so we do miss any words or abbreviations that were capitalized. Once all unnecessary  characters and attributes were removed, we split each body of text into a string of words. Doing this allows us to search for specific words, which we do in the next section. 
+
 # Road Status Determination
+
+After quick analysis of the text in each tweet, we noticed that a fair amount of the tweets were actually in relation to a road re-opening or had nothing to do with road closures at all. We decided it would be crititcal to categorize all tweets by the status of the road mentioned and if the tweet was not in relation to a road at all it would be removed. First, we created a list of sinmilar things words for the two status', open and closed. For example, words like 'cleared' or 'fixed' would be included in the 'open' list and words similar to 'blocked' or 'flooded' would be included in the 'closed' list. Once the lists were complete, we searched each tweet text for all of the words of each list. After doing so, there we found that there were many tweets that contained both words in the closed and opened list. After futher analysis, these tweets were all stating that roads were re-opned. Knowing this, we decided to only keep tweets that contained only closed words and remove all words that contained an open word or nothing at all.
 
 # Geographic Feature Tagging
 
@@ -34,6 +42,6 @@ Once a list of addresses are created for each tweet, we then had to convert this
 
 For each address generated in the prior step, we use arcGIS to generate lat/long coordinates. Thenm using arcGIS's match score (out of 100) for each address within a tweet, we then assign each tweet the best possible match when one is found. In many cases, there are multiple incidents described within one tweet, or the incident lies in between two exits. The former isn't something we accounted for and could be added in further iterations of this project. For cases of the the latter, our method will result in plotting of one of the ends of an incident as opposed to plotting a point in between two sections of a highway. More advanced NLP to understand how different addresses identified within a tweet relate to each other could be used to improve our mapping of tweets when more than one accurate address/set of coordinates are identified.
 
-# Mapping
+Once we were abe to generate a list of lat/long coordinates, we were now ready to plot the coordinates on a map. After searching for different ways to plot coordinates, we found that using the Bokeh package along with the GoogleMaps API. Bokeh simplifies the process of plotting longitude and latidue as well as allowing for different mapping customization. We have included a short tutorial for plotting with Bokeh that can be found below. For the best accuracy of our map, we chose to plot only the coordinates with a score of 90 and above. The charts we produced were easy to interpret, customized, and could be processed very quickly.
 
-File Structure and Other Details
+[Mapping Data with Bokeh](https://www.youtube.com/watch?v=P60qokxPPZc)
